@@ -1,0 +1,401 @@
+transaction_id,customer_id,transaction_date,transaction_amount,payment_method,merchant_category,status,city,device_type,fraud_flag,account_balance
+1,1081,27-02-2024,59.77,UPI,Electronics,Completed,Bangalore,Tablet,0,6799.32
+2,1069,14-02-2024,1185.08,Credit Card,Groceries,Completed,Ahmedabad,Mobile,0,5656.33
+3,1091,28-11-2024,1405.64,Net Banking,Electronics,Pending,Pune,Mobile,0,7011.58
+4,1043,22-05-2024,319.4,UPI,Groceries,Completed,Hyderabad,Mobile,0,8490.19
+5,1077,15-05-2024,1616.19,Net Banking,Entertainment,Completed,Hyderabad,Mobile,0,8311.11
+6,1079,04-07-2024,1158.93,Credit Card,Groceries,Failed,Ahmedabad,Desktop,0,8567.65
+7,1012,13-07-2024,563.17,UPI,Electronics,Pending,Chennai,Mobile,0,7048.02
+8,1087,27-11-2024,152.09,Debit Card,Entertainment,Failed,Ahmedabad,Mobile,1,3856.61
+9,1081,18-12-2024,1118.33,UPI,Healthcare,Completed,Ahmedabad,Mobile,0,4071.53
+10,1008,18-04-2024,1827.14,Wallet,Utilities,Pending,Ahmedabad,Tablet,1,4016.76
+11,1082,22-08-2024,294.31,Debit Card,Electronics,Failed,Pune,Tablet,1,8988.45
+12,1051,04-07-2024,446.45,Debit Card,Entertainment,Pending,Delhi,Mobile,0,1613.13
+13,1020,14-12-2024,850.1,Credit Card,Food,Pending,Kolkata,Tablet,0,9713.68
+14,1001,14-12-2024,1444.24,Wallet,Healthcare,Pending,Chennai,Mobile,0,4404.18
+15,1058,02-01-2024,1908.09,UPI,Entertainment,Completed,Delhi,Tablet,0,8432.53
+16,1064,07-11-2024,405.83,UPI,Healthcare,Completed,Mumbai,Tablet,0,4937.2
+17,1014,04-07-2024,1758.66,UPI,Electronics,Completed,Ahmedabad,Tablet,0,947.97
+18,1062,05-02-2024,1956.19,Wallet,Healthcare,Completed,Bangalore,Tablet,1,9473.8
+19,1021,15-05-2024,1060.07,Wallet,Food,Completed,Ahmedabad,Tablet,0,4050.02
+20,1085,28-11-2024,753.11,Wallet,Food,Completed,Ahmedabad,Mobile,0,3447.05
+21,1075,10-10-2024,467.93,Debit Card,Groceries,Completed,Mumbai,Mobile,0,9063.66
+22,1042,06-02-2024,1033.17,UPI,Utilities,Pending,Ahmedabad,Tablet,0,7261.19
+23,1073,22-10-2024,950.62,Net Banking,Healthcare,Pending,Ahmedabad,Mobile,0,6623.93
+24,1045,04-08-2024,828.09,Credit Card,Utilities,Failed,Delhi,Mobile,1,7309.31
+25,1013,07-05-2024,391.26,Wallet,Food,Completed,Hyderabad,Mobile,0,4680.02
+26,1009,14-08-2024,1617.96,Wallet,Groceries,Completed,Mumbai,Mobile,0,1746.48
+27,1062,03-09-2024,435.36,Net Banking,Groceries,Completed,Hyderabad,Mobile,1,2725.51
+28,1100,20-08-2024,577.65,Wallet,Utilities,Failed,Kolkata,Mobile,0,3037.41
+29,1007,23-10-2024,1474.12,Credit Card,Utilities,Pending,Mumbai,Mobile,1,5078.22
+30,1067,21-03-2024,123.19,Wallet,Groceries,Completed,Delhi,Tablet,0,6784.6
+31,1030,25-07-2024,248.57,Wallet,Electronics,Failed,Mumbai,Tablet,0,4250.33
+32,1074,16-10-2024,1050.34,UPI,Electronics,Failed,Chennai,Mobile,0,4018.28
+33,1085,26-11-2024,606.99,UPI,Healthcare,Completed,Mumbai,Desktop,0,825.28
+34,1027,16-09-2024,537.75,UPI,Groceries,Completed,Chennai,Desktop,0,4438.03
+35,1069,26-12-2024,612.01,Wallet,Groceries,Failed,Pune,Tablet,0,9395.41
+36,1017,15-05-2024,239.7,Credit Card,Utilities,Failed,Bangalore,Desktop,0,6087.82
+37,1091,24-06-2024,415.16,UPI,Entertainment,Pending,Pune,Mobile,0,6379.42
+38,1035,23-01-2024,17.06,Debit Card,Utilities,Pending,Bangalore,Tablet,1,5561.64
+39,1054,14-10-2024,29.24,Credit Card,Utilities,Completed,Mumbai,Desktop,0,4354.89
+40,1005,06-06-2024,735.66,Credit Card,Travel,Completed,Ahmedabad,Tablet,0,3601.42
+41,1071,27-07-2024,1947.94,Debit Card,Electronics,Completed,Bangalore,Desktop,0,1875.67
+42,1042,29-07-2024,1606.45,Debit Card,Travel,Completed,Delhi,Desktop,0,8600.07
+43,1028,12-04-2024,1635.01,Net Banking,Travel,Pending,Ahmedabad,Mobile,0,6634.33
+44,1051,17-06-2024,564.42,Credit Card,Healthcare,Pending,Chennai,Tablet,1,6827.23
+45,1068,18-06-2024,1879.08,Credit Card,Travel,Completed,Pune,Mobile,0,6006.06
+46,1044,09-06-2024,878.42,Wallet,Groceries,Pending,Ahmedabad,Desktop,0,7116.97
+47,1000,23-09-2024,1851.89,Wallet,Utilities,Failed,Ahmedabad,Desktop,1,792.74
+48,1085,18-06-2024,1250.08,Credit Card,Utilities,Pending,Pune,Tablet,1,3329.21
+49,1089,31-05-2024,1113.28,Debit Card,Food,Failed,Hyderabad,Tablet,0,6193.6
+50,1038,26-07-2024,1100.4,Credit Card,Travel,Pending,Ahmedabad,Desktop,0,4703.38
+51,1056,11-12-2024,435.27,Net Banking,Healthcare,Failed,Bangalore,Tablet,0,2909.49
+52,1084,20-11-2024,1242.33,Credit Card,Healthcare,Completed,Pune,Mobile,0,1558.8
+53,1005,05-05-2024,1968.03,Wallet,Healthcare,Completed,Kolkata,Desktop,0,7211.62
+54,1049,10-09-2024,805.31,Debit Card,Utilities,Failed,Mumbai,Mobile,1,2266.53
+55,1089,22-09-2024,934.45,Wallet,Electronics,Completed,Kolkata,Mobile,1,6709.02
+56,1071,31-10-2024,641.42,Net Banking,Entertainment,Failed,Hyderabad,Tablet,1,8982.36
+57,1095,31-08-2024,905.64,Debit Card,Healthcare,Failed,Pune,Tablet,1,6304.81
+58,1035,13-08-2024,164.19,UPI,Electronics,Pending,Chennai,Desktop,0,1469.9
+59,1029,15-07-2024,1390.96,Debit Card,Groceries,Pending,Hyderabad,Desktop,1,4216.16
+60,1026,03-08-2024,785.06,Wallet,Utilities,Completed,Hyderabad,Desktop,0,9433.14
+61,1038,18-07-2024,1708.36,Net Banking,Entertainment,Failed,Ahmedabad,Desktop,0,2802.06
+62,1062,15-01-2024,783.83,Net Banking,Utilities,Completed,Kolkata,Mobile,0,9078.6
+63,1075,15-10-2024,1329.37,Credit Card,Utilities,Pending,Bangalore,Desktop,0,597.82
+64,1048,16-06-2024,431.2,UPI,Travel,Pending,Pune,Desktop,0,8365.62
+65,1060,10-01-2024,1500.56,Credit Card,Travel,Completed,Delhi,Tablet,0,7566.91
+66,1031,12-04-2024,1680.07,Wallet,Electronics,Completed,Bangalore,Desktop,0,5683.3
+67,1027,26-08-2024,1401.94,UPI,Electronics,Failed,Delhi,Mobile,0,1170.18
+68,1003,08-06-2024,1155.84,Net Banking,Food,Failed,Ahmedabad,Mobile,0,1108.82
+69,1098,03-06-2024,1702.08,Wallet,Healthcare,Completed,Mumbai,Desktop,1,6649.06
+70,1008,16-09-2024,1298.61,Credit Card,Healthcare,Pending,Kolkata,Mobile,1,9611.8
+71,1081,23-08-2024,1417.54,Net Banking,Electronics,Failed,Pune,Tablet,1,4702.25
+72,1093,30-10-2024,544.11,Debit Card,Healthcare,Completed,Pune,Desktop,0,7529.72
+73,1072,08-11-2024,1339.7,UPI,Groceries,Pending,Chennai,Mobile,1,2199.99
+74,1033,23-06-2024,566.52,Wallet,Utilities,Pending,Mumbai,Tablet,0,947.57
+75,1092,27-07-2024,982.27,Debit Card,Utilities,Pending,Kolkata,Desktop,0,1021.23
+76,1028,26-07-2024,1386.66,UPI,Utilities,Failed,Chennai,Desktop,0,4312.49
+77,1095,08-10-2024,668.27,Net Banking,Travel,Pending,Pune,Mobile,0,7240.71
+78,1040,02-03-2024,1488.33,Debit Card,Electronics,Completed,Kolkata,Desktop,0,9807.06
+79,1024,31-05-2024,462.69,Debit Card,Travel,Completed,Bangalore,Desktop,0,9745.52
+80,1070,29-05-2024,1397.86,Debit Card,Utilities,Pending,Delhi,Mobile,0,4747.03
+81,1056,23-06-2024,376.88,Credit Card,Travel,Pending,Delhi,Mobile,1,4968.29
+82,1073,18-11-2024,1376.04,Debit Card,Electronics,Failed,Pune,Mobile,0,1272.67
+83,1097,01-08-2024,1216.57,Wallet,Electronics,Failed,Hyderabad,Desktop,1,3043.8
+84,1075,07-08-2024,617.71,Wallet,Groceries,Failed,Delhi,Mobile,0,2720
+85,1010,21-03-2024,487.33,Wallet,Groceries,Completed,Mumbai,Desktop,1,6924.77
+86,1060,29-05-2024,74.95,UPI,Utilities,Pending,Kolkata,Mobile,0,9246.72
+87,1100,16-11-2024,1183.68,Debit Card,Food,Completed,Ahmedabad,Tablet,0,9093.27
+88,1018,06-02-2024,128.68,UPI,Entertainment,Failed,Pune,Desktop,0,4740.11
+89,1038,24-12-2024,810.99,UPI,Entertainment,Failed,Kolkata,Desktop,0,6020.56
+90,1055,14-06-2024,1211.39,Credit Card,Groceries,Completed,Mumbai,Tablet,0,5804.85
+91,1097,30-03-2024,946.3,Net Banking,Travel,Completed,Hyderabad,Tablet,1,9693.65
+92,1060,27-06-2024,822.61,UPI,Utilities,Completed,Bangalore,Desktop,1,6967.37
+93,1036,05-12-2024,1890.94,Wallet,Groceries,Pending,Delhi,Desktop,0,3300.41
+94,1098,25-07-2024,1731.17,Credit Card,Utilities,Failed,Kolkata,Desktop,0,1957.07
+95,1046,14-11-2024,1515.32,Net Banking,Healthcare,Completed,Ahmedabad,Desktop,0,9283.96
+96,1056,23-12-2024,974.58,Credit Card,Utilities,Failed,Ahmedabad,Tablet,0,3176.43
+97,1001,09-10-2024,821.9,Debit Card,Healthcare,Completed,Kolkata,Mobile,0,5033.92
+98,1091,29-05-2024,1022.66,UPI,Food,Pending,Kolkata,Mobile,1,5557.52
+99,1049,07-04-2024,1844.52,Wallet,Utilities,Completed,Delhi,Desktop,1,3464.76
+100,1100,16-09-2024,541.67,Credit Card,Travel,Failed,Pune,Tablet,1,8666.08
+101,1057,02-10-2024,973.84,UPI,Entertainment,Failed,Hyderabad,Desktop,0,8709.06
+102,1089,02-05-2024,1147.88,Debit Card,Healthcare,Pending,Mumbai,Desktop,1,7081.76
+103,1048,16-07-2024,1976.94,Debit Card,Food,Completed,Bangalore,Tablet,0,8710.03
+104,1056,21-02-2024,1056.64,Net Banking,Groceries,Failed,Bangalore,Desktop,0,840.8
+105,1100,15-05-2024,683.74,Net Banking,Utilities,Completed,Chennai,Tablet,1,9545.98
+106,1080,06-09-2024,1746.04,Credit Card,Entertainment,Completed,Ahmedabad,Tablet,0,9974.52
+107,1095,16-02-2024,873.6,Credit Card,Healthcare,Failed,Delhi,Desktop,0,6970.61
+108,1003,24-01-2024,655.51,Credit Card,Travel,Pending,Chennai,Desktop,0,2517.55
+109,1052,16-10-2024,1366.78,Debit Card,Electronics,Completed,Delhi,Tablet,1,6235.13
+110,1030,11-09-2024,1826.53,Debit Card,Electronics,Pending,Pune,Desktop,0,6701.72
+111,1059,27-05-2024,1358.45,Debit Card,Groceries,Pending,Chennai,Tablet,0,6425.49
+112,1054,19-12-2024,507.7,UPI,Electronics,Pending,Kolkata,Mobile,0,3875.51
+113,1045,21-10-2024,598.79,UPI,Groceries,Failed,Hyderabad,Desktop,0,5702.7
+114,1087,26-01-2024,1822.13,Net Banking,Healthcare,Pending,Ahmedabad,Tablet,0,2268.14
+115,1024,13-11-2024,508.75,Debit Card,Utilities,Completed,Mumbai,Desktop,1,430.31
+116,1046,08-03-2024,189.37,UPI,Travel,Failed,Hyderabad,Mobile,0,1408.38
+117,1069,06-07-2024,1066.4,UPI,Healthcare,Completed,Pune,Desktop,0,7490.94
+118,1043,28-02-2024,941.98,Credit Card,Electronics,Completed,Hyderabad,Tablet,0,994
+119,1050,08-01-2024,536.27,Credit Card,Food,Pending,Pune,Tablet,1,8241.93
+120,1047,25-02-2024,1352.92,Net Banking,Groceries,Failed,Chennai,Tablet,0,6511.76
+121,1081,25-08-2024,1819.68,UPI,Utilities,Pending,Delhi,Mobile,0,9467.99
+122,1038,09-09-2024,241.08,Debit Card,Entertainment,Completed,Hyderabad,Desktop,0,6737.81
+123,1095,22-12-2024,1892.49,Net Banking,Entertainment,Failed,Bangalore,Desktop,0,8353.56
+124,1078,27-07-2024,1878.72,UPI,Groceries,Failed,Chennai,Mobile,1,4502.49
+125,1030,04-07-2024,207.72,UPI,Entertainment,Failed,Chennai,Mobile,1,2831.23
+126,1015,20-08-2024,192.43,Debit Card,Utilities,Failed,Mumbai,Mobile,0,2511.33
+127,1016,16-10-2024,418.36,Wallet,Electronics,Failed,Ahmedabad,Mobile,0,7766.25
+128,1100,01-11-2024,15.64,Debit Card,Electronics,Failed,Pune,Mobile,0,6644.47
+129,1003,08-03-2024,39.57,Debit Card,Entertainment,Pending,Mumbai,Mobile,0,618.75
+130,1094,03-08-2024,1056.91,Credit Card,Food,Pending,Chennai,Tablet,0,4574.85
+131,1028,10-11-2024,96.3,Wallet,Travel,Pending,Mumbai,Mobile,1,8488.26
+132,1054,17-12-2024,224.84,Net Banking,Groceries,Completed,Chennai,Tablet,0,750.25
+133,1035,15-11-2024,1269.82,Wallet,Utilities,Pending,Hyderabad,Tablet,0,4591.78
+134,1077,08-08-2024,207.37,Credit Card,Healthcare,Failed,Ahmedabad,Desktop,1,8892.1
+135,1052,22-06-2024,1656.56,Net Banking,Food,Failed,Delhi,Desktop,1,3193.98
+136,1032,10-07-2024,1907.65,Net Banking,Groceries,Completed,Delhi,Mobile,1,1055.99
+137,1094,09-07-2024,1625.42,Wallet,Groceries,Failed,Chennai,Tablet,0,4167.01
+138,1085,04-08-2024,1737.5,Credit Card,Travel,Failed,Pune,Desktop,0,5821.39
+139,1027,20-03-2024,1316.91,Debit Card,Healthcare,Completed,Chennai,Tablet,0,1237.36
+140,1035,20-10-2024,460.06,Net Banking,Healthcare,Failed,Mumbai,Tablet,0,386.64
+141,1034,25-12-2024,1527.19,UPI,Travel,Completed,Bangalore,Mobile,1,788.9
+142,1094,20-11-2024,1943.9,Credit Card,Utilities,Failed,Ahmedabad,Desktop,1,4591.09
+143,1020,08-07-2024,630.16,UPI,Healthcare,Failed,Delhi,Mobile,0,1658.36
+144,1079,26-01-2024,1351.2,UPI,Food,Failed,Hyderabad,Desktop,1,4200.42
+145,1027,19-09-2024,236.5,Net Banking,Groceries,Pending,Kolkata,Tablet,0,549.63
+146,1050,02-11-2024,119.02,Debit Card,Travel,Completed,Bangalore,Desktop,0,3348.41
+147,1000,11-09-2024,1496.56,Debit Card,Electronics,Pending,Ahmedabad,Tablet,0,813.55
+148,1094,22-01-2024,878.08,Net Banking,Groceries,Pending,Hyderabad,Tablet,1,7124.04
+149,1053,28-05-2024,239.2,Credit Card,Travel,Completed,Kolkata,Tablet,0,972.49
+150,1013,04-05-2024,877,Net Banking,Entertainment,Completed,Hyderabad,Desktop,0,2293.56
+151,1099,27-03-2024,161.99,Credit Card,Entertainment,Failed,Ahmedabad,Desktop,0,7301.05
+152,1082,16-03-2024,480.18,Debit Card,Travel,Completed,Bangalore,Tablet,0,7626.13
+153,1083,08-02-2024,362.52,Net Banking,Food,Failed,Kolkata,Tablet,0,8656.04
+154,1080,10-06-2024,310.41,Credit Card,Food,Pending,Pune,Desktop,0,3584.23
+155,1009,07-06-2024,928.87,Credit Card,Groceries,Pending,Pune,Mobile,0,6188.58
+156,1064,15-07-2024,930.8,Wallet,Healthcare,Failed,Mumbai,Desktop,0,3283.11
+157,1060,13-09-2024,310.21,Credit Card,Food,Completed,Chennai,Tablet,0,5095.04
+158,1022,21-01-2024,503.01,Net Banking,Food,Failed,Bangalore,Desktop,0,9187.57
+159,1049,28-07-2024,1551.18,Wallet,Groceries,Failed,Chennai,Mobile,0,1035.61
+160,1086,16-07-2024,575.45,Wallet,Healthcare,Completed,Chennai,Mobile,0,9175.79
+161,1039,01-12-2024,1399.98,Net Banking,Electronics,Failed,Delhi,Desktop,1,6470.58
+162,1042,06-03-2024,1343.53,Wallet,Groceries,Failed,Hyderabad,Tablet,0,280.48
+163,1039,02-04-2024,1902.83,UPI,Healthcare,Pending,Ahmedabad,Mobile,0,1633.96
+164,1037,21-02-2024,1020.3,Wallet,Healthcare,Failed,Mumbai,Tablet,0,8776.29
+165,1079,08-03-2024,1198.52,Debit Card,Electronics,Completed,Bangalore,Tablet,1,532.56
+166,1046,12-12-2024,1441.98,Net Banking,Entertainment,Pending,Kolkata,Mobile,0,3163.73
+167,1100,28-08-2024,1808.91,Debit Card,Travel,Failed,Kolkata,Desktop,0,7803.43
+168,1064,27-09-2024,843.14,Debit Card,Healthcare,Completed,Bangalore,Desktop,0,6447.67
+169,1047,10-10-2024,1869.24,Wallet,Healthcare,Completed,Pune,Mobile,0,2800.63
+170,1065,16-03-2024,1663.78,Credit Card,Electronics,Pending,Chennai,Mobile,1,627.24
+171,1064,10-07-2024,479.2,Credit Card,Travel,Completed,Mumbai,Desktop,0,8407.85
+172,1083,20-06-2024,1584.85,Debit Card,Groceries,Pending,Kolkata,Tablet,0,7612.53
+173,1060,17-08-2024,1234.54,Credit Card,Groceries,Pending,Ahmedabad,Mobile,1,1200.75
+174,1036,01-05-2024,609.29,Credit Card,Electronics,Pending,Kolkata,Mobile,0,8383.21
+175,1063,01-11-2024,1076.75,Wallet,Entertainment,Completed,Bangalore,Desktop,1,115.49
+176,1045,03-05-2024,1145.62,Debit Card,Utilities,Failed,Delhi,Tablet,0,770.03
+177,1067,05-10-2024,1019.58,Wallet,Entertainment,Completed,Hyderabad,Desktop,0,6393.14
+178,1047,09-05-2024,1497.16,UPI,Healthcare,Completed,Chennai,Mobile,0,7737.86
+179,1094,19-06-2024,275.49,UPI,Entertainment,Pending,Bangalore,Tablet,1,9810.11
+180,1061,19-11-2024,372.73,Debit Card,Groceries,Failed,Kolkata,Mobile,0,2095.75
+181,1025,22-01-2024,638.04,UPI,Entertainment,Pending,Kolkata,Desktop,0,7557.58
+182,1024,26-05-2024,720.38,Credit Card,Healthcare,Failed,Chennai,Desktop,0,8013.49
+183,1055,23-07-2024,1489.18,Net Banking,Travel,Completed,Kolkata,Tablet,1,3736.73
+184,1066,16-05-2024,1604.28,Net Banking,Groceries,Pending,Bangalore,Tablet,0,3279.99
+185,1010,16-06-2024,1325.23,UPI,Food,Failed,Hyderabad,Mobile,1,3580.32
+186,1005,29-06-2024,1233.55,Net Banking,Travel,Failed,Mumbai,Mobile,1,3696.78
+187,1095,13-12-2024,328.37,Credit Card,Electronics,Failed,Kolkata,Mobile,0,765.61
+188,1099,26-11-2024,738.99,Net Banking,Entertainment,Completed,Bangalore,Tablet,1,9493.35
+189,1047,15-08-2024,1528.54,Wallet,Electronics,Failed,Chennai,Desktop,0,6530.65
+190,1031,28-02-2024,61.57,Debit Card,Food,Failed,Hyderabad,Tablet,0,2691.59
+191,1033,26-12-2024,898.08,Wallet,Travel,Failed,Kolkata,Mobile,0,1443.71
+192,1009,19-08-2024,353.59,Net Banking,Groceries,Failed,Chennai,Tablet,0,7124.45
+193,1070,04-10-2024,587.82,UPI,Healthcare,Completed,Bangalore,Desktop,0,1301.49
+194,1025,12-03-2024,481.11,Net Banking,Groceries,Pending,Chennai,Desktop,0,6158.29
+195,1011,03-02-2024,625.49,Net Banking,Entertainment,Pending,Hyderabad,Tablet,0,1340.74
+196,1040,24-11-2024,157.59,Net Banking,Utilities,Failed,Chennai,Mobile,0,7701.04
+197,1016,09-08-2024,1010.7,Credit Card,Healthcare,Completed,Bangalore,Desktop,0,1703.47
+198,1090,25-04-2024,698.59,Wallet,Travel,Completed,Pune,Mobile,0,1339.19
+199,1038,10-11-2024,1071.62,Wallet,Utilities,Completed,Bangalore,Mobile,0,8441.05
+200,1072,22-01-2024,1652.22,Credit Card,Groceries,Completed,Pune,Tablet,0,7692.89
+201,1053,12-11-2024,1281.59,Net Banking,Utilities,Failed,Pune,Tablet,0,4881.15
+202,1087,26-07-2024,601.89,Credit Card,Utilities,Completed,Bangalore,Desktop,1,4894.09
+203,1026,23-06-2024,1217.25,UPI,Healthcare,Failed,Chennai,Tablet,0,9756.2
+204,1016,08-07-2024,1034.81,Credit Card,Travel,Completed,Kolkata,Mobile,0,4551
+205,1018,19-02-2024,110.7,Net Banking,Healthcare,Failed,Hyderabad,Mobile,0,8153.43
+206,1073,09-06-2024,387.77,Debit Card,Food,Failed,Kolkata,Desktop,0,5023.97
+207,1011,20-07-2024,1015.83,Debit Card,Electronics,Failed,Chennai,Mobile,0,2885.43
+208,1076,30-11-2024,1348.32,UPI,Entertainment,Completed,Delhi,Desktop,0,8836.31
+209,1093,06-07-2024,1530.07,UPI,Groceries,Pending,Mumbai,Tablet,0,3688.99
+210,1036,07-02-2024,778.83,Net Banking,Healthcare,Failed,Pune,Tablet,0,1373.77
+211,1012,20-07-2024,752.66,UPI,Entertainment,Pending,Bangalore,Mobile,1,5050.77
+212,1005,20-01-2024,282.7,UPI,Healthcare,Pending,Kolkata,Mobile,0,3346.86
+213,1078,12-06-2024,333.38,Wallet,Utilities,Pending,Chennai,Tablet,1,7116.52
+214,1038,31-08-2024,1633.34,UPI,Travel,Failed,Delhi,Desktop,0,7987.87
+215,1092,18-12-2024,1262.23,Wallet,Food,Pending,Ahmedabad,Tablet,0,5876.88
+216,1021,25-09-2024,1261.76,Wallet,Healthcare,Pending,Bangalore,Tablet,0,412.55
+217,1089,26-02-2024,389.66,Net Banking,Travel,Pending,Bangalore,Desktop,0,4162.74
+218,1099,09-11-2024,1841.84,Credit Card,Utilities,Completed,Ahmedabad,Tablet,0,9981.42
+219,1061,26-09-2024,759.88,Debit Card,Food,Failed,Chennai,Tablet,0,6791.1
+220,1092,14-12-2024,1290.19,UPI,Entertainment,Pending,Ahmedabad,Mobile,0,5625.06
+221,1028,01-06-2024,1544.64,Debit Card,Utilities,Failed,Kolkata,Desktop,1,3553.15
+222,1092,20-05-2024,582.7,Wallet,Utilities,Failed,Hyderabad,Desktop,0,9550.63
+223,1018,28-05-2024,93.71,Credit Card,Travel,Pending,Pune,Tablet,1,2218.47
+224,1068,18-05-2024,1866.72,UPI,Electronics,Completed,Ahmedabad,Mobile,0,6731.36
+225,1067,25-04-2024,1279.51,Credit Card,Groceries,Pending,Chennai,Tablet,1,1095.39
+226,1098,11-03-2024,20.31,Wallet,Electronics,Pending,Kolkata,Desktop,0,7583.52
+227,1036,13-06-2024,577.98,Credit Card,Healthcare,Completed,Ahmedabad,Tablet,0,9140.97
+228,1022,01-08-2024,1765.67,Debit Card,Groceries,Pending,Kolkata,Mobile,0,8779.76
+229,1001,01-06-2024,1140.24,Credit Card,Travel,Pending,Kolkata,Tablet,1,8903.67
+230,1017,15-09-2024,941.36,Debit Card,Healthcare,Completed,Chennai,Mobile,1,6518.02
+231,1091,05-04-2024,38.03,UPI,Healthcare,Pending,Ahmedabad,Mobile,1,8287.2
+232,1065,16-06-2024,182.61,Credit Card,Electronics,Completed,Kolkata,Desktop,0,167.62
+233,1049,30-04-2024,899,UPI,Travel,Pending,Mumbai,Desktop,0,6958.41
+234,1007,07-12-2024,245.27,UPI,Electronics,Pending,Pune,Tablet,0,6423.24
+235,1037,07-07-2024,1233.1,Debit Card,Electronics,Pending,Bangalore,Desktop,0,4216.87
+236,1070,29-08-2024,1517.13,Debit Card,Healthcare,Completed,Delhi,Tablet,1,5328.91
+237,1046,09-02-2024,1835.32,Credit Card,Groceries,Failed,Ahmedabad,Tablet,0,1728.92
+238,1066,14-08-2024,241.32,Debit Card,Utilities,Failed,Kolkata,Mobile,1,8106.05
+239,1058,08-03-2024,1031.36,Net Banking,Entertainment,Completed,Kolkata,Tablet,0,7260.47
+240,1050,10-05-2024,1634.74,Debit Card,Entertainment,Completed,Mumbai,Desktop,0,7033.81
+241,1069,31-01-2024,1869.82,Credit Card,Food,Completed,Pune,Desktop,0,7712.82
+242,1098,24-11-2024,1956.88,Net Banking,Travel,Pending,Kolkata,Desktop,1,894.47
+243,1084,03-10-2024,274.65,UPI,Groceries,Completed,Hyderabad,Tablet,0,7305.8
+244,1028,02-01-2024,1514.8,UPI,Food,Failed,Hyderabad,Tablet,1,8251.27
+245,1031,23-08-2024,698.86,UPI,Electronics,Failed,Delhi,Mobile,1,6187.74
+246,1002,03-05-2024,420.1,Credit Card,Entertainment,Completed,Kolkata,Tablet,0,2522.87
+247,1005,24-07-2024,883.54,Wallet,Electronics,Completed,Bangalore,Tablet,0,2418.2
+248,1093,21-10-2024,644.62,Wallet,Healthcare,Failed,Chennai,Mobile,0,8774.96
+249,1084,23-09-2024,449.88,UPI,Travel,Completed,Bangalore,Tablet,1,5602.92
+250,1006,25-06-2024,1883.76,Net Banking,Healthcare,Failed,Chennai,Tablet,1,4141.77
+251,1038,11-07-2024,375.92,Wallet,Food,Completed,Ahmedabad,Desktop,0,8077.18
+252,1007,14-10-2024,831.23,Net Banking,Entertainment,Failed,Bangalore,Desktop,0,2624.46
+253,1042,27-11-2024,167.35,Net Banking,Healthcare,Pending,Delhi,Tablet,0,610.21
+254,1048,10-12-2024,1213.89,Credit Card,Healthcare,Completed,Ahmedabad,Tablet,0,4846
+255,1042,04-06-2024,1914.47,Credit Card,Electronics,Completed,Delhi,Tablet,1,9152.97
+256,1089,05-11-2024,1410.5,Net Banking,Electronics,Failed,Chennai,Desktop,1,4715.88
+257,1083,02-07-2024,623.76,UPI,Entertainment,Pending,Kolkata,Mobile,1,7640.13
+258,1040,14-04-2024,747.7,Net Banking,Groceries,Failed,Ahmedabad,Tablet,0,260.58
+259,1070,26-10-2024,1162.49,Net Banking,Travel,Completed,Ahmedabad,Desktop,0,3860.41
+260,1031,12-09-2024,1105.78,UPI,Travel,Pending,Kolkata,Desktop,0,7354.45
+261,1045,27-03-2024,288.52,Wallet,Food,Completed,Mumbai,Tablet,0,8406.78
+262,1009,08-12-2024,106.54,Credit Card,Food,Completed,Ahmedabad,Mobile,0,190.5
+263,1064,21-08-2024,752.67,Wallet,Utilities,Failed,Kolkata,Tablet,1,255.74
+264,1068,09-10-2024,828.56,Credit Card,Entertainment,Failed,Pune,Tablet,0,269.71
+265,1089,11-12-2024,866.84,Debit Card,Groceries,Completed,Bangalore,Mobile,0,6235.83
+266,1032,30-06-2024,541.98,Net Banking,Groceries,Pending,Hyderabad,Desktop,0,9903.31
+267,1028,02-06-2024,1371.24,Credit Card,Utilities,Failed,Mumbai,Mobile,1,3854.71
+268,1070,31-08-2024,121.67,Credit Card,Utilities,Completed,Delhi,Desktop,1,6484.58
+269,1042,16-10-2024,1954.89,Credit Card,Entertainment,Completed,Ahmedabad,Mobile,1,2783.84
+270,1009,16-12-2024,1851.91,Wallet,Entertainment,Failed,Mumbai,Mobile,0,255.02
+271,1026,27-10-2024,296.94,Net Banking,Groceries,Pending,Bangalore,Tablet,0,5710.29
+272,1049,12-12-2024,1794.09,UPI,Food,Failed,Bangalore,Tablet,0,5057.85
+273,1044,28-01-2024,204.39,Debit Card,Healthcare,Completed,Chennai,Tablet,1,9692.31
+274,1041,16-01-2024,1271.9,Net Banking,Food,Completed,Chennai,Tablet,1,4375.29
+275,1087,26-10-2024,1324.74,Credit Card,Healthcare,Failed,Pune,Mobile,0,912.18
+276,1019,13-07-2024,1426.24,Debit Card,Utilities,Pending,Chennai,Desktop,0,1006.05
+277,1039,15-08-2024,726.24,UPI,Groceries,Completed,Delhi,Mobile,1,4543.55
+278,1071,19-09-2024,822.01,Credit Card,Groceries,Pending,Delhi,Tablet,0,8650.81
+279,1001,29-05-2024,833.48,Credit Card,Utilities,Failed,Ahmedabad,Tablet,0,6884.63
+280,1021,12-03-2024,545.15,UPI,Food,Completed,Delhi,Mobile,1,2832.02
+281,1038,04-09-2024,1567.51,UPI,Travel,Completed,Kolkata,Tablet,0,4632.83
+282,1017,04-06-2024,23.47,Net Banking,Travel,Failed,Hyderabad,Desktop,1,3413.89
+283,1083,31-10-2024,280.89,UPI,Entertainment,Failed,Ahmedabad,Desktop,0,1858.61
+284,1050,12-06-2024,589.98,Net Banking,Entertainment,Completed,Chennai,Desktop,0,8183.3
+285,1050,05-07-2024,236.64,Wallet,Electronics,Failed,Bangalore,Tablet,0,9534.75
+286,1059,28-12-2024,427.2,UPI,Healthcare,Failed,Delhi,Desktop,1,1477.87
+287,1038,03-05-2024,512.84,Debit Card,Utilities,Pending,Hyderabad,Mobile,1,9907.94
+288,1061,25-10-2024,807.6,Wallet,Healthcare,Failed,Hyderabad,Tablet,0,7928.14
+289,1046,25-12-2024,1792.05,Wallet,Entertainment,Failed,Delhi,Mobile,0,6610.26
+290,1045,26-03-2024,1297.53,Credit Card,Entertainment,Failed,Hyderabad,Desktop,1,1148.85
+291,1012,12-05-2024,451.78,Wallet,Entertainment,Failed,Ahmedabad,Desktop,0,3972.23
+292,1098,13-12-2024,1181.29,Wallet,Electronics,Pending,Mumbai,Desktop,0,3024.78
+293,1010,29-02-2024,1664.32,Debit Card,Travel,Pending,Chennai,Desktop,0,5259.04
+294,1044,31-08-2024,204.27,Net Banking,Travel,Completed,Pune,Mobile,0,323.59
+295,1043,27-11-2024,227.63,Debit Card,Utilities,Completed,Bangalore,Tablet,0,3376.8
+296,1054,24-08-2024,471.39,Net Banking,Utilities,Completed,Bangalore,Tablet,1,4016.27
+297,1094,10-11-2024,1767.36,Net Banking,Entertainment,Pending,Hyderabad,Mobile,0,2137.27
+298,1096,26-12-2024,1619.37,Credit Card,Entertainment,Completed,Bangalore,Desktop,0,2051.04
+299,1014,14-05-2024,1344.7,Net Banking,Entertainment,Failed,Chennai,Tablet,1,6151.95
+300,1075,28-02-2024,702.37,Net Banking,Entertainment,Completed,Pune,Tablet,0,6753.89
+301,1040,01-03-2024,484.76,Credit Card,Electronics,Pending,Bangalore,Tablet,1,4240.57
+302,1017,21-10-2024,773.58,Debit Card,Food,Failed,Bangalore,Tablet,0,4947.46
+303,1017,05-04-2024,636.01,Net Banking,Entertainment,Completed,Chennai,Mobile,1,1451.69
+304,1049,14-10-2024,1015.82,Net Banking,Food,Failed,Kolkata,Desktop,1,4938.13
+305,1010,16-10-2024,71.41,Debit Card,Travel,Completed,Pune,Mobile,0,1765.27
+306,1058,16-10-2024,1487.61,Net Banking,Entertainment,Failed,Delhi,Tablet,0,2752.1
+307,1069,06-07-2024,1088.67,Credit Card,Healthcare,Failed,Kolkata,Tablet,0,9898.78
+308,1013,30-11-2024,1505.18,UPI,Healthcare,Completed,Kolkata,Desktop,0,8635.78
+309,1011,12-08-2024,1731.93,Credit Card,Healthcare,Completed,Ahmedabad,Tablet,0,8624.38
+310,1078,19-11-2024,862.05,Wallet,Electronics,Completed,Ahmedabad,Mobile,0,5369.58
+311,1076,02-10-2024,345.07,UPI,Travel,Failed,Pune,Tablet,0,1442.33
+312,1096,29-07-2024,1838.35,UPI,Healthcare,Failed,Bangalore,Tablet,0,2571.8
+313,1091,13-06-2024,1658.68,Net Banking,Food,Completed,Pune,Tablet,1,3814.21
+314,1009,20-11-2024,1591.25,Credit Card,Food,Failed,Pune,Tablet,0,4601.49
+315,1062,16-06-2024,1168.09,Credit Card,Utilities,Pending,Chennai,Mobile,1,2256.52
+316,1054,18-04-2024,994.48,UPI,Healthcare,Pending,Chennai,Tablet,0,5704.81
+317,1062,24-06-2024,1789.37,Credit Card,Groceries,Completed,Kolkata,Mobile,0,9301.39
+318,1020,13-08-2024,918.47,Net Banking,Electronics,Failed,Bangalore,Tablet,0,1673.88
+319,1035,17-02-2024,1312.63,UPI,Groceries,Pending,Bangalore,Mobile,1,6293.48
+320,1092,24-12-2024,1512.91,Net Banking,Utilities,Completed,Delhi,Mobile,0,4820.39
+321,1016,30-10-2024,460.12,Net Banking,Groceries,Completed,Chennai,Mobile,1,6970.91
+322,1061,06-02-2024,465.6,Credit Card,Utilities,Completed,Delhi,Desktop,0,8821.79
+323,1017,14-07-2024,1549.19,Debit Card,Utilities,Failed,Bangalore,Mobile,0,6142.16
+324,1021,13-08-2024,708.86,Debit Card,Utilities,Failed,Bangalore,Desktop,1,8613.63
+325,1011,21-02-2024,288.63,Credit Card,Entertainment,Failed,Hyderabad,Desktop,1,3213.59
+326,1017,06-05-2024,561.17,Credit Card,Electronics,Failed,Pune,Tablet,0,8494.13
+327,1084,03-06-2024,418.84,Wallet,Entertainment,Completed,Hyderabad,Desktop,0,7859.64
+328,1030,10-09-2024,777.91,Debit Card,Food,Failed,Delhi,Tablet,0,9870.14
+329,1040,08-03-2024,779.81,Wallet,Food,Pending,Bangalore,Desktop,0,265.23
+330,1008,08-01-2024,531.75,Credit Card,Groceries,Pending,Pune,Tablet,1,4293.39
+331,1051,12-02-2024,1284.67,Wallet,Entertainment,Completed,Pune,Mobile,0,882.31
+332,1026,20-03-2024,1077.42,Net Banking,Entertainment,Failed,Delhi,Desktop,1,7326.59
+333,1030,30-01-2024,496.51,Net Banking,Groceries,Pending,Mumbai,Desktop,0,1282.49
+334,1090,11-03-2024,1405.98,Debit Card,Food,Pending,Pune,Mobile,0,1356.61
+335,1099,17-05-2024,1468.54,Credit Card,Healthcare,Completed,Chennai,Desktop,0,5286.16
+336,1033,30-12-2024,1950.35,Credit Card,Food,Pending,Chennai,Mobile,1,8607.66
+337,1021,07-07-2024,323.05,Credit Card,Entertainment,Failed,Delhi,Mobile,0,535.98
+338,1001,05-05-2024,101.5,UPI,Food,Completed,Bangalore,Mobile,1,2322.7
+339,1031,01-08-2024,1832.55,UPI,Travel,Completed,Chennai,Mobile,0,1875.51
+340,1066,24-01-2024,1908.62,Credit Card,Food,Pending,Pune,Desktop,0,5575.6
+341,1001,07-07-2024,409.34,Wallet,Healthcare,Pending,Ahmedabad,Desktop,0,5957.74
+342,1063,10-04-2024,1467.6,Wallet,Healthcare,Completed,Bangalore,Mobile,1,336.71
+343,1069,26-06-2024,1275.52,Credit Card,Travel,Completed,Hyderabad,Tablet,0,1129.1
+344,1067,01-05-2024,845.43,Credit Card,Electronics,Failed,Pune,Mobile,0,9220.62
+345,1066,30-07-2024,1404.69,UPI,Food,Failed,Delhi,Tablet,0,5103.73
+346,1081,20-07-2024,158.91,Wallet,Groceries,Pending,Bangalore,Mobile,0,2683.81
+347,1040,20-07-2024,1404.44,UPI,Travel,Pending,Pune,Mobile,0,9441.19
+348,1017,26-10-2024,226.86,Credit Card,Electronics,Pending,Kolkata,Desktop,1,1295.29
+349,1045,16-04-2024,909.31,Net Banking,Travel,Completed,Delhi,Mobile,0,8281.23
+350,1089,04-11-2024,90.26,UPI,Electronics,Completed,Ahmedabad,Desktop,1,5183.25
+351,1086,02-06-2024,527.73,Debit Card,Groceries,Pending,Kolkata,Tablet,0,1037.78
+352,1013,12-03-2024,251.69,Credit Card,Healthcare,Completed,Bangalore,Mobile,1,3785.17
+353,1080,26-11-2024,177.24,Wallet,Travel,Completed,Mumbai,Mobile,0,9034.71
+354,1056,06-03-2024,193.04,UPI,Groceries,Completed,Kolkata,Mobile,0,9248.9
+355,1055,21-07-2024,997.29,Net Banking,Utilities,Pending,Bangalore,Desktop,0,9092.21
+356,1035,23-05-2024,897.56,Debit Card,Groceries,Failed,Ahmedabad,Tablet,0,5039.03
+357,1070,02-09-2024,131.35,UPI,Food,Completed,Hyderabad,Mobile,0,6344.47
+358,1069,10-01-2024,1978.91,UPI,Food,Failed,Kolkata,Desktop,0,3944.97
+359,1023,14-01-2024,644.57,Debit Card,Groceries,Pending,Mumbai,Desktop,0,7691.74
+360,1029,22-03-2024,209.27,Debit Card,Travel,Failed,Mumbai,Mobile,1,3612.57
+361,1022,31-03-2024,480.74,UPI,Healthcare,Failed,Chennai,Tablet,0,7064.18
+362,1045,17-10-2024,1131.58,Wallet,Electronics,Pending,Pune,Mobile,1,475.84
+363,1007,29-04-2024,1207.31,Credit Card,Entertainment,Pending,Mumbai,Desktop,0,8083.81
+364,1043,31-03-2024,1838.37,UPI,Groceries,Completed,Bangalore,Tablet,0,7766.23
+365,1067,05-07-2024,1921.51,UPI,Utilities,Failed,Hyderabad,Tablet,0,3431.95
+366,1041,10-03-2024,1951.96,Net Banking,Healthcare,Failed,Kolkata,Tablet,0,1824.61
+367,1071,21-12-2024,1780.3,Wallet,Healthcare,Pending,Ahmedabad,Tablet,0,3846
+368,1093,18-12-2024,596.09,Debit Card,Utilities,Completed,Hyderabad,Tablet,0,1902.61
+369,1040,09-11-2024,449.58,Wallet,Groceries,Pending,Bangalore,Desktop,0,2456.16
+370,1040,26-03-2024,1276.01,Credit Card,Healthcare,Failed,Chennai,Desktop,0,2725.6
+371,1031,20-12-2024,144.91,UPI,Healthcare,Completed,Mumbai,Mobile,1,4438.38
+372,1053,26-03-2024,1770.26,Net Banking,Food,Pending,Hyderabad,Mobile,1,7908.43
+373,1073,29-11-2024,1518.9,Debit Card,Electronics,Pending,Delhi,Mobile,0,298.77
+374,1033,23-02-2024,157.66,Debit Card,Food,Completed,Delhi,Tablet,0,3445.71
+375,1078,04-09-2024,1411.96,Net Banking,Utilities,Completed,Hyderabad,Mobile,0,1102.45
+376,1026,07-04-2024,824.47,Wallet,Utilities,Failed,Pune,Tablet,0,3044.27
+377,1012,26-01-2024,791.88,Wallet,Healthcare,Pending,Bangalore,Mobile,0,137.77
+378,1011,30-05-2024,1649.56,Wallet,Food,Completed,Delhi,Mobile,0,1791.24
+379,1037,11-02-2024,952.41,Credit Card,Travel,Pending,Kolkata,Desktop,0,1002.26
+380,1069,17-07-2024,377.91,Net Banking,Travel,Completed,Kolkata,Mobile,0,4453.43
+381,1033,25-04-2024,1675.79,Wallet,Groceries,Completed,Delhi,Mobile,0,8100.98
+382,1052,28-10-2024,462.75,Credit Card,Healthcare,Pending,Hyderabad,Tablet,1,5769.87
+383,1030,31-08-2024,604.72,Net Banking,Healthcare,Failed,Mumbai,Tablet,0,1290.79
+384,1096,17-08-2024,354.03,Debit Card,Electronics,Completed,Bangalore,Mobile,1,875.85
+385,1087,10-08-2024,411.82,Debit Card,Healthcare,Failed,Pune,Desktop,0,961.57
+386,1071,22-07-2024,1108.59,UPI,Entertainment,Pending,Mumbai,Tablet,1,1213.94
+387,1019,16-03-2024,1137.52,Wallet,Healthcare,Completed,Delhi,Tablet,0,7878.88
+388,1068,25-06-2024,1757.01,UPI,Food,Failed,Kolkata,Tablet,1,470.91
+389,1035,25-07-2024,296.27,Wallet,Utilities,Failed,Hyderabad,Mobile,1,8906.78
+390,1042,19-12-2024,482.78,Net Banking,Travel,Pending,Mumbai,Desktop,0,3178.4
+391,1062,22-12-2024,1372.86,Debit Card,Electronics,Pending,Kolkata,Desktop,0,7315.11
+392,1077,26-11-2024,187.68,Net Banking,Electronics,Pending,Kolkata,Tablet,0,8228.07
+393,1065,22-03-2024,140.58,Wallet,Food,Completed,Mumbai,Mobile,0,8764.29
+394,1025,30-01-2024,506.49,Net Banking,Groceries,Pending,Ahmedabad,Desktop,0,8252.71
+395,1064,22-07-2024,1274.47,Credit Card,Utilities,Completed,Ahmedabad,Desktop,1,5981.03
+396,1022,30-08-2024,1177.89,UPI,Travel,Completed,Pune,Tablet,0,2922.19
+397,1049,26-01-2024,334.19,Wallet,Healthcare,Completed,Ahmedabad,Tablet,0,6809.18
+398,1034,29-11-2024,824.92,Credit Card,Healthcare,Failed,Mumbai,Desktop,0,6508.98
+399,1076,05-01-2024,455.3,Wallet,Healthcare,Pending,Pune,Desktop,1,8530.7
+400,1058,09-05-2024,444.24,UPI,Utilities,Failed,Hyderabad,Tablet,0,172.74

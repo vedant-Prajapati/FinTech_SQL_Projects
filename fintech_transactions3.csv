@@ -1,0 +1,1601 @@
+﻿transaction_id,customer_id,customer_name,customer_segment,transaction_date,transaction_time,payment_method,transaction_amount,currency,merchant_category,merchant_name,transaction_status,fraud_flag,account_balance,device_type,location,success_rate,customer_lifetime_value,previous_transactions,average_transaction_value,risk_score
+TXN1101,CUS101,Christopher Lee,Premium,2024-03-05,09:20:00,Credit Card,5670.00,USD,Investment,Bloomberg,Completed,0,48900.00,Mobile,Alexandria,0.96,52300,187,345.00,42
+TXN1102,CUS102,Stephanie Walker,Standard,2024-03-05,14:45:00,Debit Card,890.00,USD,Retail,Target,Completed,0,6700.00,Desktop,Portland,0.97,8900,41,112.00,18
+TXN1103,CUS103,Nicholas Perez,Basic,2024-03-05,20:30:00,PayPal,67.99,USD,Grocery,Trader Joe's,Completed,0,540.00,Mobile,Springfield,0.99,1300,7,21.00,4
+TXN1104,CUS104,Jessica Turner,Premium,2024-03-06,08:15:00,Bank Transfer,7230.00,USD,Electronics,Microsoft,Completed,0,61200.00,Desktop,Henderson,0.95,67800,256,415.00,68
+TXN1105,CUS105,Alexander Martinez,Standard,2024-03-06,17:50:00,Credit Card,345.00,USD,Restaurant,Cheesecake Factory,Failed,1,2900.00,Mobile,Fort Lauderdale,0.91,5400,26,78.00,31
+TXN1106,CUS106,Victoria Robinson,Premium,2024-03-06,12:30:00,Cryptocurrency,8450.00,USD,Investment,Coinbase,Completed,0,78900.00,Desktop,Cary,0.93,85600,312,510.00,82
+TXN1107,CUS107,Daniel Young,Basic,2024-03-07,11:10:00,Debit Card,45.50,USD,Pharmacy,Walgreens,Completed,0,380.00,Tablet,Simi Valley,0.98,1100,5,16.00,2
+TXN1108,CUS108,Laura Hernandez,Premium,2024-03-07,19:25:00,Wire Transfer,6340.00,USD,Travel,Delta Airlines,Completed,0,56700.00,Mobile,Salinas,0.96,62900,234,390.00,58
+TXN1109,CUS109,Matthew King,Standard,2024-03-08,09:55:00,PayPal,560.00,USD,Furniture,Ashley Furniture,Completed,0,5200.00,Desktop,Pasadena,0.97,7800,38,102.00,21
+TXN1110,CUS110,Kimberly Wright,Premium,2024-03-08,15:40:00,Credit Card,4210.00,USD,Retail,Home Depot,Completed,0,38900.00,Mobile,Orange,0.98,44500,176,290.00,36
+TXN1111,CUS111,Jason Lopez,Standard,2024-03-09,22:15:00,Debit Card,230.00,USD,Clothing,Gap,Completed,0,3400.00,Desktop,Fullerton,0.96,5900,28,75.00,12
+TXN1112,CUS112,Amanda Hill,Premium,2024-03-09,13:20:00,Bank Transfer,5320.00,USD,Electronics,Apple Store,Completed,0,48700.00,Mobile,Hampton,0.95,54300,208,355.00,52
+TXN1113,CUS113,David Scott,Basic,2024-03-10,10:05:00,Cryptocurrency,89.00,USD,Entertainment,Spotify,Completed,0,620.00,Desktop,Warren,0.99,1500,8,23.00,5
+TXN1114,CUS114,Sarah Green,Premium,2024-03-10,18:35:00,Wire Transfer,7120.00,USD,Investment,Wealthfront,Completed,0,65400.00,Mobile,Thornton,0.94,72800,278,445.00,73
+TXN1115,CUS115,James Adams,Standard,2024-03-11,14:50:00,Credit Card,780.00,USD,Grocery,Whole Foods,Pending,1,6100.00,Desktop,Gainesville,0.92,8700,44,108.00,34
+TXN1116,CUS116,Megan Baker,Premium,2024-03-11,09:30:00,PayPal,3860.00,USD,Retail,Macys,Completed,0,35600.00,Mobile,Ontario,0.97,41200,165,275.00,39
+TXN1117,CUS117,Kevin Nelson,Standard,2024-03-12,16:15:00,Debit Card,415.00,USD,Rent,Apartment Rent,Completed,0,4700.00,Desktop,Grand Prairie,0.96,7200,35,96.00,17
+TXN1118,CUS118,Nicole Carter,Premium,2024-03-12,11:40:00,Bank Transfer,5670.00,USD,Electronics,Samsung,Completed,0,52300.00,Mobile,Brownsville,0.95,58800,212,360.00,55
+TXN1119,CUS119,Mark Mitchell,Basic,2024-03-13,08:55:00,Cryptocurrency,34.50,USD,Coffee Shop,Starbucks,Completed,0,290.00,Desktop,Overland Park,0.99,900,4,12.00,2
+TXN1120,CUS120,Rachel Perez,Premium,2024-03-13,20:45:00,Wire Transfer,6890.00,USD,Travel,United Airlines,Completed,0,59800.00,Mobile,Santa Rosa,0.96,66700,245,410.00,64
+TXN1121,CUS121,Andrew Roberts,Standard,2024-03-14,13:10:00,Credit Card,620.00,USD,Restaurant,Red Robin,Completed,0,5500.00,Desktop,Port St. Lucie,0.97,8300,39,105.00,19
+TXN1122,CUS122,Emily Turner,Premium,2024-03-14,10:25:00,PayPal,4450.00,USD,Furniture,Room & Board,Completed,0,41200.00,Mobile,Denton,0.98,47800,191,310.00,43
+TXN1123,CUS123,Steven Phillips,Standard,2024-03-15,17:55:00,Debit Card,280.00,USD,Pharmacy,CVS,Completed,0,3800.00,Tablet,Memphis,0.96,6100,30,82.00,14
+TXN1124,CUS124,Jennifer Campbell,Premium,2024-03-15,09:45:00,Bank Transfer,5780.00,USD,Investment,Betterment,Completed,0,53400.00,Mobile,Nashville,0.95,60100,224,375.00,59
+TXN1125,CUS125,Michael Parker,Basic,2024-03-16,14:30:00,Cryptocurrency,76.00,USD,Entertainment,Netflix,Completed,0,510.00,Desktop,Aurora,0.98,1400,6,19.00,3
+TXN1126,CUS126,Lisa Evans,Premium,2024-03-16,21:15:00,Wire Transfer,8230.00,USD,Electronics,Bose,Completed,0,74500.00,Mobile,Providence,0.94,81900,301,495.00,79
+TXN1127,CUS127,Richard Edwards,Standard,2024-03-17,12:40:00,Credit Card,950.00,USD,Retail,Best Buy,Failed,1,7200.00,Desktop,Fort Wayne,0.91,10100,48,128.00,38
+TXN1128,CUS128,Patricia Collins,Premium,2024-03-17,08:30:00,PayPal,3940.00,USD,Travel,American Airlines,Completed,0,36700.00,Mobile,Jacksonville,0.97,42600,172,285.00,41
+TXN1129,CUS129,Charles Stewart,Standard,2024-03-18,19:05:00,Debit Card,340.00,USD,Grocery,Publix,Completed,0,4300.00,Desktop,Madison,0.96,6800,33,89.00,15
+TXN1130,CUS130,Elizabeth Sanchez,Premium,2024-03-18,15:20:00,Bank Transfer,6750.00,USD,Electronics,Dell,Completed,0,58900.00,Mobile,Riverside,0.95,65400,248,405.00,62
+TXN1131,CUS131,Thomas Morris,Basic,2024-03-19,10:50:00,Cryptocurrency,54.99,USD,Pharmacy,Rite Aid,Completed,0,420.00,Desktop,San Bernardino,0.99,1200,5,15.00,2
+TXN1132,CUS132,Deborah Rogers,Premium,2024-03-19,22:35:00,Wire Transfer,7420.00,USD,Investment,Fidelity,Completed,0,68700.00,Mobile,Boise,0.94,75600,278,460.00,76
+TXN1133,CUS133,Jose Reed,Standard,2024-03-20,11:55:00,Credit Card,680.00,USD,Furniture,Pottery Barn,Completed,0,5900.00,Desktop,Spokane,0.97,8600,42,115.00,23
+TXN1134,CUS134,Sandra Cook,Premium,2024-03-20,16:30:00,PayPal,5120.00,USD,Retail,Costco,Completed,0,47800.00,Mobile,Baton Rouge,0.96,54300,208,335.00,48
+TXN1135,CUS135,Jeffrey Morgan,Standard,2024-03-21,09:25:00,Debit Card,195.00,USD,Restaurant,Chick-fil-A,Completed,0,3100.00,Desktop,Albuquerque,0.98,5400,25,71.00,11
+TXN1136,CUS136,Maria Bell,Premium,2024-03-21,18:40:00,Bank Transfer,6330.00,USD,Electronics,Lenovo,Completed,0,56700.00,Mobile,Lexington,0.95,63400,239,390.00,58
+TXN1137,CUS137,Scott Murphy,Basic,2024-03-22,13:15:00,Cryptocurrency,42.50,USD,Coffee Shop,Dunkin',Completed,0,360.00,Desktop,Hialeah,0.99,1000,4,14.00,2
+TXN1138,CUS138,Karen Bailey,Premium,2024-03-22,20:05:00,Wire Transfer,8640.00,USD,Investment,Vanguard,Completed,0,78900.00,Mobile,Fremont,0.93,86700,325,525.00,85
+TXN1139,CUS139,Paul Rivera,Standard,2024-03-23,12:10:00,Credit Card,425.00,USD,Clothing,H&M,Pending,1,4100.00,Desktop,Scottsdale,0.92,7200,36,94.00,27
+TXN1140,CUS140,Michelle Cooper,Premium,2024-03-23,08:45:00,PayPal,4710.00,USD,Travel,Marriott,Completed,0,43200.00,Mobile,Irving,0.97,49700,184,320.00,44
+TXN1141,CUS141,Mark Richardson,Standard,2024-03-24,17:30:00,Debit Card,580.00,USD,Grocery,Kroger,Completed,0,5200.00,Desktop,Greensboro,0.96,7900,40,107.00,18
+TXN1142,CUS142,Linda Cox,Premium,2024-03-24,14:55:00,Bank Transfer,5910.00,USD,Electronics,Sony,Completed,0,54500.00,Mobile,San Mateo,0.95,61200,225,375.00,57
+TXN1143,CUS143,Robert Howard,Basic,2024-03-25,10:30:00,Cryptocurrency,67.99,USD,Entertainment,Hulu,Completed,0,550.00,Desktop,El Monte,0.98,1500,7,20.00,4
+TXN1144,CUS144,Susan Ward,Premium,2024-03-25,19:15:00,Wire Transfer,7030.00,USD,Investment,Robinhood,Completed,0,65400.00,Mobile,Escondido,0.94,72800,269,440.00,72
+TXN1145,CUS145,Michael Torres,Standard,2024-03-26,15:40:00,Credit Card,310.00,USD,Retail,Amazon,Completed,0,4000.00,Desktop,Round Rock,0.97,6700,32,88.00,16
+TXN1146,CUS146,Barbara Peterson,Premium,2024-03-26,09:50:00,PayPal,4280.00,USD,Furniture,Restoration Hardware,Completed,0,39800.00,Mobile,Olathe,0.98,46300,180,305.00,42
+TXN1147,CUS147,William Gray,Standard,2024-03-27,21:20:00,Debit Card,670.00,USD,Restaurant,Outback,Failed,1,5500.00,Desktop,Tempe,0.91,8400,45,112.00,33
+TXN1148,CUS148,Nancy Ramirez,Premium,2024-03-27,12:35:00,Bank Transfer,5850.00,USD,Electronics,Adobe,Completed,0,53200.00,Mobile,Clovis,0.96,59800,216,370.00,56
+TXN1149,CUS149,James James,Basic,2024-03-28,11:05:00,Cryptocurrency,28.99,USD,Pharmacy,CVS,Completed,0,280.00,Desktop,West Covina,0.99,900,3,11.00,1
+TXN1150,CUS150,Patricia Watson,Premium,2024-03-28,18:50:00,Wire Transfer,7950.00,USD,Travel,Hilton Hotels,Completed,0,71200.00,Mobile,Burbank,0.95,78800,298,485.00,78
+TXN1151,CUS151,Christopher Brooks,Standard,2024-03-29,14:25:00,Credit Card,490.00,USD,Grocery,Albertsons,Completed,0,4700.00,Desktop,Concord,0.96,7500,37,98.00,17
+TXN1152,CUS152,Jennifer Kelly,Premium,2024-03-29,09:15:00,PayPal,3960.00,USD,Retail,Walmart,Completed,0,36800.00,Mobile,Thornton,0.97,42500,168,285.00,38
+TXN1153,CUS153,David Sanders,Basic,2024-03-30,20:40:00,Debit Card,45.00,USD,Restaurant,Subway,Completed,0,390.00,Desktop,Santa Clara,0.99,1200,5,16.00,3
+TXN1154,CUS154,Lisa Price,Premium,2024-03-30,13:55:00,Bank Transfer,6340.00,USD,Investment,Charles Schwab,Completed,0,58900.00,Mobile,Richardson,0.95,65700,242,395.00,61
+TXN1155,CUS155,John Bennett,Standard,2024-03-31,16:10:00,Cryptocurrency,850.00,USD,Electronics,Gamestop,Completed,0,7200.00,Desktop,Pomona,0.94,10100,49,130.00,25
+TXN1156,CUS156,Mary Wood,Premium,2024-03-31,11:30:00,Wire Transfer,7210.00,USD,Travel,Expedia,Completed,0,66700.00,Mobile,Portland,0.96,74300,278,440.00,69
+TXN1157,CUS157,Richard Barnes,Standard,2024-04-01,09:55:00,Credit Card,380.00,USD,Furniture,IKEA,Completed,0,4200.00,Desktop,Spokane,0.97,7100,35,94.00,19
+TXN1158,CUS158,Sarah Ross,Premium,2024-04-01,18:20:00,PayPal,4650.00,USD,Retail,Lowe's,Completed,0,43400.00,Mobile,Madison,0.98,50100,195,315.00,45
+TXN1159,CUS159,Charles Henderson,Basic,2024-04-02,12:45:00,Debit Card,89.99,USD,Entertainment,Disney+,Completed,0,670.00,Desktop,Fargo,0.98,1800,8,24.00,5
+TXN1160,CUS160,Patricia Coleman,Premium,2024-04-02,15:35:00,Bank Transfer,5470.00,USD,Electronics,Best Buy,Completed,0,50900.00,Mobile,Overland Park,0.95,57400,213,355.00,54
+TXN1161,CUS161,Thomas Jenkins,Standard,2024-04-03,10:20:00,Cryptocurrency,290.00,USD,Clothing,Zara,Failed,1,3400.00,Desktop,Ontario,0.92,5900,30,81.00,26
+TXN1162,CUS162,Nancy Perry,Premium,2024-04-03,21:50:00,Wire Transfer,7680.00,USD,Investment,ETrade,Completed,0,69800.00,Mobile,Glendale,0.94,77600,289,470.00,77
+TXN1163,CUS163,Michael Powell,Standard,2024-04-04,14:15:00,Credit Card,620.00,USD,Grocery,Safeway,Completed,0,5700.00,Desktop,Sioux Falls,0.96,8900,43,110.00,20
+TXN1164,CUS164,Linda Long,Premium,2024-04-04,08:40:00,PayPal,4120.00,USD,Travel,Southwest Airlines,Completed,0,38900.00,Mobile,Chandler,0.97,45200,178,300.00,41
+TXN1165,CUS165,William Patterson,Basic,2024-04-05,17:55:00,Debit Card,56.50,USD,Pharmacy,Walgreens,Completed,0,480.00,Desktop,Knoxville,0.99,1400,6,18.00,3
+TXN1166,CUS166,Elizabeth Hughes,Premium,2024-04-05,13:30:00,Bank Transfer,5890.00,USD,Electronics,Microsoft,Completed,0,54300.00,Mobile,Providence,0.95,60900,231,375.00,57
+TXN1167,CUS167,Robert Flores,Standard,2024-04-06,11:10:00,Cryptocurrency,195.00,USD,Restaurant,Olive Garden,Completed,0,2900.00,Desktop,New Haven,0.96,5200,24,70.00,12
+TXN1168,CUS168,Margaret Washington,Premium,2024-04-06,19:45:00,Wire Transfer,6540.00,USD,Retail,Target,Completed,0,59800.00,Mobile,Toledo,0.95,66700,248,405.00,63
+TXN1169,CUS169,Joseph Butler,Standard,2024-04-07,09:25:00,Credit Card,430.00,USD,Furniture,Wayfair,Completed,0,4600.00,Desktop,Des Moines,0.97,7700,38,101.00,18
+TXN1170,CUS170,Susan Simmons,Premium,2024-04-07,16:55:00,PayPal,5250.00,USD,Investment,Wealthfront,Completed,0,48700.00,Mobile,Lubbock,0.96,55200,209,345.00,50
+TXN1171,CUS171,James Foster,Basic,2024-04-08,22:20:00,Debit Card,32.99,USD,Coffee Shop,Peet's,Completed,0,310.00,Desktop,Salem,0.99,1000,4,13.00,2
+TXN1172,CUS172,Karen Gonzales,Premium,2024-04-08,12:50:00,Bank Transfer,7120.00,USD,Electronics,Apple Store,Completed,0,65400.00,Mobile,Tacoma,0.94,73100,268,435.00,71
+TXN1173,CUS173,Charles Bryant,Standard,2024-04-09,15:30:00,Cryptocurrency,780.00,USD,Retail,Home Depot,Pending,1,6400.00,Desktop,Springfield,0.91,9500,47,120.00,32
+TXN1174,CUS174,Donna Alexander,Premium,2024-04-09,10:15:00,Wire Transfer,6250.00,USD,Travel,Delta Airlines,Completed,0,57800.00,Mobile,Grand Rapids,0.95,64600,238,390.00,60
+TXN1175,CUS175,Steven Russell,Standard,2024-04-10,18:40:00,Credit Card,340.00,USD,Grocery,Trader Joe's,Completed,0,4100.00,Desktop,Huntington,0.97,7000,34,92.00,15
+TXN1176,CUS176,Barbara Griffin,Premium,2024-04-10,14:25:00,PayPal,4680.00,USD,Furniture,Crate & Barrel,Completed,0,43400.00,Mobile,Fort Collins,0.98,50100,186,320.00,44
+TXN1177,CUS177,Daniel Diaz,Basic,2024-04-11,09:35:00,Debit Card,71.50,USD,Pharmacy,Rite Aid,Completed,0,590.00,Desktop,Palmdale,0.98,1600,7,22.00,4
+TXN1178,CUS178,Nancy Hayes,Premium,2024-04-11,20:10:00,Bank Transfer,7390.00,USD,Investment,Fidelity,Completed,0,67800.00,Mobile,Worcester,0.94,75600,282,460.00,75
+TXN1179,CUS179,Paul Myers,Standard,2024-04-12,13:45:00,Cryptocurrency,260.00,USD,Restaurant,Denny's,Completed,0,3600.00,Desktop,Orange,0.96,6200,29,78.00,13
+TXN1180,CUS180,Carol Ford,Premium,2024-04-12,11:20:00,Wire Transfer,5870.00,USD,Retail,Costco,Completed,0,54300.00,Mobile,Fullerton,0.95,60900,226,365.00,56
+TXN1181,CUS181,Mark Hamilton,Standard,2024-04-13,17:15:00,Credit Card,590.00,USD,Clothing,Abercrombie,Completed,0,5300.00,Desktop,Warren,0.97,8200,41,106.00,19
+TXN1182,CUS182,Sandra Graham,Premium,2024-04-13,08:55:00,PayPal,4350.00,USD,Electronics,Samsung,Completed,0,40200.00,Mobile,Thornton,0.98,46700,181,310.00,43
+TXN1183,CUS183,Peter Sullivan,Basic,2024-04-14,16:30:00,Debit Card,44.50,USD,Entertainment,HBO Max,Completed,0,370.00,Desktop,Ontario,0.99,1200,5,15.00,3
+TXN1184,CUS184,Betty Wallace,Premium,2024-04-14,12:05:00,Bank Transfer,6780.00,USD,Travel,Hyatt,Completed,0,61200.00,Mobile,Escondido,0.95,68400,254,410.00,64
+TXN1185,CUS185,Frank Woods,Standard,2024-04-15,10:40:00,Cryptocurrency,820.00,USD,Furniture,Ashley Furniture,Failed,1,6800.00,Desktop,El Monte,0.92,10100,48,125.00,35
+TXN1186,CUS186,Helen Cole,Premium,2024-04-15,19:25:00,Wire Transfer,7560.00,USD,Investment,Robinhood,Completed,0,69800.00,Mobile,Riverside,0.94,77600,291,465.00,76
+TXN1187,CUS187,Raymond West,Standard,2024-04-16,14:50:00,Credit Card,380.00,USD,Grocery,WinCo,Completed,0,4300.00,Desktop,Brownsville,0.97,7400,36,96.00,16
+TXN1188,CUS188,Frances Jordan,Premium,2024-04-16,09:35:00,PayPal,5240.00,USD,Electronics,Bose,Completed,0,48700.00,Mobile,Gainesville,0.96,55300,211,350.00,52
+TXN1189,CUS189,Jerry Owens,Basic,2024-04-17,21:55:00,Debit Card,67.99,USD,Pharmacy,CVS,Completed,0,540.00,Desktop,Grand Prairie,0.98,1500,7,20.00,4
+TXN1190,CUS190,Ruth Reynolds,Premium,2024-04-17,15:20:00,Bank Transfer,6430.00,USD,Retail,Macys,Completed,0,59800.00,Mobile,Memphis,0.95,66700,242,395.00,60
+TXN1191,CUS191,Harold Fisher,Standard,2024-04-18,12:30:00,Cryptocurrency,210.00,USD,Restaurant,Red Lobster,Completed,0,3200.00,Desktop,Hialeah,0.96,5800,27,74.00,11
+TXN1192,CUS192,Christine Ellis,Premium,2024-04-18,08:45:00,Wire Transfer,7210.00,USD,Investment,Charles Schwab,Completed,0,66700.00,Mobile,Scottsdale,0.94,74500,278,445.00,72
+TXN1193,CUS193,Ralph Harrison,Standard,2024-04-19,18:15:00,Credit Card,470.00,USD,Clothing,Old Navy,Completed,0,4900.00,Desktop,Irvine,0.97,8000,39,103.00,18
+TXN1194,CUS194,Gloria Gibson,Premium,2024-04-19,13:40:00,PayPal,4960.00,USD,Electronics,Dell,Completed,0,46200.00,Mobile,San Angelo,0.98,53400,195,335.00,47
+TXN1195,CUS195,Billy Mills,Basic,2024-04-20,11:05:00,Debit Card,39.99,USD,Coffee Shop,Starbucks,Completed,0,330.00,Desktop,Henderson,0.99,1100,4,14.00,2
+TXN1196,CUS196,Tammy Nichols,Premium,2024-04-20,20:30:00,Bank Transfer,6940.00,USD,Travel,American Airlines,Completed,0,63400.00,Mobile,Thornton,0.95,70800,259,420.00,65
+TXN1197,CUS197,Arthur Hunt,Standard,2024-04-21,16:55:00,Cryptocurrency,680.00,USD,Furniture,West Elm,Pending,1,5900.00,Desktop,Clovis,0.91,8900,44,115.00,30
+TXN1198,CUS198,Julie Palmer,Premium,2024-04-21,10:20:00,Wire Transfer,5870.00,USD,Investment,Vanguard,Completed,0,54300.00,Mobile,San Mateo,0.96,61200,232,375.00,57
+TXN1199,CUS199,Lawrence Robertson,Standard,2024-04-22,14:35:00,Credit Card,350.00,USD,Grocery,Food Lion,Completed,0,4200.00,Desktop,Reno,0.97,7300,35,93.00,15
+TXN1200,CUS200,Katherine Freeman,Premium,2024-04-22,09:50:00,PayPal,4780.00,USD,Electronics,Lenovo,Completed,0,44500.00,Mobile,Lexington,0.98,51800,189,325.00,45
+TXN1201,CUS201,Wayne Wells,Basic,2024-04-23,17:20:00,Debit Card,54.50,USD,Entertainment,Netflix,Completed,0,450.00,Desktop,Pasadena,0.98,1300,6,17.00,3
+TXN1202,CUS202,Virginia Webb,Premium,2024-04-23,12:45:00,Bank Transfer,6320.00,USD,Retail,Kohl's,Completed,0,58900.00,Mobile,Portland,0.95,65800,241,390.00,59
+TXN1203,CUS203,Keith Simpson,Standard,2024-04-24,19:30:00,Cryptocurrency,240.00,USD,Restaurant,Chipotle,Completed,0,3500.00,Desktop,Cary,0.96,6200,28,79.00,12
+TXN1204,CUS204,Judith Stevens,Premium,2024-04-24,08:55:00,Wire Transfer,7140.00,USD,Investment,Betterment,Completed,0,66700.00,Mobile,Simi Valley,0.94,74300,276,445.00,73
+TXN1205,CUS205,Jeremy Walsh,Standard,2024-04-25,15:10:00,Credit Card,590.00,USD,Clothing,Nike,Completed,0,5400.00,Desktop,Salinas,0.97,8600,42,110.00,20
+TXN1206,CUS206,Beverly Tucker,Premium,2024-04-25,11:35:00,PayPal,5030.00,USD,Electronics,HP,Completed,0,46800.00,Mobile,Orange,0.98,54200,203,335.00,48
+TXN1207,CUS207,Roy Williamson,Basic,2024-04-26,20:45:00,Debit Card,29.99,USD,Pharmacy,Walgreens,Completed,0,280.00,Desktop,Fullerton,0.99,900,3,12.00,2
+TXN1208,CUS208,Anna Freeman,Premium,2024-04-26,13:20:00,Bank Transfer,6650.00,USD,Travel,Marriott,Completed,0,61200.00,Mobile,Hampton,0.95,68400,251,410.00,63
+TXN1209,CUS209,Justin Wagner,Standard,2024-04-27,09:40:00,Cryptocurrency,410.00,USD,Grocery,Publix,Failed,1,4400.00,Desktop,Warren,0.92,7600,39,100.00,27
+TXN1210,CUS210,Doris Hunter,Premium,2024-04-27,17:55:00,Wire Transfer,7480.00,USD,Investment,ETrade,Completed,0,69800.00,Mobile,Thornton,0.94,77500,289,460.00,75
+TXN1211,CUS211,Randy Romero,Standard,2024-04-28,14:30:00,Credit Card,320.00,USD,Furniture,IKEA,Completed,0,4000.00,Desktop,Ontario,0.97,7000,33,89.00,16
+TXN1212,CUS212,Phyllis Hicks,Premium,2024-04-28,10:15:00,PayPal,4560.00,USD,Retail,Nordstrom,Completed,0,42300.00,Mobile,Escondido,0.98,49500,178,310.00,44
+TXN1213,CUS213,Carl Holmes,Basic,2024-04-29,18:40:00,Debit Card,78.99,USD,Entertainment,Spotify,Completed,0,610.00,Desktop,El Monte,0.98,1600,7,23.00,4
+TXN1214,CUS214,Paula Rice,Premium,2024-04-29,12:05:00,Bank Transfer,6180.00,USD,Electronics,Microsoft,Completed,0,57600.00,Mobile,Riverside,0.95,64700,234,385.00,59
+TXN1215,CUS215,Arthur Mendoza,Standard,2024-04-30,16:25:00,Cryptocurrency,520.00,USD,Restaurant,Outback,Completed,0,5100.00,Desktop,Brownsville,0.96,8200,40,105.00,19
+TXN1216,CUS216,Teresa Barnett,Premium,2024-04-30,09:10:00,Wire Transfer,7320.00,USD,Investment,Wealthfront,Completed,0,68700.00,Mobile,Gainesville,0.94,76500,281,450.00,72
+TXN1217,CUS217,Gregory Vasquez,Basic,2024-05-01,11:50:00,Debit Card,45.00,USD,Coffee Shop,Dunkin',Completed,0,380.00,Desktop,Grand Prairie,0.99,1200,5,15.00,3
+TXN1218,CUS218,Sara Mills,Premium,2024-05-01,19:35:00,PayPal,4920.00,USD,Travel,United Airlines,Completed,0,45600.00,Mobile,Memphis,0.97,52800,197,335.00,47
+TXN1219,CUS219,Peter Graves,Standard,2024-05-02,14:55:00,Credit Card,670.00,USD,Grocery,Whole Foods,Completed,0,5800.00,Desktop,Hialeah,0.96,9100,45,118.00,21
+TXN1220,CUS220,Cynthia Kennedy,Premium,2024-05-02,08:30:00,Bank Transfer,5740.00,USD,Electronics,Sony,Completed,0,53200.00,Mobile,Scottsdale,0.95,60100,223,360.00,55
+TXN1221,CUS221,Frederick Warren,Basic,2024-05-03,21:15:00,Cryptocurrency,34.50,USD,Pharmacy,Rite Aid,Completed,0,300.00,Desktop,Irvine,0.99,1000,4,13.00,2
+TXN1222,CUS222,Ruth Dixon,Premium,2024-05-03,15:40:00,Wire Transfer,6910.00,USD,Investment,Fidelity,Completed,0,64300.00,Mobile,San Angelo,0.95,71900,264,425.00,67
+TXN1223,CUS223,Howard Snyder,Standard,2024-05-04,12:25:00,PayPal,280.00,USD,Clothing,Adidas,Pending,1,3700.00,Desktop,Henderson,0.92,6400,30,83.00,24
+TXN1224,CUS224,Janet Cunningham,Premium,2024-05-04,09:50:00,Bank Transfer,5240.00,USD,Retail,Sam's Club,Completed,0,48700.00,Mobile,Thornton,0.98,55800,204,340.00,49
+TXN1225,CUS225,Victor Bradley,Standard,2024-05-05,17:35:00,Credit Card,430.00,USD,Furniture,Pottery Barn,Completed,0,4700.00,Desktop,Clovis,0.97,7900,38,102.00,17
+TXN1226,CUS226,Carol Lane,Premium,2024-05-05,13:10:00,Cryptocurrency,6720.00,USD,Electronics,Bose,Completed,0,62300.00,Mobile,San Mateo,0.94,69800,253,410.00,64
+TXN1227,CUS227,Jesse Andrews,Basic,2024-05-06,10:45:00,Debit Card,67.99,USD,Entertainment,Hulu,Completed,0,560.00,Desktop,Reno,0.98,1500,7,21.00,4
+TXN1228,CUS228,Katherine Ruiz,Premium,2024-05-06,19:20:00,Wire Transfer,5890.00,USD,Travel,Hilton Hotels,Completed,0,54500.00,Mobile,Lexington,0.96,61700,235,365.00,56
+TXN1229,CUS229,Frank Harper,Standard,2024-05-07,15:55:00,PayPal,360.00,USD,Grocery,Safeway,Completed,0,4300.00,Desktop,Pasadena,0.97,7400,35,95.00,15
+TXN1230,CUS230,Helen Fox,Premium,2024-05-07,11:30:00,Bank Transfer,6340.00,USD,Investment,Robinhood,Completed,0,58900.00,Mobile,Portland,0.95,66300,245,395.00,60
+TXN1231,CUS231,Raymond Riley,Standard,2024-05-08,20:05:00,Credit Card,580.00,USD,Restaurant,Red Robin,Failed,1,5300.00,Desktop,Cary,0.91,8800,42,114.00,31
+TXN1232,CUS232,Frances Carpenter,Premium,2024-05-08,14:40:00,Cryptocurrency,7210.00,USD,Electronics,Apple Store,Completed,0,66700.00,Mobile,Simi Valley,0.94,74500,278,440.00,73
+TXN1233,CUS233,Jerry Weaver,Basic,2024-05-09,09:15:00,Debit Card,44.99,USD,Pharmacy,CVS,Completed,0,380.00,Desktop,Salinas,0.99,1200,5,16.00,3
+TXN1234,CUS234,Ruth Tucker,Premium,2024-05-09,17:50:00,Wire Transfer,6950.00,USD,Retail,Costco,Completed,0,64500.00,Mobile,Orange,0.95,72200,261,420.00,66
+TXN1235,CUS235,Harold Freeman,Standard,2024-05-10,13:25:00,PayPal,290.00,USD,Clothing,Gap,Completed,0,3800.00,Desktop,Fullerton,0.96,6600,31,85.00,13
+TXN1236,CUS236,Christine Wells,Premium,2024-05-10,10:50:00,Bank Transfer,5670.00,USD,Investment,Vanguard,Completed,0,52300.00,Mobile,Hampton,0.97,59600,218,350.00,53
+TXN1237,CUS237,Ralph Burns,Basic,2024-05-11,18:15:00,Cryptocurrency,32.50,USD,Coffee Shop,Peet's,Completed,0,290.00,Desktop,Warren,0.99,900,3,11.00,2
+TXN1238,CUS238,Gloria Coleman,Premium,2024-05-11,12:40:00,Wire Transfer,7420.00,USD,Electronics,Dell,Completed,0,68700.00,Mobile,Thornton,0.94,76800,284,455.00,75
+TXN1239,CUS239,Billy Reid,Standard,2024-05-12,16:05:00,Credit Card,470.00,USD,Furniture,Restoration Hardware,Completed,0,5000.00,Desktop,Ontario,0.97,8200,40,107.00,19
+TXN1240,CUS240,Tammy Garrett,Premium,2024-05-12,09:30:00,PayPal,5030.00,USD,Travel,Expedia,Completed,0,46800.00,Mobile,Escondido,0.98,54200,201,330.00,47
+TXN1241,CUS241,Arthur Newman,Standard,2024-05-13,21:20:00,Bank Transfer,340.00,USD,Grocery,Albertsons,Completed,0,4100.00,Desktop,El Monte,0.96,7200,34,94.00,16
+TXN1242,CUS242,Julie Oliver,Premium,2024-05-13,15:45:00,Cryptocurrency,6150.00,USD,Investment,Charles Schwab,Completed,0,57800.00,Mobile,Riverside,0.95,64900,238,385.00,59
+TXN1243,CUS243,Lawrence Kelley,Basic,2024-05-14,11:10:00,Debit Card,56.99,USD,Entertainment,Paramount+,Completed,0,490.00,Desktop,Brownsville,0.98,1400,6,19.00,3
+TXN1244,CUS244,Katherine Patterson,Premium,2024-05-14,19:35:00,Wire Transfer,6840.00,USD,Electronics,Lenovo,Completed,0,63400.00,Mobile,Gainesville,0.95,71100,255,415.00,64
+TXN1245,CUS245,Wayne Burton,Standard,2024-05-15,14:55:00,PayPal,590.00,USD,Retail,Amazon,Completed,0,5500.00,Desktop,Grand Prairie,0.97,8800,43,113.00,20
+TXN1246,CUS246,Virginia Simpson,Premium,2024-05-15,08:20:00,Bank Transfer,5430.00,USD,Investment,Betterment,Completed,0,50900.00,Mobile,Memphis,0.98,58200,210,345.00,51
+TXN1247,CUS247,Keith Marshall,Standard,2024-05-16,17:45:00,Credit Card,420.00,USD,Clothing,H&M,Pending,1,4500.00,Desktop,Hialeah,0.92,7700,37,100.00,25
+TXN1248,CUS248,Judith Hayes,Premium,2024-05-16,13:10:00,Cryptocurrency,6980.00,USD,Electronics,Samsung,Completed,0,65400.00,Mobile,Scottsdale,0.94,72800,263,425.00,69
+TXN1249,CUS249,Jeremy Boyd,Basic,2024-05-17,10:35:00,Debit Card,78.50,USD,Pharmacy,Rite Aid,Completed,0,620.00,Desktop,Irvine,0.98,1600,7,23.00,4
+TXN1250,CUS250,Beverly Mason,Premium,2024-05-17,18:50:00,Wire Transfer,7210.00,USD,Travel,Delta Airlines,Completed,0,67800.00,Mobile,San Angelo,0.95,75400,276,445.00,71
+TXN1251,CUS251,Roy Castillo,Standard,2024-05-18,15:15:00,PayPal,310.00,USD,Grocery,Kroger,Completed,0,3900.00,Desktop,Henderson,0.96,6900,32,88.00,14
+TXN1252,CUS252,Anna Mendoza,Premium,2024-05-18,09:40:00,Bank Transfer,5860.00,USD,Investment,ETrade,Completed,0,54500.00,Mobile,Thornton,0.97,62300,228,365.00,56
+TXN1253,CUS253,Justin Webb,Basic,2024-05-19,20:25:00,Cryptocurrency,29.99,USD,Coffee Shop,Starbucks,Completed,0,270.00,Desktop,Clovis,0.99,900,3,12.00,2
+TXN1254,CUS254,Doris Rogers,Premium,2024-05-19,14:55:00,Wire Transfer,6590.00,USD,Electronics,Adobe,Completed,0,61200.00,Mobile,San Mateo,0.95,68800,248,405.00,62
+TXN1255,CUS255,Randy Watkins,Standard,2024-05-20,12:30:00,Credit Card,570.00,USD,Furniture,Wayfair,Completed,0,5300.00,Desktop,Reno,0.97,8500,41,110.00,19
+TXN1256,CUS256,Phyllis Rose,Premium,2024-05-20,08:45:00,PayPal,5140.00,USD,Retail,Macys,Completed,0,47800.00,Mobile,Lexington,0.98,55100,206,335.00,48
+TXN1257,CUS257,Carl Stewart,Basic,2024-05-21,17:10:00,Debit Card,67.00,USD,Entertainment,Netflix,Completed,0,550.00,Desktop,Pasadena,0.98,1500,6,20.00,4
+TXN1258,CUS258,Paula Morris,Premium,2024-05-21,11:35:00,Bank Transfer,6020.00,USD,Travel,Southwest Airlines,Completed,0,56700.00,Mobile,Portland,0.96,64100,234,375.00,58
+TXN1259,CUS259,Arthur Murphy,Standard,2024-05-22,19:50:00,Cryptocurrency,430.00,USD,Restaurant,Chick-fil-A,Failed,1,4600.00,Desktop,Cary,0.91,8000,39,105.00,27
+TXN1260,CUS260,Teresa Cook,Premium,2024-05-22,16:15:00,Wire Transfer,7340.00,USD,Investment,Wealthfront,Completed,0,68700.00,Mobile,Simi Valley,0.94,76600,281,450.00,74
+TXN1261,CUS261,Gregory Rogers,Standard,2024-05-23,13:40:00,PayPal,380.00,USD,Grocery,Trader Joe's,Completed,0,4300.00,Desktop,Salinas,0.97,7400,35,96.00,16
+TXN1262,CUS262,Sara Morgan,Premium,2024-05-23,09:05:00,Bank Transfer,5670.00,USD,Electronics,Bose,Completed,0,53200.00,Mobile,Orange,0.98,60700,221,350.00,53
+TXN1263,CUS263,Peter Cooper,Basic,2024-05-24,18:30:00,Debit Card,45.50,USD,Pharmacy,Walgreens,Completed,0,380.00,Desktop,Fullerton,0.99,1200,5,16.00,3
+TXN1264,CUS264,Cynthia Reed,Premium,2024-05-24,12:55:00,Cryptocurrency,6890.00,USD,Investment,Fidelity,Completed,0,64300.00,Mobile,Hampton,0.95,71900,263,420.00,67
+TXN1265,CUS265,Frederick Bailey,Standard,2024-05-25,10:20:00,Wire Transfer,290.00,USD,Clothing,Zara,Completed,0,3700.00,Desktop,Warren,0.96,6600,30,84.00,13
+TXN1266,CUS266,Ruth Bell,Premium,2024-05-25,17:45:00,Credit Card,5420.00,USD,Retail,Target,Completed,0,50900.00,Mobile,Thornton,0.97,58400,214,345.00,51
+TXN1267,CUS267,Howard Gomez,Standard,2024-05-26,14:10:00,PayPal,520.00,USD,Furniture,Ashley Furniture,Completed,0,5100.00,Desktop,Ontario,0.96,8300,42,108.00,18
+TXN1268,CUS268,Janet Kelly,Premium,2024-05-26,08:35:00,Bank Transfer,6250.00,USD,Electronics,Microsoft,Completed,0,58700.00,Mobile,Escondido,0.95,66100,239,385.00,59
+TXN1269,CUS269,Victor Howard,Basic,2024-05-27,19:55:00,Cryptocurrency,33.99,USD,Entertainment,Disney+,Completed,0,300.00,Desktop,El Monte,0.99,1000,4,13.00,2
+TXN1270,CUS270,Carol Ward,Premium,2024-05-27,15:20:00,Wire Transfer,7040.00,USD,Travel,Hyatt,Completed,0,65600.00,Mobile,Riverside,0.94,73400,271,430.00,70
+TXN1271,CUS271,Jesse Cox,Standard,2024-05-28,11:45:00,Debit Card,410.00,USD,Grocery,Publix,Completed,0,4400.00,Desktop,Brownsville,0.97,7600,37,99.00,17
+TXN1272,CUS272,Katherine Diaz,Premium,2024-05-28,09:10:00,Credit Card,5980.00,USD,Investment,Robinhood,Completed,0,55600.00,Mobile,Gainesville,0.98,63500,228,370.00,56
+TXN1273,CUS273,Frank Richardson,Standard,2024-05-29,16:35:00,PayPal,340.00,USD,Restaurant,Olive Garden,Completed,0,4100.00,Desktop,Grand Prairie,0.96,7200,34,93.00,15
+TXN1274,CUS274,Helen Cox,Premium,2024-05-29,12:00:00,Bank Transfer,6710.00,USD,Electronics,Apple Store,Completed,0,62300.00,Mobile,Memphis,0.95,69900,251,410.00,63
+TXN1275,CUS275,Raymond Wood,Standard,2024-05-30,20:25:00,Cryptocurrency,570.00,USD,Furniture,IKEA,Pending,1,5400.00,Desktop,Hialeah,0.91,8900,44,116.00,29
+TXN1276,CUS276,Frances Ward,Premium,2024-05-30,14:50:00,Wire Transfer,7230.00,USD,Investment,Vanguard,Completed,0,67800.00,Mobile,Scottsdale,0.94,75600,277,445.00,72
+TXN1277,CUS277,Jerry James,Standard,2024-05-31,10:15:00,Debit Card,290.00,USD,Clothing,Nike,Completed,0,3800.00,Desktop,Irvine,0.97,6700,31,87.00,13
+TXN1278,CUS278,Ruth Reed,Premium,2024-05-31,17:40:00,Credit Card,5340.00,USD,Retail,Costco,Completed,0,49800.00,Mobile,San Angelo,0.98,57400,208,340.00,50
+TXN1279,CUS279,Harold Fisher,Basic,2024-06-01,13:05:00,PayPal,67.99,USD,Pharmacy,CVS,Completed,0,570.00,Desktop,Henderson,0.98,1500,6,21.00,4
+TXN1280,CUS280,Christine Ellis,Premium,2024-06-01,09:30:00,Bank Transfer,6450.00,USD,Electronics,Sony,Completed,0,60100.00,Mobile,Thornton,0.95,67700,245,400.00,61
+TXN1281,CUS281,Ralph Harrison,Standard,2024-06-02,18:55:00,Cryptocurrency,460.00,USD,Grocery,Whole Foods,Completed,0,4900.00,Desktop,Clovis,0.96,8100,39,105.00,18
+TXN1282,CUS282,Gloria Gibson,Premium,2024-06-02,15:20:00,Wire Transfer,7120.00,USD,Travel,American Airlines,Completed,0,66700.00,Mobile,San Mateo,0.95,74500,267,435.00,68
+TXN1283,CUS283,Billy Mills,Basic,2024-06-03,12:45:00,Debit Card,45.00,USD,Coffee Shop,Dunkin',Completed,0,390.00,Desktop,Reno,0.99,1200,5,16.00,3
+TXN1284,CUS284,Tammy Nichols,Premium,2024-06-03,08:10:00,Credit Card,5830.00,USD,Investment,Charles Schwab,Completed,0,54300.00,Mobile,Lexington,0.97,62200,225,360.00,55
+TXN1285,CUS285,Arthur Hunt,Standard,2024-06-04,16:35:00,PayPal,380.00,USD,Furniture,West Elm,Completed,0,4300.00,Desktop,Pasadena,0.96,7500,36,98.00,16
+TXN1286,CUS286,Julie Palmer,Premium,2024-06-04,11:00:00,Bank Transfer,6540.00,USD,Electronics,Dell,Completed,0,60900.00,Mobile,Portland,0.95,68600,246,405.00,62
+TXN1287,CUS287,Lawrence Robertson,Basic,2024-06-05,19:25:00,Cryptocurrency,34.99,USD,Entertainment,Spotify,Completed,0,310.00,Desktop,Cary,0.99,1000,4,13.00,2
+TXN1288,CUS288,Katherine Freeman,Premium,2024-06-05,14:50:00,Wire Transfer,6980.00,USD,Retail,Home Depot,Completed,0,65400.00,Mobile,Simi Valley,0.94,73100,269,425.00,69
+TXN1289,CUS289,Wayne Wells,Standard,2024-06-06,10:15:00,Debit Card,520.00,USD,Grocery,Albertsons,Failed,1,5200.00,Desktop,Salinas,0.92,8700,44,113.00,27
+TXN1290,CUS290,Virginia Webb,Premium,2024-06-06,17:40:00,Credit Card,5670.00,USD,Investment,Betterment,Completed,0,53200.00,Mobile,Orange,0.98,60900,218,350.00,53
+TXN1291,CUS291,Keith Simpson,Standard,2024-06-07,13:05:00,PayPal,430.00,USD,Clothing,Old Navy,Completed,0,4700.00,Desktop,Fullerton,0.97,8000,38,104.00,17
+TXN1292,CUS292,Judith Stevens,Premium,2024-06-07,09:30:00,Bank Transfer,6320.00,USD,Electronics,Lenovo,Completed,0,58900.00,Mobile,Hampton,0.96,66500,241,390.00,59
+TXN1293,CUS293,Jeremy Walsh,Basic,2024-06-08,20:55:00,Cryptocurrency,78.99,USD,Pharmacy,Rite Aid,Completed,0,640.00,Desktop,Warren,0.98,1700,7,24.00,4
+TXN1294,CUS294,Beverly Tucker,Premium,2024-06-08,16:20:00,Wire Transfer,7150.00,USD,Travel,Marriott,Completed,0,67800.00,Mobile,Thornton,0.94,75600,274,440.00,71
+TXN1295,CUS295,Roy Williamson,Standard,2024-06-09,12:45:00,Debit Card,350.00,USD,Restaurant,Denny's,Completed,0,4200.00,Desktop,Ontario,0.96,7300,34,95.00,15
+TXN1296,CUS296,Anna Freeman,Premium,2024-06-09,08:10:00,Credit Card,5430.00,USD,Investment,ETrade,Completed,0,50900.00,Mobile,Escondido,0.97,58600,215,340.00,51
+TXN1297,CUS297,Justin Wagner,Basic,2024-06-10,17:35:00,PayPal,45.99,USD,Grocery,Trader Joe's,Completed,0,400.00,Desktop,El Monte,0.99,1300,6,17.00,3
+TXN1298,CUS298,Doris Hunter,Premium,2024-06-10,14:00:00,Bank Transfer,6870.00,USD,Electronics,HP,Completed,0,64500.00,Mobile,Riverside,0.95,72300,258,420.00,65
+TXN1299,CUS299,Randy Romero,Standard,2024-06-11,10:25:00,Cryptocurrency,590.00,USD,Furniture,Pottery Barn,Completed,0,5600.00,Desktop,Brownsville,0.96,9200,46,120.00,20
+TXN1300,CUS300,Phyllis Hicks,Premium,2024-06-11,18:50:00,Wire Transfer,7340.00,USD,Retail,Nordstrom,Completed,0,69800.00,Mobile,Gainesville,0.94,77600,283,450.00,73
+TXN1301,CUS301,Carl Holmes,Standard,2024-06-12,15:15:00,Debit Card,280.00,USD,Clothing,Abercrombie,Completed,0,3600.00,Desktop,Grand Prairie,0.97,6600,30,86.00,13
+TXN1302,CUS302,Paula Rice,Premium,2024-06-12,09:40:00,Credit Card,5980.00,USD,Investment,Wealthfront,Completed,0,56700.00,Mobile,Memphis,0.98,64600,231,370.00,56
+TXN1303,CUS303,Arthur Mendoza,Basic,2024-06-13,20:05:00,PayPal,67.50,USD,Entertainment,HBO Max,Completed,0,560.00,Desktop,Hialeah,0.98,1500,6,21.00,4
+TXN1304,CUS304,Teresa Barnett,Premium,2024-06-13,16:30:00,Bank Transfer,6450.00,USD,Electronics,Samsung,Completed,0,60900.00,Mobile,Scottsdale,0.95,68600,245,400.00,61
+TXN1305,CUS305,Gregory Vasquez,Standard,2024-06-14,12:55:00,Cryptocurrency,410.00,USD,Grocery,Safeway,Pending,1,4500.00,Desktop,Irvine,0.91,7800,39,102.00,26
+TXN1306,CUS306,Sara Mills,Premium,2024-06-14,08:20:00,Wire Transfer,7120.00,USD,Travel,United Airlines,Completed,0,67800.00,Mobile,San Angelo,0.94,75600,272,435.00,70
+TXN1307,CUS307,Peter Graves,Standard,2024-06-15,17:45:00,Debit Card,380.00,USD,Furniture,Crate & Barrel,Completed,0,4400.00,Desktop,Henderson,0.96,7600,37,99.00,16
+TXN1308,CUS308,Cynthia Kennedy,Premium,2024-06-15,14:10:00,Credit Card,5430.00,USD,Investment,Fidelity,Completed,0,51200.00,Mobile,Thornton,0.97,58900,215,340.00,52
+TXN1309,CUS309,Frederick Warren,Basic,2024-06-16,10:35:00,PayPal,32.99,USD,Coffee Shop,Peet's,Completed,0,290.00,Desktop,Clovis,0.99,1000,4,12.00,2
+TXN1310,CUS310,Ruth Dixon,Premium,2024-06-16,19:00:00,Bank Transfer,6890.00,USD,Electronics,Bose,Completed,0,65400.00,Mobile,San Mateo,0.95,73200,262,420.00,66
+TXN1311,CUS311,Howard Snyder,Standard,2024-06-17,15:25:00,Cryptocurrency,530.00,USD,Retail,Walmart,Completed,0,5200.00,Desktop,Reno,0.96,8800,43,115.00,19
+TXN1312,CUS312,Janet Cunningham,Premium,2024-06-17,09:50:00,Wire Transfer,7260.00,USD,Travel,Expedia,Completed,0,68700.00,Mobile,Lexington,0.94,76500,278,445.00,72
+TXN1313,CUS313,Victor Bradley,Basic,2024-06-18,18:15:00,Debit Card,45.99,USD,Pharmacy,Walgreens,Completed,0,410.00,Desktop,Pasadena,0.99,1300,5,17.00,3
+TXN1314,CUS314,Carol Lane,Premium,2024-06-18,13:40:00,Credit Card,5670.00,USD,Investment,Robinhood,Completed,0,53200.00,Mobile,Portland,0.98,60900,221,350.00,53
+TXN1315,CUS315,Jesse Andrews,Standard,2024-06-19,11:05:00,PayPal,360.00,USD,Restaurant,Subway,Completed,0,4200.00,Desktop,Cary,0.96,7400,35,96.00,15
+TXN1316,CUS316,Katherine Ruiz,Premium,2024-06-19,08:30:00,Bank Transfer,6320.00,USD,Electronics,Microsoft,Completed,0,59800.00,Mobile,Simi Valley,0.95,67600,242,390.00,60
+TXN1317,CUS317,Frank Harper,Basic,2024-06-20,20:55:00,Cryptocurrency,34.50,USD,Entertainment,Hulu,Completed,0,310.00,Desktop,Salinas,0.99,1100,4,13.00,2
+TXN1318,CUS318,Helen Fox,Premium,2024-06-20,17:20:00,Wire Transfer,6980.00,USD,Retail,Kohl's,Completed,0,66500.00,Mobile,Orange,0.94,74300,266,425.00,68
+TXN1319,CUS319,Raymond Riley,Standard,2024-06-21,13:45:00,Debit Card,430.00,USD,Grocery,Publix,Completed,0,4700.00,Desktop,Fullerton,0.97,8100,40,106.00,18
+TXN1320,CUS320,Frances Carpenter,Premium,2024-06-21,09:10:00,Credit Card,6540.00,USD,Investment,Vanguard,Completed,0,61200.00,Mobile,Hampton,0.98,69100,248,405.00,62
+TXN1321,CUS321,Jerry Weaver,Standard,2024-06-22,16:35:00,PayPal,290.00,USD,Clothing,Gap,Failed,1,3800.00,Desktop,Warren,0.92,6700,31,88.00,23
+TXN1322,CUS322,Ruth Tucker,Premium,2024-06-22,12:00:00,Bank Transfer,7210.00,USD,Electronics,Apple Store,Completed,0,68700.00,Mobile,Thornton,0.95,76700,274,440.00,71
+TXN1323,CUS323,Harold Freeman,Basic,2024-06-23,10:25:00,Cryptocurrency,78.00,USD,Pharmacy,CVS,Completed,0,620.00,Desktop,Ontario,0.98,1600,7,23.00,4
+TXN1324,CUS324,Christine Wells,Premium,2024-06-23,17:50:00,Wire Transfer,5890.00,USD,Travel,Delta Airlines,Completed,0,55600.00,Mobile,Escondido,0.96,63500,230,365.00,57
+TXN1325,CUS325,Ralph Burns,Standard,2024-06-24,14:15:00,Debit Card,520.00,USD,Furniture,Room & Board,Completed,0,5100.00,Desktop,El Monte,0.96,8800,45,115.00,19
+TXN1326,CUS326,Gloria Coleman,Premium,2024-06-24,08:40:00,Credit Card,6120.00,USD,Investment,Charles Schwab,Completed,0,57800.00,Mobile,Riverside,0.97,65800,234,380.00,58
+TXN1327,CUS327,Billy Reid,Basic,2024-06-25,19:05:00,PayPal,45.00,USD,Coffee Shop,Starbucks,Completed,0,380.00,Desktop,Brownsville,0.99,1200,5,16.00,3
+TXN1328,CUS328,Tammy Garrett,Premium,2024-06-25,15:30:00,Bank Transfer,6740.00,USD,Electronics,Sony,Completed,0,63400.00,Mobile,Gainesville,0.95,71300,256,415.00,64
+TXN1329,CUS329,Arthur Newman,Standard,2024-06-26,11:55:00,Cryptocurrency,380.00,USD,Grocery,Food Lion,Completed,0,4300.00,Desktop,Grand Prairie,0.97,7600,36,100.00,16
+TXN1330,CUS330,Julie Oliver,Premium,2024-06-26,09:20:00,Wire Transfer,6980.00,USD,Investment,Betterment,Completed,0,66500.00,Mobile,Memphis,0.94,74400,268,425.00,69
+TXN1331,CUS331,Lawrence Kelley,Basic,2024-06-27,18:45:00,Debit Card,34.99,USD,Entertainment,Netflix,Completed,0,310.00,Desktop,Hialeah,0.99,1000,4,13.00,2
+TXN1332,CUS332,Katherine Patterson,Premium,2024-06-27,14:10:00,Credit Card,6320.00,USD,Retail,Sam's Club,Completed,0,59800.00,Mobile,Scottsdale,0.98,67800,241,390.00,60
+TXN1333,CUS333,Wayne Burton,Standard,2024-06-28,10:35:00,PayPal,570.00,USD,Clothing,H&M,Completed,0,5400.00,Desktop,Irvine,0.96,9100,47,119.00,20
+TXN1334,CUS334,Virginia Simpson,Premium,2024-06-28,17:00:00,Bank Transfer,7230.00,USD,Electronics,Dell,Completed,0,68700.00,Mobile,San Angelo,0.95,76700,275,445.00,71
+TXN1335,CUS335,Keith Marshall,Basic,2024-06-29,13:25:00,Cryptocurrency,67.50,USD,Pharmacy,Rite Aid,Completed,0,560.00,Desktop,Henderson,0.98,1500,6,21.00,4
+TXN1336,CUS336,Judith Hayes,Premium,2024-06-29,08:50:00,Wire Transfer,5870.00,USD,Travel,Southwest Airlines,Completed,0,55400.00,Mobile,Thornton,0.96,63300,227,365.00,56
+TXN1337,CUS337,Jeremy Boyd,Standard,2024-06-30,16:15:00,Debit Card,410.00,USD,Furniture,Ashley Furniture,Pending,1,4500.00,Desktop,Clovis,0.91,7900,40,104.00,25
+TXN1338,CUS338,Beverly Mason,Premium,2024-06-30,12:40:00,Credit Card,6450.00,USD,Investment,ETrade,Completed,0,61200.00,Mobile,San Mateo,0.97,69300,245,400.00,61
+TXN1339,CUS339,Roy Castillo,Basic,2024-07-01,09:05:00,PayPal,45.99,USD,Grocery,WinCo,Completed,0,400.00,Desktop,Reno,0.99,1300,5,17.00,3
+TXN1340,CUS340,Anna Mendoza,Premium,2024-07-01,17:30:00,Bank Transfer,7120.00,USD,Electronics,Lenovo,Completed,0,67800.00,Mobile,Lexington,0.95,75900,267,435.00,68
+TXN1341,CUS341,Justin Webb,Standard,2024-07-02,13:55:00,Cryptocurrency,350.00,USD,Retail,Amazon,Completed,0,4200.00,Desktop,Pasadena,0.96,7500,35,97.00,15
+TXN1342,CUS342,Doris Rogers,Premium,2024-07-02,08:20:00,Wire Transfer,6890.00,USD,Investment,Wealthfront,Completed,0,65400.00,Mobile,Portland,0.94,73500,262,420.00,66
+TXN1343,CUS343,Randy Watkins,Basic,2024-07-03,18:45:00,Debit Card,34.50,USD,Coffee Shop,Dunkin',Completed,0,300.00,Desktop,Cary,0.99,1000,4,12.00,2
+TXN1344,CUS344,Phyllis Rose,Premium,2024-07-03,15:10:00,Credit Card,6340.00,USD,Electronics,HP,Completed,0,60100.00,Mobile,Simi Valley,0.98,68300,240,395.00,60
+TXN1345,CUS345,Carl Stewart,Standard,2024-07-04,11:35:00,PayPal,530.00,USD,Grocery,Albertsons,Completed,0,5200.00,Desktop,Salinas,0.96,8900,46,116.00,19
+TXN1346,CUS346,Paula Morris,Premium,2024-07-04,09:00:00,Bank Transfer,7210.00,USD,Travel,Hilton Hotels,Completed,0,68700.00,Mobile,Orange,0.95,76900,274,440.00,71
+TXN1347,CUS347,Arthur Murphy,Basic,2024-07-05,19:25:00,Cryptocurrency,67.99,USD,Entertainment,Paramount+,Completed,0,580.00,Desktop,Fullerton,0.98,1600,6,22.00,4
+TXN1348,CUS348,Teresa Cook,Premium,2024-07-05,16:50:00,Wire Transfer,6980.00,USD,Investment,Fidelity,Completed,0,66500.00,Mobile,Hampton,0.94,74700,263,425.00,68
+TXN1349,CUS349,Gregory Rogers,Standard,2024-07-06,13:15:00,Debit Card,380.00,USD,Clothing,Zara,Completed,0,4300.00,Desktop,Warren,0.97,7700,37,101.00,16
+TXN1350,CUS350,Sara Morgan,Premium,2024-07-06,08:40:00,Credit Card,5670.00,USD,Electronics,Microsoft,Completed,0,54300.00,Mobile,Thornton,0.98,62400,221,350.00,53
+TXN1351,CUS351,Peter Cooper,Standard,2024-07-07,17:05:00,PayPal,410.00,USD,Furniture,IKEA,Failed,1,4600.00,Desktop,Ontario,0.92,8000,39,105.00,24
+TXN1352,CUS352,Cynthia Reed,Premium,2024-07-07,12:30:00,Bank Transfer,6540.00,USD,Investment,Robinhood,Completed,0,62300.00,Mobile,Escondido,0.95,70400,249,405.00,62
+TXN1353,CUS353,Frederick Bailey,Basic,2024-07-08,10:55:00,Cryptocurrency,45.50,USD,Pharmacy,Walgreens,Completed,0,390.00,Desktop,El Monte,0.99,1300,5,17.00,3
+TXN1354,CUS354,Ruth Bell,Premium,2024-07-08,18:20:00,Wire Transfer,7230.00,USD,Retail,Costco,Completed,0,69800.00,Mobile,Riverside,0.94,78100,278,445.00,72
+TXN1355,CUS355,Howard Gomez,Standard,2024-07-09,14:45:00,Debit Card,290.00,USD,Grocery,Trader Joe's,Completed,0,3700.00,Desktop,Brownsville,0.96,6800,32,88.00,14
+TXN1356,CUS356,Janet Kelly,Premium,2024-07-09,09:10:00,Credit Card,5980.00,USD,Electronics,Samsung,Completed,0,56700.00,Mobile,Gainesville,0.97,65100,230,370.00,56
+TXN1357,CUS357,Victor Howard,Basic,2024-07-10,19:35:00,PayPal,33.99,USD,Entertainment,Spotify,Completed,0,300.00,Desktop,Grand Prairie,0.99,1100,4,13.00,2
+TXN1358,CUS358,Carol Ward,Premium,2024-07-10,16:00:00,Bank Transfer,6450.00,USD,Travel,American Airlines,Completed,0,61200.00,Mobile,Memphis,0.95,69400,246,400.00,61
+TXN1359,CUS359,Jesse Cox,Standard,2024-07-11,12:25:00,Cryptocurrency,570.00,USD,Restaurant,Red Robin,Completed,0,5500.00,Desktop,Hialeah,0.96,9200,48,120.00,20
+TXN1360,CUS360,Katherine Diaz,Premium,2024-07-11,08:50:00,Wire Transfer,7120.00,USD,Investment,Vanguard,Completed,0,68700.00,Mobile,Scottsdale,0.94,77100,268,435.00,70
+TXN1361,CUS361,Frank Richardson,Standard,2024-07-12,17:15:00,Debit Card,430.00,USD,Grocery,Kroger,Completed,0,4700.00,Desktop,Irvine,0.97,8300,41,109.00,18
+TXN1362,CUS362,Helen Cox,Premium,2024-07-12,13:40:00,Credit Card,6340.00,USD,Electronics,Bose,Completed,0,60100.00,Mobile,San Angelo,0.98,68600,238,395.00,60
+TXN1363,CUS363,Raymond Wood,Basic,2024-07-13,10:05:00,PayPal,67.99,USD,Pharmacy,CVS,Completed,0,570.00,Desktop,Henderson,0.98,1600,6,22.00,4
+TXN1364,CUS364,Frances Ward,Premium,2024-07-13,18:30:00,Bank Transfer,6890.00,USD,Retail,Target,Completed,0,66500.00,Mobile,Thornton,0.95,74800,258,420.00,66
+TXN1365,CUS365,Jerry James,Standard,2024-07-14,14:55:00,Cryptocurrency,380.00,USD,Clothing,Old Navy,Completed,0,4400.00,Desktop,Clovis,0.96,7800,38,102.00,16
+TXN1366,CUS366,Ruth Reed,Premium,2024-07-14,09:20:00,Wire Transfer,7210.00,USD,Electronics,Apple Store,Completed,0,69800.00,Mobile,San Mateo,0.94,78200,274,440.00,71
+TXN1367,CUS367,Harold Fisher,Basic,2024-07-15,19:45:00,Debit Card,45.00,USD,Coffee Shop,Starbucks,Completed,0,390.00,Desktop,Reno,0.99,1300,5,17.00,3
+TXN1368,CUS368,Christine Ellis,Premium,2024-07-15,16:10:00,Credit Card,6540.00,USD,Investment,Charles Schwab,Completed,0,62300.00,Mobile,Lexington,0.97,70700,247,405.00,62
+TXN1369,CUS369,Ralph Harrison,Standard,2024-07-16,12:35:00,PayPal,530.00,USD,Furniture,Pottery Barn,Pending,1,5300.00,Desktop,Pasadena,0.91,9100,47,119.00,26
+TXN1370,CUS370,Gloria Gibson,Premium,2024-07-16,08:00:00,Bank Transfer,6980.00,USD,Travel,Marriott,Completed,0,67600.00,Mobile,Portland,0.95,76200,261,425.00,68
+TXN1371,CUS371,Billy Mills,Basic,2024-07-17,17:25:00,Cryptocurrency,34.50,USD,Entertainment,Hulu,Completed,0,310.00,Desktop,Cary,0.99,1100,4,13.00,2
+TXN1372,CUS372,Tammy Nichols,Premium,2024-07-17,13:50:00,Wire Transfer,5870.00,USD,Electronics,Adobe,Completed,0,56500.00,Mobile,Simi Valley,0.96,64700,225,365.00,57
+TXN1373,CUS373,Arthur Hunt,Standard,2024-07-18,10:15:00,Debit Card,410.00,USD,Grocery,Whole Foods,Completed,0,4600.00,Desktop,Salinas,0.96,8300,40,109.00,17
+TXN1374,CUS374,Julie Palmer,Premium,2024-07-18,18:40:00,Credit Card,6320.00,USD,Investment,Betterment,Completed,0,60900.00,Mobile,Orange,0.98,69500,237,390.00,60
+TXN1375,CUS375,Lawrence Robertson,Basic,2024-07-19,15:05:00,PayPal,78.99,USD,Pharmacy,Rite Aid,Completed,0,650.00,Desktop,Fullerton,0.98,1700,7,24.00,4
+TXN1376,CUS376,Katherine Freeman,Premium,2024-07-19,09:30:00,Bank Transfer,7230.00,USD,Retail,Macys,Completed,0,69800.00,Mobile,Hampton,0.94,78200,273,445.00,72
+TXN1377,CUS377,Wayne Wells,Standard,2024-07-20,17:55:00,Cryptocurrency,360.00,USD,Clothing,Nike,Completed,0,4300.00,Desktop,Warren,0.97,7700,37,101.00,16
+TXN1378,CUS378,Virginia Webb,Premium,2024-07-20,14:20:00,Wire Transfer,6450.00,USD,Electronics,Sony,Completed,0,62300.00,Mobile,Thornton,0.95,70800,247,400.00,61
+TXN1379,CUS379,Keith Simpson,Basic,2024-07-21,10:45:00,Debit Card,45.99,USD,Grocery,Publix,Completed,0,410.00,Desktop,Ontario,0.99,1400,6,18.00,3
+TXN1380,CUS380,Judith Stevens,Premium,2024-07-21,19:10:00,Credit Card,6890.00,USD,Travel,United Airlines,Completed,0,66700.00,Mobile,Escondido,0.97,75300,258,420.00,66
+TXN1381,CUS381,Jeremy Walsh,Standard,2024-07-22,15:35:00,PayPal,570.00,USD,Furniture,Restoration Hardware,Completed,0,5600.00,Desktop,El Monte,0.96,9500,49,124.00,21
+TXN1382,CUS382,Beverly Tucker,Premium,2024-07-22,08:00:00,Bank Transfer,7120.00,USD,Investment,ETrade,Completed,0,68700.00,Mobile,Riverside,0.94,77200,267,435.00,70
+TXN1383,CUS383,Roy Williamson,Basic,2024-07-23,18:25:00,Cryptocurrency,34.99,USD,Entertainment,Netflix,Completed,0,320.00,Desktop,Brownsville,0.99,1200,4,14.00,2
+TXN1384,CUS384,Anna Freeman,Premium,2024-07-23,14:50:00,Wire Transfer,6540.00,USD,Electronics,Dell,Completed,0,63200.00,Mobile,Gainesville,0.95,71800,245,405.00,62
+TXN1385,CUS385,Justin Wagner,Standard,2024-07-24,11:15:00,Debit Card,380.00,USD,Retail,Home Depot,Failed,1,4400.00,Desktop,Grand Prairie,0.92,8000,39,105.00,24
+TXN1386,CUS386,Doris Hunter,Premium,2024-07-24,09:40:00,Credit Card,6980.00,USD,Electronics,Lenovo,Completed,0,67600.00,Mobile,Memphis,0.98,76300,262,425.00,68
+TXN1387,CUS387,Randy Romero,Basic,2024-07-25,19:05:00,PayPal,45.50,USD,Pharmacy,Walgreens,Completed,0,400.00,Desktop,Hialeah,0.99,1300,5,17.00,3
+TXN1388,CUS388,Phyllis Hicks,Premium,2024-07-25,16:30:00,Bank Transfer,7210.00,USD,Travel,Expedia,Completed,0,69800.00,Mobile,Scottsdale,0.94,78400,273,440.00,71
+TXN1389,CUS389,Carl Holmes,Standard,2024-07-26,12:55:00,Cryptocurrency,530.00,USD,Grocery,Safeway,Completed,0,5200.00,Desktop,Irvine,0.96,9100,47,119.00,20
+TXN1390,CUS390,Paula Morris,Premium,2024-07-26,08:20:00,Wire Transfer,6340.00,USD,Investment,Wealthfront,Completed,0,61200.00,Mobile,San Angelo,0.95,69800,239,395.00,60
+TXN1391,CUS391,Arthur Murphy,Basic,2024-07-27,18:45:00,Debit Card,33.99,USD,Coffee Shop,Dunkin',Completed,0,300.00,Desktop,Henderson,0.99,1100,4,13.00,2
+TXN1392,CUS392,Teresa Cook,Premium,2024-07-27,15:10:00,Credit Card,5870.00,USD,Electronics,Microsoft,Completed,0,56700.00,Mobile,Thornton,0.97,65600,225,365.00,57
+TXN1393,CUS393,Gregory Rogers,Standard,2024-07-28,11:35:00,PayPal,410.00,USD,Clothing,Abercrombie,Completed,0,4700.00,Desktop,Clovis,0.96,8400,42,110.00,18
+TXN1394,CUS394,Sara Morgan,Premium,2024-07-28,09:00:00,Bank Transfer,6890.00,USD,Retail,Nordstrom,Completed,0,66700.00,Mobile,San Mateo,0.95,75400,257,420.00,66
+TXN1395,CUS395,Peter Cooper,Basic,2024-07-29,19:25:00,Cryptocurrency,67.50,USD,Entertainment,Disney+,Completed,0,570.00,Desktop,Reno,0.98,1600,6,22.00,4
+TXN1396,CUS396,Cynthia Reed,Premium,2024-07-29,16:50:00,Wire Transfer,7230.00,USD,Investment,Fidelity,Completed,0,69800.00,Mobile,Lexington,0.94,78500,272,445.00,72
+TXN1397,CUS397,Frederick Bailey,Standard,2024-07-30,13:15:00,Debit Card,350.00,USD,Grocery,Albertsons,Completed,0,4200.00,Desktop,Pasadena,0.97,7600,36,99.00,15
+TXN1398,CUS398,Ruth Bell,Premium,2024-07-30,08:40:00,Credit Card,6450.00,USD,Electronics,HP,Completed,0,62300.00,Mobile,Portland,0.98,71200,244,400.00,61
+TXN1399,CUS399,Howard Gomez,Standard,2024-07-31,17:05:00,PayPal,530.00,USD,Furniture,West Elm,Pending,1,5300.00,Desktop,Cary,0.91,9200,48,120.00,25
+TXN1400,CUS400,Janet Kelly,Premium,2024-07-31,12:30:00,Bank Transfer,7120.00,USD,Travel,Hyatt,Completed,0,69800.00,Mobile,Simi Valley,0.95,78600,265,435.00,70
+TXN1401,CUS401,Victor Howard,Basic,2024-08-01,10:55:00,Cryptocurrency,45.99,USD,Pharmacy,CVS,Completed,0,410.00,Desktop,Salinas,0.99,1400,5,18.00,3
+TXN1402,CUS402,Carol Ward,Premium,2024-08-01,18:20:00,Wire Transfer,6540.00,USD,Investment,Robinhood,Completed,0,64200.00,Mobile,Orange,0.94,73800,248,405.00,62
+TXN1403,CUS403,Jesse Cox,Standard,2024-08-02,14:45:00,Debit Card,380.00,USD,Clothing,Gap,Completed,0,4400.00,Desktop,Fullerton,0.96,8100,39,106.00,17
+TXN1404,CUS404,Katherine Diaz,Premium,2024-08-02,09:10:00,Credit Card,6890.00,USD,Electronics,Samsung,Completed,0,67800.00,Mobile,Hampton,0.97,76500,258,420.00,66
+TXN1405,CUS405,Frank Richardson,Basic,2024-08-03,19:35:00,PayPal,34.50,USD,Entertainment,Spotify,Completed,0,310.00,Desktop,Warren,0.99,1200,4,14.00,2
+TXN1406,CUS406,Helen Cox,Premium,2024-08-03,16:00:00,Bank Transfer,7210.00,USD,Retail,Costco,Completed,0,70900.00,Mobile,Thornton,0.95,79800,271,440.00,71
+TXN1407,CUS407,Raymond Wood,Standard,2024-08-04,12:25:00,Cryptocurrency,570.00,USD,Grocery,Kroger,Completed,0,5600.00,Desktop,Ontario,0.96,9500,49,124.00,21
+TXN1408,CUS408,Frances Ward,Premium,2024-08-04,08:50:00,Wire Transfer,6340.00,USD,Investment,Vanguard,Completed,0,62300.00,Mobile,Escondido,0.94,71600,235,395.00,60
+TXN1409,CUS409,Jerry James,Basic,2024-08-05,17:15:00,Debit Card,45.00,USD,Coffee Shop,Peet's,Completed,0,390.00,Desktop,El Monte,0.99,1300,5,17.00,3
+TXN1410,CUS410,Ruth Reed,Premium,2024-08-05,13:40:00,Credit Card,6980.00,USD,Electronics,Apple Store,Completed,0,68700.00,Mobile,Riverside,0.98,77600,263,425.00,68
+TXN1411,CUS411,Harold Fisher,Standard,2024-08-06,10:05:00,PayPal,410.00,USD,Furniture,Crate & Barrel,Completed,0,4700.00,Desktop,Brownsville,0.96,8400,42,110.00,18
+TXN1412,CUS412,Christine Ellis,Premium,2024-08-06,18:30:00,Bank Transfer,7120.00,USD,Travel,Delta Airlines,Completed,0,70100.00,Mobile,Gainesville,0.95,79600,264,435.00,70
+TXN1413,CUS413,Ralph Harrison,Basic,2024-08-07,14:55:00,Cryptocurrency,67.99,USD,Pharmacy,Rite Aid,Completed,0,580.00,Desktop,Grand Prairie,0.98,1700,6,23.00,4
+TXN1414,CUS414,Gloria Gibson,Premium,2024-08-07,09:20:00,Wire Transfer,6450.00,USD,Investment,Charles Schwab,Completed,0,63400.00,Mobile,Memphis,0.94,72900,245,400.00,61
+TXN1415,CUS415,Billy Mills,Standard,2024-08-08,19:45:00,Debit Card,530.00,USD,Clothing,H&M,Failed,1,5400.00,Desktop,Hialeah,0.91,9500,49,124.00,26
+TXN1416,CUS416,Tammy Nichols,Premium,2024-08-08,16:10:00,Credit Card,6890.00,USD,Electronics,Bose,Completed,0,68700.00,Mobile,Scottsdale,0.97,77500,257,420.00,66
+TXN1417,CUS417,Arthur Hunt,Basic,2024-08-09,12:35:00,PayPal,45.50,USD,Grocery,Trader Joe's,Completed,0,400.00,Desktop,Irvine,0.99,1400,5,18.00,3
+TXN1418,CUS418,Julie Palmer,Premium,2024-08-09,08:00:00,Bank Transfer,7210.00,USD,Retail,Walmart,Completed,0,71200.00,Mobile,San Angelo,0.95,80600,269,440.00,71
+TXN1419,CUS419,Lawrence Robertson,Standard,2024-08-10,17:25:00,Cryptocurrency,380.00,USD,Grocery,Whole Foods,Completed,0,4400.00,Desktop,Henderson,0.96,8000,38,105.00,16
+TXN1420,CUS420,Katherine Freeman,Premium,2024-08-10,13:50:00,Wire Transfer,6540.00,USD,Investment,Betterment,Completed,0,64200.00,Mobile,Thornton,0.94,73700,248,405.00,62
+TXN1421,CUS421,Wayne Wells,Basic,2024-08-11,10:15:00,Debit Card,34.99,USD,Entertainment,Hulu,Completed,0,320.00,Desktop,Clovis,0.99,1200,4,14.00,2
+TXN1422,CUS422,Virginia Webb,Premium,2024-08-11,18:40:00,Credit Card,6980.00,USD,Electronics,Lenovo,Completed,0,69600.00,Mobile,San Mateo,0.98,78600,262,425.00,68
+TXN1423,CUS423,Keith Simpson,Standard,2024-08-12,15:05:00,PayPal,570.00,USD,Furniture,IKEA,Completed,0,5600.00,Desktop,Reno,0.96,9600,50,125.00,21
+TXN1424,CUS424,Judith Stevens,Premium,2024-08-12,09:30:00,Bank Transfer,7120.00,USD,Travel,American Airlines,Completed,0,70300.00,Mobile,Lexington,0.95,79800,264,435.00,70
+TXN1425,CUS425,Jeremy Walsh,Basic,2024-08-13,17:55:00,Cryptocurrency,67.50,USD,Pharmacy,Walgreens,Completed,0,560.00,Desktop,Pasadena,0.98,1600,6,22.00,4
+TXN1426,CUS426,Beverly Tucker,Premium,2024-08-13,14:20:00,Wire Transfer,6340.00,USD,Investment,ETrade,Completed,0,62300.00,Mobile,Portland,0.94,71600,237,395.00,60
+TXN1427,CUS427,Roy Williamson,Standard,2024-08-14,10:45:00,Debit Card,410.00,USD,Clothing,Zara,Completed,0,4700.00,Desktop,Cary,0.97,8400,42,110.00,18
+TXN1428,CUS428,Anna Freeman,Premium,2024-08-14,19:10:00,Credit Card,6890.00,USD,Electronics,Sony,Completed,0,68700.00,Mobile,Simi Valley,0.98,77500,257,420.00,66
+TXN1429,CUS429,Justin Wagner,Basic,2024-08-15,15:35:00,PayPal,45.00,USD,Coffee Shop,Starbucks,Completed,0,390.00,Desktop,Salinas,0.99,1300,5,17.00,3
+TXN1430,CUS430,Doris Hunter,Premium,2024-08-15,08:00:00,Bank Transfer,7210.00,USD,Retail,Target,Completed,0,71200.00,Mobile,Orange,0.95,80600,269,440.00,71
+TXN1431,CUS431,Randy Romero,Standard,2024-08-16,18:25:00,Cryptocurrency,530.00,USD,Grocery,Publix,Pending,1,5400.00,Desktop,Fullerton,0.91,9500,49,124.00,25
+TXN1432,CUS432,Phyllis Hicks,Premium,2024-08-16,14:50:00,Wire Transfer,6540.00,USD,Investment,Wealthfront,Completed,0,64200.00,Mobile,Hampton,0.94,73700,248,405.00,62
+TXN1433,CUS433,Carl Holmes,Basic,2024-08-17,11:15:00,Debit Card,34.50,USD,Entertainment,Netflix,Completed,0,310.00,Desktop,Warren,0.99,1100,4,13.00,2
+TXN1434,CUS434,Paula Morris,Premium,2024-08-17,09:40:00,Credit Card,6980.00,USD,Electronics,Microsoft,Completed,0,69600.00,Mobile,Thornton,0.98,78600,262,425.00,68
+TXN1435,CUS435,Arthur Murphy,Standard,2024-08-18,19:05:00,PayPal,380.00,USD,Furniture,Ashley Furniture,Completed,0,4400.00,Desktop,Ontario,0.96,8000,38,105.00,16
+TXN1436,CUS436,Teresa Cook,Premium,2024-08-18,16:30:00,Bank Transfer,7120.00,USD,Travel,Marriott,Completed,0,70300.00,Mobile,Escondido,0.95,79800,264,435.00,70
+TXN1437,CUS437,Gregory Rogers,Basic,2024-08-19,12:55:00,Cryptocurrency,67.99,USD,Pharmacy,CVS,Completed,0,580.00,Desktop,El Monte,0.98,1700,6,23.00,4
+TXN1438,CUS438,Sara Morgan,Premium,2024-08-19,08:20:00,Wire Transfer,6340.00,USD,Investment,Fidelity,Completed,0,62300.00,Mobile,Riverside,0.94,71600,237,395.00,60
+TXN1439,CUS439,Peter Cooper,Standard,2024-08-20,17:45:00,Debit Card,570.00,USD,Clothing,Old Navy,Completed,0,5600.00,Desktop,Brownsville,0.96,9600,50,125.00,21
+TXN1440,CUS440,Cynthia Reed,Premium,2024-08-20,14:10:00,Credit Card,6890.00,USD,Electronics,HP,Completed,0,68700.00,Mobile,Gainesville,0.98,77500,257,420.00,66
+TXN1441,CUS441,Frederick Bailey,Basic,2024-08-21,10:35:00,PayPal,45.99,USD,Grocery,Food Lion,Completed,0,410.00,Desktop,Grand Prairie,0.99,1400,5,18.00,3
+TXN1442,CUS442,Ruth Bell,Premium,2024-08-21,19:00:00,Bank Transfer,7210.00,USD,Retail,Kohl's,Completed,0,71200.00,Mobile,Memphis,0.95,80600,269,440.00,71
+TXN1443,CUS443,Howard Gomez,Standard,2024-08-22,15:25:00,Cryptocurrency,410.00,USD,Furniture,Pottery Barn,Completed,0,4700.00,Desktop,Hialeah,0.96,8400,42,110.00,18
+TXN1444,CUS444,Janet Kelly,Premium,2024-08-22,08:50:00,Wire Transfer,6540.00,USD,Investment,Robinhood,Completed,0,64200.00,Mobile,Scottsdale,0.94,73700,248,405.00,62
+TXN1445,CUS445,Victor Howard,Basic,2024-08-23,18:15:00,Debit Card,34.99,USD,Entertainment,Paramount+,Completed,0,320.00,Desktop,Irvine,0.99,1200,4,14.00,2
+TXN1446,CUS446,Carol Ward,Premium,2024-08-23,13:40:00,Credit Card,6980.00,USD,Electronics,Dell,Completed,0,69600.00,Mobile,San Angelo,0.98,78600,262,425.00,68
+TXN1447,CUS447,Jesse Cox,Standard,2024-08-24,11:05:00,PayPal,530.00,USD,Grocery,WinCo,Failed,1,5400.00,Desktop,Henderson,0.91,9500,49,124.00,25
+TXN1448,CUS448,Katherine Diaz,Premium,2024-08-24,09:30:00,Bank Transfer,7120.00,USD,Travel,United Airlines,Completed,0,70300.00,Mobile,Thornton,0.95,79800,264,435.00,70
+TXN1449,CUS449,Frank Richardson,Basic,2024-08-25,19:55:00,Cryptocurrency,67.50,USD,Pharmacy,Rite Aid,Completed,0,560.00,Desktop,Clovis,0.98,1600,6,22.00,4
+TXN1450,CUS450,Helen Cox,Premium,2024-08-25,16:20:00,Wire Transfer,6340.00,USD,Investment,Vanguard,Completed,0,62300.00,Mobile,San Mateo,0.94,71600,237,395.00,60
+TXN1451,CUS451,Raymond Wood,Standard,2024-08-26,12:45:00,Debit Card,380.00,USD,Clothing,Nike,Completed,0,4400.00,Desktop,Reno,0.96,8000,38,105.00,16
+TXN1452,CUS452,Frances Ward,Premium,2024-08-26,08:10:00,Credit Card,6890.00,USD,Electronics,Samsung,Completed,0,68700.00,Mobile,Lexington,0.98,77500,257,420.00,66
+TXN1453,CUS453,Jerry James,Basic,2024-08-27,17:35:00,PayPal,45.00,USD,Coffee Shop,Dunkin',Completed,0,390.00,Desktop,Pasadena,0.99,1300,5,17.00,3
+TXN1454,CUS454,Ruth Reed,Premium,2024-08-27,14:00:00,Bank Transfer,7210.00,USD,Retail,Macys,Completed,0,71200.00,Mobile,Portland,0.95,80600,269,440.00,71
+TXN1455,CUS455,Harold Fisher,Standard,2024-08-28,10:25:00,Cryptocurrency,570.00,USD,Furniture,Room & Board,Completed,0,5600.00,Desktop,Cary,0.96,9600,50,125.00,21
+TXN1456,CUS456,Christine Ellis,Premium,2024-08-28,18:50:00,Wire Transfer,6540.00,USD,Investment,Charles Schwab,Completed,0,64200.00,Mobile,Simi Valley,0.94,73700,248,405.00,62
+TXN1457,CUS457,Ralph Harrison,Basic,2024-08-29,15:15:00,Debit Card,34.50,USD,Entertainment,Spotify,Completed,0,310.00,Desktop,Salinas,0.99,1100,4,13.00,2
+TXN1458,CUS458,Gloria Gibson,Premium,2024-08-29,09:40:00,Credit Card,6980.00,USD,Electronics,Apple Store,Completed,0,69600.00,Mobile,Orange,0.98,78600,262,425.00,68
+TXN1459,CUS459,Billy Mills,Standard,2024-08-30,19:05:00,PayPal,410.00,USD,Grocery,Albertsons,Completed,0,4700.00,Desktop,Fullerton,0.96,8400,42,110.00,18
+TXN1460,CUS460,Tammy Nichols,Premium,2024-08-30,16:30:00,Bank Transfer,7120.00,USD,Travel,Expedia,Completed,0,70300.00,Mobile,Hampton,0.95,79800,264,435.00,70
+TXN1461,CUS461,Arthur Hunt,Basic,2024-08-31,12:55:00,Cryptocurrency,67.99,USD,Pharmacy,Walgreens,Completed,0,580.00,Desktop,Warren,0.98,1700,6,23.00,4
+TXN1462,CUS462,Julie Palmer,Premium,2024-08-31,08:20:00,Wire Transfer,6340.00,USD,Investment,Betterment,Completed,0,62300.00,Mobile,Thornton,0.94,71600,237,395.00,60
+TXN1463,CUS463,Lawrence Robertson,Standard,2024-09-01,17:45:00,Debit Card,530.00,USD,Clothing,Abercrombie,Pending,1,5400.00,Desktop,Ontario,0.91,9500,49,124.00,25
+TXN1464,CUS464,Katherine Freeman,Premium,2024-09-01,14:10:00,Credit Card,6890.00,USD,Electronics,Lenovo,Completed,0,68700.00,Mobile,Escondido,0.98,77500,257,420.00,66
+TXN1465,CUS465,Wayne Wells,Basic,2024-09-02,10:35:00,PayPal,45.50,USD,Grocery,Trader Joe's,Completed,0,400.00,Desktop,El Monte,0.99,1400,5,18.00,3
+TXN1466,CUS466,Virginia Webb,Premium,2024-09-02,19:00:00,Bank Transfer,7210.00,USD,Retail,Costco,Completed,0,71200.00,Mobile,Riverside,0.95,80600,269,440.00,71
+TXN1467,CUS467,Keith Simpson,Standard,2024-09-03,15:25:00,Cryptocurrency,380.00,USD,Furniture,West Elm,Completed,0,4400.00,Desktop,Brownsville,0.96,8000,38,105.00,16
+TXN1468,CUS468,Judith Stevens,Premium,2024-09-03,08:50:00,Wire Transfer,6540.00,USD,Investment,ETrade,Completed,0,64200.00,Mobile,Gainesville,0.94,73700,248,405.00,62
+TXN1469,CUS469,Jeremy Walsh,Basic,2024-09-04,18:15:00,Debit Card,34.99,USD,Entertainment,HBO Max,Completed,0,320.00,Desktop,Grand Prairie,0.99,1200,4,14.00,2
+TXN1470,CUS470,Beverly Tucker,Premium,2024-09-04,13:40:00,Credit Card,6980.00,USD,Electronics,Sony,Completed,0,69600.00,Mobile,Memphis,0.98,78600,262,425.00,68
+TXN1471,CUS471,Roy Williamson,Standard,2024-09-05,11:05:00,PayPal,570.00,USD,Grocery,Whole Foods,Completed,0,5600.00,Desktop,Hialeah,0.96,9600,50,125.00,21
+TXN1472,CUS472,Anna Freeman,Premium,2024-09-05,09:30:00,Bank Transfer,7120.00,USD,Travel,Delta Airlines,Completed,0,70300.00,Mobile,Scottsdale,0.95,79800,264,435.00,70
+TXN1473,CUS473,Justin Wagner,Basic,2024-09-06,19:55:00,Cryptocurrency,67.50,USD,Pharmacy,CVS,Completed,0,560.00,Desktop,Irvine,0.98,1600,6,22.00,4
+TXN1474,CUS474,Doris Hunter,Premium,2024-09-06,16:20:00,Wire Transfer,6340.00,USD,Investment,Wealthfront,Completed,0,62300.00,Mobile,San Angelo,0.94,71600,237,395.00,60
+TXN1475,CUS475,Randy Romero,Standard,2024-09-07,12:45:00,Debit Card,410.00,USD,Clothing,Gap,Completed,0,4700.00,Desktop,Henderson,0.96,8400,42,110.00,18
+TXN1476,CUS476,Phyllis Hicks,Premium,2024-09-07,08:10:00,Credit Card,6890.00,USD,Electronics,Microsoft,Completed,0,68700.00,Mobile,Thornton,0.98,77500,257,420.00,66
+TXN1477,CUS477,Carl Holmes,Basic,2024-09-08,17:35:00,PayPal,45.00,USD,Coffee Shop,Starbucks,Completed,0,390.00,Desktop,Clovis,0.99,1300,5,17.00,3
+TXN1478,CUS478,Paula Morris,Premium,2024-09-08,14:00:00,Bank Transfer,7210.00,USD,Retail,Target,Completed,0,71200.00,Mobile,San Mateo,0.95,80600,269,440.00,71
+TXN1479,CUS479,Arthur Murphy,Standard,2024-09-09,10:25:00,Cryptocurrency,530.00,USD,Furniture,Crate & Barrel,Failed,1,5400.00,Desktop,Reno,0.91,9500,49,124.00,25
+TXN1480,CUS480,Teresa Cook,Premium,2024-09-09,18:50:00,Wire Transfer,6540.00,USD,Investment,Fidelity,Completed,0,64200.00,Mobile,Lexington,0.94,73700,248,405.00,62
+TXN1481,CUS481,Gregory Rogers,Basic,2024-09-10,15:15:00,Debit Card,34.50,USD,Entertainment,Netflix,Completed,0,310.00,Desktop,Pasadena,0.99,1100,4,13.00,2
+TXN1482,CUS482,Sara Morgan,Premium,2024-09-10,09:40:00,Credit Card,6980.00,USD,Electronics,HP,Completed,0,69600.00,Mobile,Portland,0.98,78600,262,425.00,68
+TXN1483,CUS483,Peter Cooper,Standard,2024-09-11,19:05:00,PayPal,380.00,USD,Grocery,Publix,Completed,0,4400.00,Desktop,Cary,0.96,8000,38,105.00,16
+TXN1484,CUS484,Cynthia Reed,Premium,2024-09-11,16:30:00,Bank Transfer,7120.00,USD,Travel,Hyatt,Completed,0,70300.00,Mobile,Simi Valley,0.95,79800,264,435.00,70
+TXN1485,CUS485,Frederick Bailey,Basic,2024-09-12,12:55:00,Cryptocurrency,67.99,USD,Pharmacy,Rite Aid,Completed,0,580.00,Desktop,Salinas,0.98,1700,6,23.00,4
+TXN1486,CUS486,Ruth Bell,Premium,2024-09-12,08:20:00,Wire Transfer,6340.00,USD,Investment,Robinhood,Completed,0,62300.00,Mobile,Orange,0.94,71600,237,395.00,60
+TXN1487,CUS487,Howard Gomez,Standard,2024-09-13,17:45:00,Debit Card,570.00,USD,Clothing,H&M,Completed,0,5600.00,Desktop,Fullerton,0.96,9600,50,125.00,21
+TXN1488,CUS488,Janet Kelly,Premium,2024-09-13,14:10:00,Credit Card,6890.00,USD,Electronics,Dell,Completed,0,68700.00,Mobile,Hampton,0.98,77500,257,420.00,66
+TXN1489,CUS489,Victor Howard,Basic,2024-09-14,10:35:00,PayPal,45.99,USD,Grocery,Safeway,Completed,0,410.00,Desktop,Warren,0.99,1400,5,18.00,3
+TXN1490,CUS490,Carol Ward,Premium,2024-09-14,19:00:00,Bank Transfer,7210.00,USD,Retail,Sam's Club,Completed,0,71200.00,Mobile,Thornton,0.95,80600,269,440.00,71
+TXN1491,CUS491,Jesse Cox,Standard,2024-09-15,15:25:00,Cryptocurrency,410.00,USD,Furniture,Restoration Hardware,Completed,0,4700.00,Desktop,Ontario,0.96,8400,42,110.00,18
+TXN1492,CUS492,Katherine Diaz,Premium,2024-09-15,08:50:00,Wire Transfer,6540.00,USD,Investment,Vanguard,Completed,0,64200.00,Mobile,Escondido,0.94,73700,248,405.00,62
+TXN1493,CUS493,Frank Richardson,Basic,2024-09-16,18:15:00,Debit Card,34.99,USD,Entertainment,Hulu,Completed,0,320.00,Desktop,El Monte,0.99,1200,4,14.00,2
+TXN1494,CUS494,Helen Cox,Premium,2024-09-16,13:40:00,Credit Card,6980.00,USD,Electronics,Bose,Completed,0,69600.00,Mobile,Riverside,0.98,78600,262,425.00,68
+TXN1495,CUS495,Raymond Wood,Standard,2024-09-17,11:05:00,PayPal,530.00,USD,Grocery,Kroger,Completed,0,5400.00,Desktop,Brownsville,0.96,9500,49,124.00,21
+TXN1496,CUS496,Frances Ward,Premium,2024-09-17,09:30:00,Bank Transfer,7120.00,USD,Travel,American Airlines,Completed,0,70300.00,Mobile,Gainesville,0.95,79800,264,435.00,70
+TXN1497,CUS497,Jerry James,Basic,2024-09-18,19:55:00,Cryptocurrency,67.50,USD,Pharmacy,Walgreens,Completed,0,560.00,Desktop,Grand Prairie,0.98,1600,6,22.00,4
+TXN1498,CUS498,Ruth Reed,Premium,2024-09-18,16:20:00,Wire Transfer,6340.00,USD,Investment,Charles Schwab,Completed,0,62300.00,Mobile,Memphis,0.94,71600,237,395.00,60
+TXN1499,CUS499,Harold Fisher,Standard,2024-09-19,12:45:00,Debit Card,380.00,USD,Clothing,Zara,Pending,1,4400.00,Desktop,Hialeah,0.91,8000,38,105.00,23
+TXN1500,CUS500,Christine Ellis,Premium,2024-09-19,08:10:00,Credit Card,6890.00,USD,Electronics,Apple Store,Completed,0,68700.00,Mobile,Scottsdale,0.98,77500,257,420.00,66
+TXN1501,CUS501,Frank Richardson,Premium,2024-03-05,09:20:00,Credit Card,5670.00,USD,Investment,Bloomberg,Completed,0,48900.00,Mobile,Alexandria,0.96,52300,187,345.00,42
+TXN1502,CUS502,Helen Cox,Standard,2024-03-05,14:45:00,Debit Card,890.00,USD,Retail,Target,Completed,0,6700.00,Desktop,Portland,0.97,8900,41,112.00,18
+TXN1503,CUS503,Raymond Wood,Basic,2024-03-05,20:30:00,PayPal,67.99,USD,Grocery,Trader Joe's,Completed,0,540.00,Mobile,Springfield,0.99,1300,7,21.00,4
+TXN1504,CUS504,Frances Ward,Premium,2024-03-06,08:15:00,Bank Transfer,7230.00,USD,Electronics,Microsoft,Completed,0,61200.00,Desktop,Henderson,0.95,67800,256,415.00,68
+TXN1505,CUS505,Jerry James,Standard,2024-03-06,17:50:00,Credit Card,345.00,USD,Restaurant,Cheesecake Factory,Failed,1,2900.00,Mobile,Fort Lauderdale,0.91,5400,26,78.00,31
+TXN1506,CUS506,Ruth Reed,Premium,2024-03-06,12:30:00,Cryptocurrency,8450.00,USD,Investment,Coinbase,Completed,0,78900.00,Desktop,Cary,0.93,85600,312,510.00,82
+TXN1507,CUS507,Harold Fisher,Basic,2024-03-07,11:10:00,Debit Card,45.50,USD,Pharmacy,Walgreens,Completed,0,380.00,Tablet,Simi Valley,0.98,1100,5,16.00,2
+TXN1508,CUS508,Christine Ellis,Premium,2024-03-07,19:25:00,Wire Transfer,6340.00,USD,Travel,Delta Airlines,Completed,0,56700.00,Mobile,Salinas,0.96,62900,234,390.00,58
+TXN1509,CUS509,Ralph Harrison,Standard,2024-03-08,09:55:00,PayPal,560.00,USD,Furniture,Ashley Furniture,Completed,0,5200.00,Desktop,Pasadena,0.97,7800,38,102.00,21
+TXN1510,CUS510,Gloria Gibson,Premium,2024-03-08,15:40:00,Credit Card,4210.00,USD,Retail,Home Depot,Completed,0,38900.00,Mobile,Orange,0.98,44500,176,290.00,36
+TXN1511,CUS511,Billy Mills,Standard,2024-03-09,22:15:00,Debit Card,230.00,USD,Clothing,Gap,Completed,0,3400.00,Desktop,Fullerton,0.96,5900,28,75.00,12
+TXN1512,CUS512,Tammy Nichols,Premium,2024-03-09,13:20:00,Bank Transfer,5320.00,USD,Electronics,Apple Store,Completed,0,48700.00,Mobile,Hampton,0.95,54300,208,355.00,52
+TXN1513,CUS513,Arthur Hunt,Basic,2024-03-10,10:05:00,Cryptocurrency,89.00,USD,Entertainment,Spotify,Completed,0,620.00,Desktop,Warren,0.99,1500,8,23.00,5
+TXN1514,CUS514,Julie Palmer,Premium,2024-03-10,18:35:00,Wire Transfer,7120.00,USD,Investment,Wealthfront,Completed,0,65400.00,Mobile,Thornton,0.94,72800,278,445.00,73
+TXN1515,CUS515,Lawrence Robertson,Standard,2024-03-11,14:50:00,Credit Card,780.00,USD,Grocery,Whole Foods,Pending,1,6100.00,Desktop,Gainesville,0.92,8700,44,108.00,34
+TXN1516,CUS516,Katherine Freeman,Premium,2024-03-11,09:30:00,PayPal,3860.00,USD,Retail,Macys,Completed,0,35600.00,Mobile,Ontario,0.97,41200,165,275.00,39
+TXN1517,CUS517,Wayne Wells,Standard,2024-03-12,16:15:00,Debit Card,415.00,USD,Rent,Apartment Rent,Completed,0,4700.00,Desktop,Grand Prairie,0.96,7200,35,96.00,17
+TXN1518,CUS518,Virginia Webb,Premium,2024-03-12,11:40:00,Bank Transfer,5670.00,USD,Electronics,Samsung,Completed,0,52300.00,Mobile,Brownsville,0.95,58800,212,360.00,55
+TXN1519,CUS519,Keith Simpson,Basic,2024-03-13,08:55:00,Cryptocurrency,34.50,USD,Coffee Shop,Starbucks,Completed,0,290.00,Desktop,Overland Park,0.99,900,4,12.00,2
+TXN1520,CUS520,Judith Stevens,Premium,2024-03-13,20:45:00,Wire Transfer,6890.00,USD,Travel,United Airlines,Completed,0,59800.00,Mobile,Santa Rosa,0.96,66700,245,410.00,64
+TXN1521,CUS521,Jeremy Walsh,Standard,2024-03-14,13:10:00,Credit Card,620.00,USD,Restaurant,Red Robin,Completed,0,5500.00,Desktop,Port St. Lucie,0.97,8300,39,105.00,19
+TXN1522,CUS522,Beverly Tucker,Premium,2024-03-14,10:25:00,PayPal,4450.00,USD,Furniture,Room & Board,Completed,0,41200.00,Mobile,Denton,0.98,47800,191,310.00,43
+TXN1523,CUS523,Roy Williamson,Standard,2024-03-15,17:55:00,Debit Card,280.00,USD,Pharmacy,CVS,Completed,0,3800.00,Tablet,Memphis,0.96,6100,30,82.00,14
+TXN1524,CUS524,Anna Freeman,Premium,2024-03-15,09:45:00,Bank Transfer,5780.00,USD,Investment,Betterment,Completed,0,53400.00,Mobile,Nashville,0.95,60100,224,375.00,59
+TXN1525,CUS525,Justin Wagner,Basic,2024-03-16,14:30:00,Cryptocurrency,76.00,USD,Entertainment,Netflix,Completed,0,510.00,Desktop,Aurora,0.98,1400,6,19.00,3
+TXN1526,CUS526,Doris Hunter,Premium,2024-03-16,21:15:00,Wire Transfer,8230.00,USD,Electronics,Bose,Completed,0,74500.00,Mobile,Providence,0.94,81900,301,495.00,79
+TXN1527,CUS527,Randy Romero,Standard,2024-03-17,12:40:00,Credit Card,950.00,USD,Retail,Best Buy,Failed,1,7200.00,Desktop,Fort Wayne,0.91,10100,48,128.00,38
+TXN1528,CUS528,Phyllis Hicks,Premium,2024-03-17,08:30:00,PayPal,3940.00,USD,Travel,American Airlines,Completed,0,36700.00,Mobile,Jacksonville,0.97,42600,172,285.00,41
+TXN1529,CUS529,Carl Holmes,Standard,2024-03-18,19:05:00,Debit Card,340.00,USD,Grocery,Publix,Completed,0,4300.00,Desktop,Madison,0.96,6800,33,89.00,15
+TXN1530,CUS530,Paula Morris,Premium,2024-03-18,15:20:00,Bank Transfer,6750.00,USD,Electronics,Dell,Completed,0,58900.00,Mobile,Riverside,0.95,65400,248,405.00,62
+TXN1531,CUS531,Arthur Murphy,Basic,2024-03-19,10:50:00,Cryptocurrency,54.99,USD,Pharmacy,Rite Aid,Completed,0,420.00,Desktop,San Bernardino,0.99,1200,5,15.00,2
+TXN1532,CUS532,Teresa Cook,Premium,2024-03-19,22:35:00,Wire Transfer,7420.00,USD,Investment,Fidelity,Completed,0,68700.00,Mobile,Boise,0.94,75600,278,460.00,76
+TXN1533,CUS533,Gregory Rogers,Standard,2024-03-20,11:55:00,Credit Card,680.00,USD,Furniture,Pottery Barn,Completed,0,5900.00,Desktop,Spokane,0.97,8600,42,115.00,23
+TXN1534,CUS534,Sara Morgan,Premium,2024-03-20,16:30:00,PayPal,5120.00,USD,Retail,Costco,Completed,0,47800.00,Mobile,Baton Rouge,0.96,54300,208,335.00,48
+TXN1535,CUS535,Peter Cooper,Standard,2024-03-21,09:25:00,Debit Card,195.00,USD,Restaurant,Chick-fil-A,Completed,0,3100.00,Desktop,Albuquerque,0.98,5400,25,71.00,11
+TXN1536,CUS536,Cynthia Reed,Premium,2024-03-21,18:40:00,Bank Transfer,6330.00,USD,Electronics,Lenovo,Completed,0,56700.00,Mobile,Lexington,0.95,63400,239,390.00,58
+TXN1537,CUS537,Frederick Bailey,Basic,2024-03-22,13:15:00,Cryptocurrency,42.50,USD,Coffee Shop,Dunkin',Completed,0,360.00,Desktop,Hialeah,0.99,1000,4,14.00,2
+TXN1538,CUS538,Ruth Bell,Premium,2024-03-22,20:05:00,Wire Transfer,8640.00,USD,Investment,Vanguard,Completed,0,78900.00,Mobile,Fremont,0.93,86700,325,525.00,85
+TXN1539,CUS539,Howard Gomez,Standard,2024-03-23,12:10:00,Credit Card,425.00,USD,Clothing,H&M,Pending,1,4100.00,Desktop,Scottsdale,0.92,7200,36,94.00,27
+TXN1540,CUS540,Janet Kelly,Premium,2024-03-23,08:45:00,PayPal,4710.00,USD,Travel,Marriott,Completed,0,43200.00,Mobile,Irving,0.97,49700,184,320.00,44
+TXN1541,CUS541,Victor Howard,Standard,2024-03-24,17:30:00,Debit Card,580.00,USD,Grocery,Kroger,Completed,0,5200.00,Desktop,Greensboro,0.96,7900,40,107.00,18
+TXN1542,CUS542,Carol Ward,Premium,2024-03-24,14:55:00,Bank Transfer,5910.00,USD,Electronics,Sony,Completed,0,54500.00,Mobile,San Mateo,0.95,61200,225,375.00,57
+TXN1543,CUS543,Jesse Cox,Basic,2024-03-25,10:30:00,Cryptocurrency,67.99,USD,Entertainment,Hulu,Completed,0,550.00,Desktop,El Monte,0.98,1500,7,20.00,4
+TXN1544,CUS544,Katherine Diaz,Premium,2024-03-25,19:15:00,Wire Transfer,7030.00,USD,Investment,Robinhood,Completed,0,65400.00,Mobile,Escondido,0.94,72800,269,440.00,72
+TXN1545,CUS545,Frank Richardson,Standard,2024-03-26,15:40:00,Credit Card,310.00,USD,Retail,Amazon,Completed,0,4000.00,Desktop,Round Rock,0.97,6700,32,88.00,16
+TXN1546,CUS546,Helen Cox,Premium,2024-03-26,09:50:00,PayPal,4280.00,USD,Furniture,Restoration Hardware,Completed,0,39800.00,Mobile,Olathe,0.98,46300,180,305.00,42
+TXN1547,CUS547,Raymond Wood,Standard,2024-03-27,21:20:00,Debit Card,670.00,USD,Restaurant,Outback,Failed,1,5500.00,Desktop,Tempe,0.91,8400,45,112.00,33
+TXN1548,CUS548,Frances Ward,Premium,2024-03-27,12:35:00,Bank Transfer,5850.00,USD,Electronics,Adobe,Completed,0,53200.00,Mobile,Clovis,0.96,59800,216,370.00,56
+TXN1549,CUS549,Jerry James,Basic,2024-03-28,11:05:00,Cryptocurrency,28.99,USD,Pharmacy,CVS,Completed,0,280.00,Desktop,West Covina,0.99,900,3,11.00,1
+TXN1550,CUS550,Ruth Reed,Premium,2024-03-28,18:50:00,Wire Transfer,7950.00,USD,Travel,Hilton Hotels,Completed,0,71200.00,Mobile,Burbank,0.95,78800,298,485.00,78
+TXN1551,CUS551,Harold Fisher,Standard,2024-03-29,14:25:00,Credit Card,490.00,USD,Grocery,Albertsons,Completed,0,4700.00,Desktop,Concord,0.96,7500,37,98.00,17
+TXN1552,CUS552,Christine Ellis,Premium,2024-03-29,09:15:00,PayPal,3960.00,USD,Retail,Walmart,Completed,0,36800.00,Mobile,Thornton,0.97,42500,168,285.00,38
+TXN1553,CUS553,Ralph Harrison,Basic,2024-03-30,20:40:00,Debit Card,45.00,USD,Restaurant,Subway,Completed,0,390.00,Desktop,Santa Clara,0.99,1200,5,16.00,3
+TXN1554,CUS554,Gloria Gibson,Premium,2024-03-30,13:55:00,Bank Transfer,6340.00,USD,Investment,Charles Schwab,Completed,0,58900.00,Mobile,Richardson,0.95,65700,242,395.00,61
+TXN1555,CUS555,Billy Mills,Standard,2024-03-31,16:10:00,Cryptocurrency,850.00,USD,Electronics,Gamestop,Completed,0,7200.00,Desktop,Pomona,0.94,10100,49,130.00,25
+TXN1556,CUS556,Tammy Nichols,Premium,2024-03-31,11:30:00,Wire Transfer,7210.00,USD,Travel,Expedia,Completed,0,66700.00,Mobile,Portland,0.96,74300,278,440.00,69
+TXN1557,CUS557,Arthur Hunt,Standard,2024-04-01,09:55:00,Credit Card,380.00,USD,Furniture,IKEA,Completed,0,4200.00,Desktop,Spokane,0.97,7100,35,94.00,19
+TXN1558,CUS558,Julie Palmer,Premium,2024-04-01,18:20:00,PayPal,4650.00,USD,Retail,Lowe's,Completed,0,43400.00,Mobile,Madison,0.98,50100,195,315.00,45
+TXN1559,CUS559,Lawrence Robertson,Basic,2024-04-02,12:45:00,Debit Card,89.99,USD,Entertainment,Disney+,Completed,0,670.00,Desktop,Fargo,0.98,1800,8,24.00,5
+TXN1560,CUS560,Katherine Freeman,Premium,2024-04-02,15:35:00,Bank Transfer,5470.00,USD,Electronics,Best Buy,Completed,0,50900.00,Mobile,Overland Park,0.95,57400,213,355.00,54
+TXN1561,CUS561,Wayne Wells,Standard,2024-04-03,10:20:00,Cryptocurrency,290.00,USD,Clothing,Zara,Failed,1,3400.00,Desktop,Ontario,0.92,5900,30,81.00,26
+TXN1562,CUS562,Virginia Webb,Premium,2024-04-03,21:50:00,Wire Transfer,7680.00,USD,Investment,ETrade,Completed,0,69800.00,Mobile,Glendale,0.94,77600,289,470.00,77
+TXN1563,CUS563,Keith Simpson,Standard,2024-04-04,14:15:00,Credit Card,620.00,USD,Grocery,Safeway,Completed,0,5700.00,Desktop,Sioux Falls,0.96,8900,43,110.00,20
+TXN1564,CUS564,Judith Stevens,Premium,2024-04-04,08:40:00,PayPal,4120.00,USD,Travel,Southwest Airlines,Completed,0,38900.00,Mobile,Chandler,0.97,45200,178,300.00,41
+TXN1565,CUS565,Jeremy Walsh,Basic,2024-04-05,17:55:00,Debit Card,56.50,USD,Pharmacy,Walgreens,Completed,0,480.00,Desktop,Knoxville,0.99,1400,6,18.00,3
+TXN1566,CUS566,Beverly Tucker,Premium,2024-04-05,13:30:00,Bank Transfer,5890.00,USD,Electronics,Microsoft,Completed,0,54300.00,Mobile,Providence,0.95,60900,231,375.00,57
+TXN1567,CUS567,Roy Williamson,Standard,2024-04-06,11:10:00,Cryptocurrency,195.00,USD,Restaurant,Olive Garden,Completed,0,2900.00,Desktop,New Haven,0.96,5200,24,70.00,12
+TXN1568,CUS568,Anna Freeman,Premium,2024-04-06,19:45:00,Wire Transfer,6540.00,USD,Retail,Target,Completed,0,59800.00,Mobile,Toledo,0.95,66700,248,405.00,63
+TXN1569,CUS569,Justin Wagner,Standard,2024-04-07,09:25:00,Credit Card,430.00,USD,Furniture,Wayfair,Completed,0,4600.00,Desktop,Des Moines,0.97,7700,38,101.00,18
+TXN1570,CUS570,Doris Hunter,Premium,2024-04-07,16:55:00,PayPal,5250.00,USD,Investment,Wealthfront,Completed,0,48700.00,Mobile,Lubbock,0.96,55200,209,345.00,50
+TXN1571,CUS571,Randy Romero,Basic,2024-04-08,22:20:00,Debit Card,32.99,USD,Coffee Shop,Peet's,Completed,0,310.00,Desktop,Salem,0.99,1000,4,13.00,2
+TXN1572,CUS572,Phyllis Hicks,Premium,2024-04-08,12:50:00,Bank Transfer,7120.00,USD,Electronics,Apple Store,Completed,0,65400.00,Mobile,Tacoma,0.94,73100,268,435.00,71
+TXN1573,CUS573,Carl Holmes,Standard,2024-04-09,15:30:00,Cryptocurrency,780.00,USD,Retail,Home Depot,Pending,1,6400.00,Desktop,Springfield,0.91,9500,47,120.00,32
+TXN1574,CUS574,Paula Morris,Premium,2024-04-09,10:15:00,Wire Transfer,6250.00,USD,Travel,Delta Airlines,Completed,0,57800.00,Mobile,Grand Rapids,0.95,64600,238,390.00,60
+TXN1575,CUS575,Arthur Murphy,Standard,2024-04-10,18:40:00,Credit Card,340.00,USD,Grocery,Trader Joe's,Completed,0,4100.00,Desktop,Huntington,0.97,7000,34,92.00,15
+TXN1576,CUS576,Teresa Cook,Premium,2024-04-10,14:25:00,PayPal,4680.00,USD,Furniture,Crate & Barrel,Completed,0,43400.00,Mobile,Fort Collins,0.98,50100,186,320.00,44
+TXN1577,CUS577,Gregory Rogers,Basic,2024-04-11,09:35:00,Debit Card,71.50,USD,Pharmacy,Rite Aid,Completed,0,590.00,Desktop,Palmdale,0.98,1600,7,22.00,4
+TXN1578,CUS578,Sara Morgan,Premium,2024-04-11,20:10:00,Bank Transfer,7390.00,USD,Investment,Fidelity,Completed,0,67800.00,Mobile,Worcester,0.94,75600,282,460.00,75
+TXN1579,CUS579,Peter Cooper,Standard,2024-04-12,13:45:00,Cryptocurrency,260.00,USD,Restaurant,Denny's,Completed,0,3600.00,Desktop,Orange,0.96,6200,29,78.00,13
+TXN1580,CUS580,Cynthia Reed,Premium,2024-04-12,11:20:00,Wire Transfer,5870.00,USD,Retail,Costco,Completed,0,54300.00,Mobile,Fullerton,0.95,60900,226,365.00,56
+TXN1581,CUS581,Frederick Bailey,Standard,2024-04-13,17:15:00,Credit Card,590.00,USD,Clothing,Abercrombie,Completed,0,5300.00,Desktop,Warren,0.97,8200,41,106.00,19
+TXN1582,CUS582,Ruth Bell,Premium,2024-04-13,08:55:00,PayPal,4350.00,USD,Electronics,Samsung,Completed,0,40200.00,Mobile,Thornton,0.98,46700,181,310.00,43
+TXN1583,CUS583,Howard Gomez,Basic,2024-04-14,16:30:00,Debit Card,44.50,USD,Entertainment,HBO Max,Completed,0,370.00,Desktop,Ontario,0.99,1200,5,15.00,3
+TXN1584,CUS584,Janet Kelly,Premium,2024-04-14,12:05:00,Bank Transfer,6780.00,USD,Travel,Hyatt,Completed,0,61200.00,Mobile,Escondido,0.95,68400,254,410.00,64
+TXN1585,CUS585,Victor Howard,Standard,2024-04-15,10:40:00,Cryptocurrency,820.00,USD,Furniture,Ashley Furniture,Failed,1,6800.00,Desktop,El Monte,0.92,10100,48,125.00,35
+TXN1586,CUS586,Carol Ward,Premium,2024-04-15,19:25:00,Wire Transfer,7560.00,USD,Investment,Robinhood,Completed,0,69800.00,Mobile,Riverside,0.94,77600,291,465.00,76
+TXN1587,CUS587,Jesse Cox,Standard,2024-04-16,14:50:00,Credit Card,380.00,USD,Grocery,WinCo,Completed,0,4300.00,Desktop,Brownsville,0.97,7400,36,96.00,16
+TXN1588,CUS588,Katherine Diaz,Premium,2024-04-16,09:35:00,PayPal,5240.00,USD,Electronics,Bose,Completed,0,48700.00,Mobile,Gainesville,0.96,55300,211,350.00,52
+TXN1589,CUS589,Frank Richardson,Basic,2024-04-17,21:55:00,Debit Card,67.99,USD,Pharmacy,CVS,Completed,0,540.00,Desktop,Grand Prairie,0.98,1500,7,20.00,4
+TXN1590,CUS590,Helen Cox,Premium,2024-04-17,15:20:00,Bank Transfer,6430.00,USD,Retail,Macys,Completed,0,59800.00,Mobile,Memphis,0.95,66700,242,395.00,60
+TXN1591,CUS591,Raymond Wood,Standard,2024-04-18,12:30:00,Cryptocurrency,210.00,USD,Restaurant,Red Lobster,Completed,0,3200.00,Desktop,Hialeah,0.96,5800,27,74.00,11
+TXN1592,CUS592,Frances Ward,Premium,2024-04-18,08:45:00,Wire Transfer,7210.00,USD,Investment,Charles Schwab,Completed,0,66700.00,Mobile,Scottsdale,0.94,74500,278,445.00,72
+TXN1593,CUS593,Jerry James,Standard,2024-04-19,18:15:00,Credit Card,470.00,USD,Clothing,Old Navy,Completed,0,4900.00,Desktop,Irvine,0.97,8000,39,103.00,18
+TXN1594,CUS594,Ruth Reed,Premium,2024-04-19,13:40:00,PayPal,4960.00,USD,Electronics,Dell,Completed,0,46200.00,Mobile,San Angelo,0.98,53400,195,335.00,47
+TXN1595,CUS595,Harold Fisher,Basic,2024-04-20,11:05:00,Debit Card,39.99,USD,Coffee Shop,Starbucks,Completed,0,330.00,Desktop,Henderson,0.99,1100,4,14.00,2
+TXN1596,CUS596,Christine Ellis,Premium,2024-04-20,20:30:00,Bank Transfer,6940.00,USD,Travel,American Airlines,Completed,0,63400.00,Mobile,Thornton,0.95,70800,259,420.00,65
+TXN1597,CUS597,Ralph Harrison,Standard,2024-04-21,16:55:00,Cryptocurrency,680.00,USD,Furniture,West Elm,Pending,1,5900.00,Desktop,Clovis,0.91,8900,44,115.00,30
+TXN1598,CUS598,Gloria Gibson,Premium,2024-04-21,10:20:00,Wire Transfer,5870.00,USD,Investment,Vanguard,Completed,0,54300.00,Mobile,San Mateo,0.96,61200,232,375.00,57
+TXN1599,CUS599,Billy Mills,Standard,2024-04-22,14:35:00,Credit Card,350.00,USD,Grocery,Food Lion,Completed,0,4200.00,Desktop,Reno,0.97,7300,35,93.00,15
+TXN1600,CUS600,Tammy Nichols,Premium,2024-04-22,09:50:00,PayPal,4780.00,USD,Electronics,Lenovo,Completed,0,44500.00,Mobile,Lexington,0.98,51800,189,325.00,45
+TXN1601,CUS601,Arthur Hunt,Basic,2024-04-23,17:20:00,Debit Card,54.50,USD,Entertainment,Netflix,Completed,0,450.00,Desktop,Pasadena,0.98,1300,6,17.00,3
+TXN1602,CUS602,Julie Palmer,Premium,2024-04-23,12:45:00,Bank Transfer,6320.00,USD,Retail,Kohl's,Completed,0,58900.00,Mobile,Portland,0.95,65800,241,390.00,59
+TXN1603,CUS603,Lawrence Robertson,Standard,2024-04-24,19:30:00,Cryptocurrency,240.00,USD,Restaurant,Chipotle,Completed,0,3500.00,Desktop,Cary,0.96,6200,28,79.00,12
+TXN1604,CUS604,Katherine Freeman,Premium,2024-04-24,08:55:00,Wire Transfer,7140.00,USD,Investment,Betterment,Completed,0,66700.00,Mobile,Simi Valley,0.94,74300,276,445.00,73
+TXN1605,CUS605,Wayne Wells,Standard,2024-04-25,15:10:00,Credit Card,590.00,USD,Clothing,Nike,Completed,0,5400.00,Desktop,Salinas,0.97,8600,42,110.00,20
+TXN1606,CUS606,Virginia Webb,Premium,2024-04-25,11:35:00,PayPal,5030.00,USD,Electronics,HP,Completed,0,46800.00,Mobile,Orange,0.98,54200,203,335.00,48
+TXN1607,CUS607,Keith Simpson,Basic,2024-04-26,20:45:00,Debit Card,29.99,USD,Pharmacy,Walgreens,Completed,0,280.00,Desktop,Fullerton,0.99,900,3,12.00,2
+TXN1608,CUS608,Judith Stevens,Premium,2024-04-26,13:20:00,Bank Transfer,6650.00,USD,Travel,Marriott,Completed,0,61200.00,Mobile,Hampton,0.95,68400,251,410.00,63
+TXN1609,CUS609,Jeremy Walsh,Standard,2024-04-27,09:40:00,Cryptocurrency,410.00,USD,Grocery,Publix,Failed,1,4400.00,Desktop,Warren,0.92,7600,39,100.00,27
+TXN1610,CUS610,Beverly Tucker,Premium,2024-04-27,17:55:00,Wire Transfer,7480.00,USD,Investment,ETrade,Completed,0,69800.00,Mobile,Thornton,0.94,77500,289,460.00,75
+TXN1611,CUS611,Roy Williamson,Standard,2024-04-28,14:30:00,Credit Card,320.00,USD,Furniture,IKEA,Completed,0,4000.00,Desktop,Ontario,0.97,7000,33,89.00,16
+TXN1612,CUS612,Anna Freeman,Premium,2024-04-28,10:15:00,PayPal,4560.00,USD,Retail,Nordstrom,Completed,0,42300.00,Mobile,Escondido,0.98,49500,178,310.00,44
+TXN1613,CUS613,Justin Wagner,Basic,2024-04-29,18:40:00,Debit Card,78.99,USD,Entertainment,Spotify,Completed,0,610.00,Desktop,El Monte,0.98,1600,7,23.00,4
+TXN1614,CUS614,Doris Hunter,Premium,2024-04-29,12:05:00,Bank Transfer,6180.00,USD,Electronics,Microsoft,Completed,0,57600.00,Mobile,Riverside,0.95,64700,234,385.00,59
+TXN1615,CUS615,Randy Romero,Standard,2024-04-30,16:25:00,Cryptocurrency,520.00,USD,Restaurant,Outback,Completed,0,5100.00,Desktop,Brownsville,0.96,8200,40,105.00,19
+TXN1616,CUS616,Phyllis Hicks,Premium,2024-04-30,09:10:00,Wire Transfer,7320.00,USD,Investment,Wealthfront,Completed,0,68700.00,Mobile,Gainesville,0.94,76500,281,450.00,72
+TXN1617,CUS617,Carl Holmes,Basic,2024-05-01,11:50:00,Debit Card,45.00,USD,Coffee Shop,Dunkin',Completed,0,380.00,Desktop,Grand Prairie,0.99,1200,5,15.00,3
+TXN1618,CUS618,Paula Morris,Premium,2024-05-01,19:35:00,PayPal,4920.00,USD,Travel,United Airlines,Completed,0,45600.00,Mobile,Memphis,0.97,52800,197,335.00,47
+TXN1619,CUS619,Arthur Murphy,Standard,2024-05-02,14:55:00,Credit Card,670.00,USD,Grocery,Whole Foods,Completed,0,5800.00,Desktop,Hialeah,0.96,9100,45,118.00,21
+TXN1620,CUS620,Teresa Cook,Premium,2024-05-02,08:30:00,Bank Transfer,5740.00,USD,Electronics,Sony,Completed,0,53200.00,Mobile,Scottsdale,0.95,60100,223,360.00,55
+TXN1621,CUS621,Gregory Rogers,Basic,2024-05-03,21:15:00,Cryptocurrency,34.50,USD,Pharmacy,Rite Aid,Completed,0,300.00,Desktop,Irvine,0.99,1000,4,13.00,2
+TXN1622,CUS622,Sara Morgan,Premium,2024-05-03,15:40:00,Wire Transfer,6910.00,USD,Investment,Fidelity,Completed,0,64300.00,Mobile,San Angelo,0.95,71900,264,425.00,67
+TXN1623,CUS623,Peter Cooper,Standard,2024-05-04,12:25:00,PayPal,280.00,USD,Clothing,Adidas,Pending,1,3700.00,Desktop,Henderson,0.92,6400,30,83.00,24
+TXN1624,CUS624,Cynthia Reed,Premium,2024-05-04,09:50:00,Bank Transfer,5240.00,USD,Retail,Sam's Club,Completed,0,48700.00,Mobile,Thornton,0.98,55800,204,340.00,49
+TXN1625,CUS625,Frederick Bailey,Standard,2024-05-05,17:35:00,Credit Card,430.00,USD,Furniture,Pottery Barn,Completed,0,4700.00,Desktop,Clovis,0.97,7900,38,102.00,17
+TXN1626,CUS626,Ruth Bell,Premium,2024-05-05,13:10:00,Cryptocurrency,6720.00,USD,Electronics,Bose,Completed,0,62300.00,Mobile,San Mateo,0.94,69800,253,410.00,64
+TXN1627,CUS627,Howard Gomez,Basic,2024-05-06,10:45:00,Debit Card,67.99,USD,Entertainment,Hulu,Completed,0,560.00,Desktop,Reno,0.98,1500,7,21.00,4
+TXN1628,CUS628,Janet Kelly,Premium,2024-05-06,19:20:00,Wire Transfer,5890.00,USD,Travel,Hilton Hotels,Completed,0,54500.00,Mobile,Lexington,0.96,61700,235,365.00,56
+TXN1629,CUS629,Victor Howard,Standard,2024-05-07,15:55:00,PayPal,360.00,USD,Grocery,Safeway,Completed,0,4300.00,Desktop,Pasadena,0.97,7400,35,95.00,15
+TXN1630,CUS630,Carol Ward,Premium,2024-05-07,11:30:00,Bank Transfer,6340.00,USD,Investment,Robinhood,Completed,0,58900.00,Mobile,Portland,0.95,66300,245,395.00,60
+TXN1631,CUS631,Jesse Cox,Standard,2024-05-08,20:05:00,Credit Card,580.00,USD,Restaurant,Red Robin,Failed,1,5300.00,Desktop,Cary,0.91,8800,42,114.00,31
+TXN1632,CUS632,Katherine Diaz,Premium,2024-05-08,14:40:00,Cryptocurrency,7210.00,USD,Electronics,Apple Store,Completed,0,66700.00,Mobile,Simi Valley,0.94,74500,278,440.00,73
+TXN1633,CUS633,Frank Richardson,Basic,2024-05-09,09:15:00,Debit Card,44.99,USD,Pharmacy,CVS,Completed,0,380.00,Desktop,Salinas,0.99,1200,5,16.00,3
+TXN1634,CUS634,Helen Cox,Premium,2024-05-09,17:50:00,Wire Transfer,6950.00,USD,Retail,Costco,Completed,0,64500.00,Mobile,Orange,0.95,72200,261,420.00,66
+TXN1635,CUS635,Raymond Wood,Standard,2024-05-10,13:25:00,PayPal,290.00,USD,Clothing,Gap,Completed,0,3800.00,Desktop,Fullerton,0.96,6600,31,85.00,13
+TXN1636,CUS636,Frances Ward,Premium,2024-05-10,10:50:00,Bank Transfer,5670.00,USD,Investment,Vanguard,Completed,0,52300.00,Mobile,Hampton,0.97,59600,218,350.00,53
+TXN1637,CUS637,Jerry James,Basic,2024-05-11,18:15:00,Cryptocurrency,32.50,USD,Coffee Shop,Peet's,Completed,0,290.00,Desktop,Warren,0.99,900,3,11.00,2
+TXN1638,CUS638,Ruth Reed,Premium,2024-05-11,12:40:00,Wire Transfer,7420.00,USD,Electronics,Dell,Completed,0,68700.00,Mobile,Thornton,0.94,76800,284,455.00,75
+TXN1639,CUS639,Harold Fisher,Standard,2024-05-12,16:05:00,Credit Card,470.00,USD,Furniture,Restoration Hardware,Completed,0,5000.00,Desktop,Ontario,0.97,8200,40,107.00,19
+TXN1640,CUS640,Christine Ellis,Premium,2024-05-12,09:30:00,PayPal,5030.00,USD,Travel,Expedia,Completed,0,46800.00,Mobile,Escondido,0.98,54200,201,330.00,47
+TXN1641,CUS641,Judith Stevens,Standard,2024-05-13,21:20:00,Bank Transfer,340.00,USD,Grocery,Albertsons,Completed,0,4100.00,Desktop,El Monte,0.96,7200,34,94.00,16
+TXN1642,CUS642,Jeremy Walsh,Premium,2024-05-13,15:45:00,Cryptocurrency,6150.00,USD,Investment,Charles Schwab,Completed,0,57800.00,Mobile,Riverside,0.95,64900,238,385.00,59
+TXN1643,CUS643,Beverly Tucker,Basic,2024-05-14,11:10:00,Debit Card,56.99,USD,Entertainment,Paramount+,Completed,0,490.00,Desktop,Brownsville,0.98,1400,6,19.00,3
+TXN1644,CUS644,Roy Williamson,Premium,2024-05-14,19:35:00,Wire Transfer,6840.00,USD,Electronics,Lenovo,Completed,0,63400.00,Mobile,Gainesville,0.95,71100,255,415.00,64
+TXN1645,CUS645,Anna Freeman,Standard,2024-05-15,14:55:00,PayPal,590.00,USD,Retail,Amazon,Completed,0,5500.00,Desktop,Grand Prairie,0.97,8800,43,113.00,20
+TXN1646,CUS646,Justin Wagner,Premium,2024-05-15,08:20:00,Bank Transfer,5430.00,USD,Investment,Betterment,Completed,0,50900.00,Mobile,Memphis,0.98,58200,210,345.00,51
+TXN1647,CUS647,Doris Hunter,Standard,2024-05-16,17:45:00,Credit Card,420.00,USD,Clothing,H&M,Pending,1,4500.00,Desktop,Hialeah,0.92,7700,37,100.00,25
+TXN1648,CUS648,Randy Romero,Premium,2024-05-16,13:10:00,Cryptocurrency,6980.00,USD,Electronics,Samsung,Completed,0,65400.00,Mobile,Scottsdale,0.94,72800,263,425.00,69
+TXN1649,CUS649,Phyllis Hicks,Basic,2024-05-17,10:35:00,Debit Card,78.50,USD,Pharmacy,Rite Aid,Completed,0,620.00,Desktop,Irvine,0.98,1600,7,23.00,4
+TXN1650,CUS650,Carl Holmes,Premium,2024-05-17,18:50:00,Wire Transfer,7210.00,USD,Travel,Delta Airlines,Completed,0,67800.00,Mobile,San Angelo,0.95,75400,276,445.00,71
+TXN1651,CUS651,Paula Morris,Standard,2024-05-18,15:15:00,PayPal,310.00,USD,Grocery,Kroger,Completed,0,3900.00,Desktop,Henderson,0.96,6900,32,88.00,14
+TXN1652,CUS652,Arthur Murphy,Premium,2024-05-18,09:40:00,Bank Transfer,5860.00,USD,Investment,ETrade,Completed,0,54500.00,Mobile,Thornton,0.97,62300,228,365.00,56
+TXN1653,CUS653,Teresa Cook,Basic,2024-05-19,20:25:00,Cryptocurrency,29.99,USD,Coffee Shop,Starbucks,Completed,0,270.00,Desktop,Clovis,0.99,900,3,12.00,2
+TXN1654,CUS654,Gregory Rogers,Premium,2024-05-19,14:55:00,Wire Transfer,6590.00,USD,Electronics,Adobe,Completed,0,61200.00,Mobile,San Mateo,0.95,68800,248,405.00,62
+TXN1655,CUS655,Sara Morgan,Standard,2024-05-20,12:30:00,Credit Card,570.00,USD,Furniture,Wayfair,Completed,0,5300.00,Desktop,Reno,0.97,8500,41,110.00,19
+TXN1656,CUS656,Peter Cooper,Premium,2024-05-20,08:45:00,PayPal,5140.00,USD,Retail,Macys,Completed,0,47800.00,Mobile,Lexington,0.98,55100,206,335.00,48
+TXN1657,CUS657,Cynthia Reed,Basic,2024-05-21,17:10:00,Debit Card,67.00,USD,Entertainment,Netflix,Completed,0,550.00,Desktop,Pasadena,0.98,1500,6,20.00,4
+TXN1658,CUS658,Frederick Bailey,Premium,2024-05-21,11:35:00,Bank Transfer,6020.00,USD,Travel,Southwest Airlines,Completed,0,56700.00,Mobile,Portland,0.96,64100,234,375.00,58
+TXN1659,CUS659,Ruth Bell,Standard,2024-05-22,19:50:00,Cryptocurrency,430.00,USD,Restaurant,Chick-fil-A,Failed,1,4600.00,Desktop,Cary,0.91,8000,39,105.00,27
+TXN1660,CUS660,Howard Gomez,Premium,2024-05-22,16:15:00,Wire Transfer,7340.00,USD,Investment,Wealthfront,Completed,0,68700.00,Mobile,Simi Valley,0.94,76600,281,450.00,74
+TXN1661,CUS661,Janet Kelly,Standard,2024-05-23,13:40:00,PayPal,380.00,USD,Grocery,Trader Joe's,Completed,0,4300.00,Desktop,Salinas,0.97,7400,35,96.00,16
+TXN1662,CUS662,Victor Howard,Premium,2024-05-23,09:05:00,Bank Transfer,5670.00,USD,Electronics,Bose,Completed,0,53200.00,Mobile,Orange,0.98,60700,221,350.00,53
+TXN1663,CUS663,Carol Ward,Basic,2024-05-24,18:30:00,Debit Card,45.50,USD,Pharmacy,Walgreens,Completed,0,380.00,Desktop,Fullerton,0.99,1200,5,16.00,3
+TXN1664,CUS664,Jesse Cox,Premium,2024-05-24,12:55:00,Cryptocurrency,6890.00,USD,Investment,Fidelity,Completed,0,64300.00,Mobile,Hampton,0.95,71900,263,420.00,67
+TXN1665,CUS665,Katherine Diaz,Standard,2024-05-25,10:20:00,Wire Transfer,290.00,USD,Clothing,Zara,Completed,0,3700.00,Desktop,Warren,0.96,6600,30,84.00,13
+TXN1666,CUS666,Frank Richardson,Premium,2024-05-25,17:45:00,Credit Card,5420.00,USD,Retail,Target,Completed,0,50900.00,Mobile,Thornton,0.97,58400,214,345.00,51
+TXN1667,CUS667,Helen Cox,Standard,2024-05-26,14:10:00,PayPal,520.00,USD,Furniture,Ashley Furniture,Completed,0,5100.00,Desktop,Ontario,0.96,8300,42,108.00,18
+TXN1668,CUS668,Raymond Wood,Premium,2024-05-26,08:35:00,Bank Transfer,6250.00,USD,Electronics,Microsoft,Completed,0,58700.00,Mobile,Escondido,0.95,66100,239,385.00,59
+TXN1669,CUS669,Frances Ward,Basic,2024-05-27,19:55:00,Cryptocurrency,33.99,USD,Entertainment,Disney+,Completed,0,300.00,Desktop,El Monte,0.99,1000,4,13.00,2
+TXN1670,CUS670,Jerry James,Premium,2024-05-27,15:20:00,Wire Transfer,7040.00,USD,Travel,Hyatt,Completed,0,65600.00,Mobile,Riverside,0.94,73400,271,430.00,70
+TXN1671,CUS671,Ruth Reed,Standard,2024-05-28,11:45:00,Debit Card,410.00,USD,Grocery,Publix,Completed,0,4400.00,Desktop,Brownsville,0.97,7600,37,99.00,17
+TXN1672,CUS672,Harold Fisher,Premium,2024-05-28,09:10:00,Credit Card,5980.00,USD,Investment,Robinhood,Completed,0,55600.00,Mobile,Gainesville,0.98,63500,228,370.00,56
+TXN1673,CUS673,Christine Ellis,Standard,2024-05-29,16:35:00,PayPal,340.00,USD,Restaurant,Olive Garden,Completed,0,4100.00,Desktop,Grand Prairie,0.96,7200,34,93.00,15
+TXN1674,CUS674,Ralph Harrison,Premium,2024-05-29,12:00:00,Bank Transfer,6710.00,USD,Electronics,Apple Store,Completed,0,62300.00,Mobile,Memphis,0.95,69900,251,410.00,63
+TXN1675,CUS675,Gloria Gibson,Standard,2024-05-30,20:25:00,Cryptocurrency,570.00,USD,Furniture,IKEA,Pending,1,5400.00,Desktop,Hialeah,0.91,8900,44,116.00,29
+TXN1676,CUS676,Billy Mills,Premium,2024-05-30,14:50:00,Wire Transfer,7230.00,USD,Investment,Vanguard,Completed,0,67800.00,Mobile,Scottsdale,0.94,75600,277,445.00,72
+TXN1677,CUS677,Tammy Nichols,Standard,2024-05-31,10:15:00,Debit Card,290.00,USD,Clothing,Nike,Completed,0,3800.00,Desktop,Irvine,0.97,6700,31,87.00,13
+TXN1678,CUS678,Arthur Hunt,Premium,2024-05-31,17:40:00,Credit Card,5340.00,USD,Retail,Costco,Completed,0,49800.00,Mobile,San Angelo,0.98,57400,208,340.00,50
+TXN1679,CUS679,Julie Palmer,Basic,2024-06-01,13:05:00,PayPal,67.99,USD,Pharmacy,CVS,Completed,0,570.00,Desktop,Henderson,0.98,1500,6,21.00,4
+TXN1680,CUS680,Lawrence Robertson,Premium,2024-06-01,09:30:00,Bank Transfer,6450.00,USD,Electronics,Sony,Completed,0,60100.00,Mobile,Thornton,0.95,67700,245,400.00,61
+TXN1681,CUS681,Katherine Freeman,Standard,2024-06-02,18:55:00,Cryptocurrency,460.00,USD,Grocery,Whole Foods,Completed,0,4900.00,Desktop,Clovis,0.96,8100,39,105.00,18
+TXN1682,CUS682,Wayne Wells,Premium,2024-06-02,15:20:00,Wire Transfer,7120.00,USD,Travel,American Airlines,Completed,0,66700.00,Mobile,San Mateo,0.95,74500,267,435.00,68
+TXN1683,CUS683,Virginia Webb,Basic,2024-06-03,12:45:00,Debit Card,45.00,USD,Coffee Shop,Dunkin',Completed,0,390.00,Desktop,Reno,0.99,1200,5,16.00,3
+TXN1684,CUS684,Keith Simpson,Premium,2024-06-03,08:10:00,Credit Card,5830.00,USD,Investment,Charles Schwab,Completed,0,54300.00,Mobile,Lexington,0.97,62200,225,360.00,55
+TXN1685,CUS685,Judith Stevens,Standard,2024-06-04,16:35:00,PayPal,380.00,USD,Furniture,West Elm,Completed,0,4300.00,Desktop,Pasadena,0.96,7500,36,98.00,16
+TXN1686,CUS686,Jeremy Walsh,Premium,2024-06-04,11:00:00,Bank Transfer,6540.00,USD,Electronics,Dell,Completed,0,60900.00,Mobile,Portland,0.95,68600,246,405.00,62
+TXN1687,CUS687,Beverly Tucker,Basic,2024-06-05,19:25:00,Cryptocurrency,34.99,USD,Entertainment,Spotify,Completed,0,310.00,Desktop,Cary,0.99,1000,4,13.00,2
+TXN1688,CUS688,Roy Williamson,Premium,2024-06-05,14:50:00,Wire Transfer,6980.00,USD,Retail,Home Depot,Completed,0,65400.00,Mobile,Simi Valley,0.94,73100,269,425.00,69
+TXN1689,CUS689,Anna Freeman,Standard,2024-06-06,10:15:00,Debit Card,520.00,USD,Grocery,Albertsons,Failed,1,5200.00,Desktop,Salinas,0.92,8700,44,113.00,27
+TXN1690,CUS690,Justin Wagner,Premium,2024-06-06,17:40:00,Credit Card,5670.00,USD,Investment,Betterment,Completed,0,53200.00,Mobile,Orange,0.98,60900,218,350.00,53
+TXN1691,CUS691,Doris Hunter,Standard,2024-06-07,13:05:00,PayPal,430.00,USD,Clothing,Old Navy,Completed,0,4700.00,Desktop,Fullerton,0.97,8000,38,104.00,17
+TXN1692,CUS692,Randy Romero,Premium,2024-06-07,09:30:00,Bank Transfer,6320.00,USD,Electronics,Lenovo,Completed,0,58900.00,Mobile,Hampton,0.96,66500,241,390.00,59
+TXN1693,CUS693,Phyllis Hicks,Basic,2024-06-08,20:55:00,Cryptocurrency,78.99,USD,Pharmacy,Rite Aid,Completed,0,640.00,Desktop,Warren,0.98,1700,7,24.00,4
+TXN1694,CUS694,Carl Holmes,Premium,2024-06-08,16:20:00,Wire Transfer,7150.00,USD,Travel,Marriott,Completed,0,67800.00,Mobile,Thornton,0.94,75600,274,440.00,71
+TXN1695,CUS695,Paula Morris,Standard,2024-06-09,12:45:00,Debit Card,350.00,USD,Restaurant,Denny's,Completed,0,4200.00,Desktop,Ontario,0.96,7300,34,95.00,15
+TXN1696,CUS696,Arthur Murphy,Premium,2024-06-09,08:10:00,Credit Card,5430.00,USD,Investment,ETrade,Completed,0,50900.00,Mobile,Escondido,0.97,58600,215,340.00,51
+TXN1697,CUS697,Teresa Cook,Basic,2024-06-10,17:35:00,PayPal,45.99,USD,Grocery,Trader Joe's,Completed,0,400.00,Desktop,El Monte,0.99,1300,6,17.00,3
+TXN1698,CUS698,Gregory Rogers,Premium,2024-06-10,14:00:00,Bank Transfer,6870.00,USD,Electronics,HP,Completed,0,64500.00,Mobile,Riverside,0.95,72300,258,420.00,65
+TXN1699,CUS699,Sara Morgan,Standard,2024-06-11,10:25:00,Cryptocurrency,590.00,USD,Furniture,Pottery Barn,Completed,0,5600.00,Desktop,Brownsville,0.96,9200,46,120.00,20
+TXN1700,CUS700,Peter Cooper,Premium,2024-06-11,18:50:00,Wire Transfer,7340.00,USD,Retail,Nordstrom,Completed,0,69800.00,Mobile,Gainesville,0.94,77600,283,450.00,73
+TXN1701,CUS701,Cynthia Reed,Standard,2024-06-12,15:15:00,Debit Card,280.00,USD,Clothing,Abercrombie,Completed,0,3600.00,Desktop,Grand Prairie,0.97,6600,30,86.00,13
+TXN1702,CUS702,Frederick Bailey,Premium,2024-06-12,09:40:00,Credit Card,5980.00,USD,Investment,Wealthfront,Completed,0,56700.00,Mobile,Memphis,0.98,64600,231,370.00,56
+TXN1703,CUS703,Ruth Bell,Basic,2024-06-13,20:05:00,PayPal,67.50,USD,Entertainment,HBO Max,Completed,0,560.00,Desktop,Hialeah,0.98,1500,6,21.00,4
+TXN1704,CUS704,Howard Gomez,Premium,2024-06-13,16:30:00,Bank Transfer,6450.00,USD,Electronics,Samsung,Completed,0,60900.00,Mobile,Scottsdale,0.95,68600,245,400.00,61
+TXN1705,CUS705,Janet Kelly,Standard,2024-06-14,12:55:00,Cryptocurrency,410.00,USD,Grocery,Safeway,Pending,1,4500.00,Desktop,Irvine,0.91,7800,39,102.00,26
+TXN1706,CUS706,Victor Howard,Premium,2024-06-14,08:20:00,Wire Transfer,7120.00,USD,Travel,United Airlines,Completed,0,67800.00,Mobile,San Angelo,0.94,75600,272,435.00,70
+TXN1707,CUS707,Carol Ward,Standard,2024-06-15,17:45:00,Debit Card,380.00,USD,Furniture,Crate & Barrel,Completed,0,4400.00,Desktop,Henderson,0.96,7600,37,99.00,16
+TXN1708,CUS708,Jesse Cox,Premium,2024-06-15,14:10:00,Credit Card,5430.00,USD,Investment,Fidelity,Completed,0,51200.00,Mobile,Thornton,0.97,58900,215,340.00,52
+TXN1709,CUS709,Katherine Diaz,Basic,2024-06-16,10:35:00,PayPal,32.99,USD,Coffee Shop,Peet's,Completed,0,290.00,Desktop,Clovis,0.99,1000,4,12.00,2
+TXN1710,CUS710,Frank Richardson,Premium,2024-06-16,19:00:00,Bank Transfer,6890.00,USD,Electronics,Bose,Completed,0,65400.00,Mobile,San Mateo,0.95,73200,262,420.00,66
+TXN1711,CUS711,Helen Cox,Standard,2024-06-17,15:25:00,Cryptocurrency,530.00,USD,Retail,Walmart,Completed,0,5200.00,Desktop,Reno,0.96,8800,43,115.00,19
+TXN1712,CUS712,Raymond Wood,Premium,2024-06-17,09:50:00,Wire Transfer,7260.00,USD,Travel,Expedia,Completed,0,68700.00,Mobile,Lexington,0.94,76500,278,445.00,72
+TXN1713,CUS713,Frances Ward,Basic,2024-06-18,18:15:00,Debit Card,45.99,USD,Pharmacy,Walgreens,Completed,0,410.00,Desktop,Pasadena,0.99,1300,5,17.00,3
+TXN1714,CUS714,Jerry James,Premium,2024-06-18,13:40:00,Credit Card,5670.00,USD,Investment,Robinhood,Completed,0,53200.00,Mobile,Portland,0.98,60900,221,350.00,53
+TXN1715,CUS715,Ruth Reed,Standard,2024-06-19,11:05:00,PayPal,360.00,USD,Restaurant,Subway,Completed,0,4200.00,Desktop,Cary,0.96,7400,35,96.00,15
+TXN1716,CUS716,Harold Fisher,Premium,2024-06-19,08:30:00,Bank Transfer,6320.00,USD,Electronics,Microsoft,Completed,0,59800.00,Mobile,Simi Valley,0.95,67600,242,390.00,60
+TXN1717,CUS717,Christine Ellis,Basic,2024-06-20,20:55:00,Cryptocurrency,34.50,USD,Entertainment,Hulu,Completed,0,310.00,Desktop,Salinas,0.99,1100,4,13.00,2
+TXN1718,CUS718,Frank Richardson,Premium,2024-06-20,17:20:00,Wire Transfer,6980.00,USD,Retail,Kohl's,Completed,0,66500.00,Mobile,Orange,0.94,74300,266,425.00,68
+TXN1719,CUS719,Helen Cox,Standard,2024-06-21,13:45:00,Debit Card,430.00,USD,Grocery,Publix,Completed,0,4700.00,Desktop,Fullerton,0.97,8100,40,106.00,18
+TXN1720,CUS720,Raymond Wood,Premium,2024-06-21,09:10:00,Credit Card,6540.00,USD,Investment,Vanguard,Completed,0,61200.00,Mobile,Hampton,0.98,69100,248,405.00,62
+TXN1721,CUS721,Frances Ward,Standard,2024-06-22,16:35:00,PayPal,290.00,USD,Clothing,Gap,Failed,1,3800.00,Desktop,Warren,0.92,6700,31,88.00,23
+TXN1722,CUS722,Jerry James,Premium,2024-06-22,12:00:00,Bank Transfer,7210.00,USD,Electronics,Apple Store,Completed,0,68700.00,Mobile,Thornton,0.95,76700,274,440.00,71
+TXN1723,CUS723,Ruth Reed,Basic,2024-06-23,10:25:00,Cryptocurrency,78.00,USD,Pharmacy,CVS,Completed,0,620.00,Desktop,Ontario,0.98,1600,7,23.00,4
+TXN1724,CUS724,Harold Fisher,Premium,2024-06-23,17:50:00,Wire Transfer,5890.00,USD,Travel,Delta Airlines,Completed,0,55600.00,Mobile,Escondido,0.96,63500,230,365.00,57
+TXN1725,CUS725,Christine Ellis,Standard,2024-06-24,14:15:00,Debit Card,520.00,USD,Furniture,Room & Board,Completed,0,5100.00,Desktop,El Monte,0.96,8800,45,115.00,19
+TXN1726,CUS726,Ralph Harrison,Premium,2024-06-24,08:40:00,Credit Card,6120.00,USD,Investment,Charles Schwab,Completed,0,57800.00,Mobile,Riverside,0.97,65800,234,380.00,58
+TXN1727,CUS727,Gloria Gibson,Basic,2024-06-25,19:05:00,PayPal,45.00,USD,Coffee Shop,Starbucks,Completed,0,380.00,Desktop,Brownsville,0.99,1200,5,16.00,3
+TXN1728,CUS728,Billy Mills,Premium,2024-06-25,15:30:00,Bank Transfer,6740.00,USD,Electronics,Sony,Completed,0,63400.00,Mobile,Gainesville,0.95,71300,256,415.00,64
+TXN1729,CUS729,Tammy Nichols,Standard,2024-06-26,11:55:00,Cryptocurrency,380.00,USD,Grocery,Food Lion,Completed,0,4300.00,Desktop,Grand Prairie,0.97,7600,36,100.00,16
+TXN1730,CUS730,Arthur Hunt,Premium,2024-06-26,09:20:00,Wire Transfer,6980.00,USD,Investment,Betterment,Completed,0,66500.00,Mobile,Memphis,0.94,74400,268,425.00,69
+TXN1731,CUS731,Julie Palmer,Basic,2024-06-27,18:45:00,Debit Card,34.99,USD,Entertainment,Netflix,Completed,0,310.00,Desktop,Hialeah,0.99,1000,4,13.00,2
+TXN1732,CUS732,Lawrence Robertson,Premium,2024-06-27,14:10:00,Credit Card,6320.00,USD,Retail,Sam's Club,Completed,0,59800.00,Mobile,Scottsdale,0.98,67800,241,390.00,60
+TXN1733,CUS733,Katherine Freeman,Standard,2024-06-28,10:35:00,PayPal,570.00,USD,Clothing,H&M,Completed,0,5400.00,Desktop,Irvine,0.96,9100,47,119.00,20
+TXN1734,CUS734,Wayne Wells,Premium,2024-06-28,17:00:00,Bank Transfer,7230.00,USD,Electronics,Dell,Completed,0,68700.00,Mobile,San Angelo,0.95,76700,275,445.00,71
+TXN1735,CUS735,Virginia Webb,Basic,2024-06-29,13:25:00,Cryptocurrency,67.50,USD,Pharmacy,Rite Aid,Completed,0,560.00,Desktop,Henderson,0.98,1500,6,21.00,4
+TXN1736,CUS736,Keith Simpson,Premium,2024-06-29,08:50:00,Wire Transfer,5870.00,USD,Travel,Southwest Airlines,Completed,0,55400.00,Mobile,Thornton,0.96,63300,227,365.00,56
+TXN1737,CUS737,Judith Stevens,Standard,2024-06-30,16:15:00,Debit Card,410.00,USD,Furniture,Ashley Furniture,Pending,1,4500.00,Desktop,Clovis,0.91,7900,40,104.00,25
+TXN1738,CUS738,Jeremy Walsh,Premium,2024-06-30,12:40:00,Credit Card,6450.00,USD,Investment,ETrade,Completed,0,61200.00,Mobile,San Mateo,0.97,69300,245,400.00,61
+TXN1739,CUS739,Beverly Tucker,Basic,2024-07-01,09:05:00,PayPal,45.99,USD,Grocery,WinCo,Completed,0,400.00,Desktop,Reno,0.99,1300,5,17.00,3
+TXN1740,CUS740,Roy Williamson,Premium,2024-07-01,17:30:00,Bank Transfer,7120.00,USD,Electronics,Lenovo,Completed,0,67800.00,Mobile,Lexington,0.95,75900,267,435.00,68
+TXN1741,CUS741,Anna Freeman,Standard,2024-07-02,13:55:00,Cryptocurrency,350.00,USD,Retail,Amazon,Completed,0,4200.00,Desktop,Pasadena,0.96,7500,35,97.00,15
+TXN1742,CUS742,Justin Wagner,Premium,2024-07-02,08:20:00,Wire Transfer,6890.00,USD,Investment,Wealthfront,Completed,0,65400.00,Mobile,Portland,0.94,73500,262,420.00,66
+TXN1743,CUS743,Doris Hunter,Basic,2024-07-03,18:45:00,Debit Card,34.50,USD,Coffee Shop,Dunkin',Completed,0,300.00,Desktop,Cary,0.99,1000,4,12.00,2
+TXN1744,CUS744,Randy Romero,Premium,2024-07-03,15:10:00,Credit Card,6340.00,USD,Electronics,HP,Completed,0,60100.00,Mobile,Simi Valley,0.98,68300,240,395.00,60
+TXN1745,CUS745,Phyllis Hicks,Standard,2024-07-04,11:35:00,PayPal,530.00,USD,Grocery,Albertsons,Completed,0,5200.00,Desktop,Salinas,0.96,8900,46,116.00,19
+TXN1746,CUS746,Carl Holmes,Premium,2024-07-04,09:00:00,Bank Transfer,7210.00,USD,Travel,Hilton Hotels,Completed,0,68700.00,Mobile,Orange,0.95,76900,274,440.00,71
+TXN1747,CUS747,Paula Morris,Basic,2024-07-05,19:25:00,Cryptocurrency,67.99,USD,Entertainment,Paramount+,Completed,0,580.00,Desktop,Fullerton,0.98,1600,6,22.00,4
+TXN1748,CUS748,Arthur Murphy,Premium,2024-07-05,16:50:00,Wire Transfer,6980.00,USD,Investment,Fidelity,Completed,0,66500.00,Mobile,Hampton,0.94,74700,263,425.00,68
+TXN1749,CUS749,Teresa Cook,Standard,2024-07-06,13:15:00,Debit Card,380.00,USD,Clothing,Zara,Completed,0,4300.00,Desktop,Warren,0.97,7700,37,101.00,16
+TXN1750,CUS750,Gregory Rogers,Premium,2024-07-06,08:40:00,Credit Card,5670.00,USD,Electronics,Microsoft,Completed,0,54300.00,Mobile,Thornton,0.98,62400,221,350.00,53
+TXN1751,CUS751,Sara Morgan,Standard,2024-07-07,17:05:00,PayPal,410.00,USD,Furniture,IKEA,Failed,1,4600.00,Desktop,Ontario,0.92,8000,39,105.00,24
+TXN1752,CUS752,Peter Cooper,Premium,2024-07-07,12:30:00,Bank Transfer,6540.00,USD,Investment,Robinhood,Completed,0,62300.00,Mobile,Escondido,0.95,70400,249,405.00,62
+TXN1753,CUS753,Cynthia Reed,Basic,2024-07-08,10:55:00,Cryptocurrency,45.50,USD,Pharmacy,Walgreens,Completed,0,390.00,Desktop,El Monte,0.99,1300,5,17.00,3
+TXN1754,CUS754,Frederick Bailey,Premium,2024-07-08,18:20:00,Wire Transfer,7230.00,USD,Retail,Costco,Completed,0,69800.00,Mobile,Riverside,0.94,78100,278,445.00,72
+TXN1755,CUS755,Ruth Bell,Standard,2024-07-09,14:45:00,Debit Card,290.00,USD,Grocery,Trader Joe's,Completed,0,3700.00,Desktop,Brownsville,0.96,6800,32,88.00,14
+TXN1756,CUS756,Howard Gomez,Premium,2024-07-09,09:10:00,Credit Card,5980.00,USD,Electronics,Samsung,Completed,0,56700.00,Mobile,Gainesville,0.97,65100,230,370.00,56
+TXN1757,CUS757,Janet Kelly,Basic,2024-07-10,19:35:00,PayPal,33.99,USD,Entertainment,Spotify,Completed,0,300.00,Desktop,Grand Prairie,0.99,1100,4,13.00,2
+TXN1758,CUS758,Victor Howard,Premium,2024-07-10,16:00:00,Bank Transfer,6450.00,USD,Travel,American Airlines,Completed,0,61200.00,Mobile,Memphis,0.95,69400,246,400.00,61
+TXN1759,CUS759,Carol Ward,Standard,2024-07-11,12:25:00,Cryptocurrency,570.00,USD,Restaurant,Red Robin,Completed,0,5500.00,Desktop,Hialeah,0.96,9200,48,120.00,20
+TXN1760,CUS760,Jesse Cox,Premium,2024-07-11,08:50:00,Wire Transfer,7120.00,USD,Investment,Vanguard,Completed,0,68700.00,Mobile,Scottsdale,0.94,77100,268,435.00,70
+TXN1761,CUS761,Katherine Diaz,Standard,2024-07-12,17:15:00,Debit Card,430.00,USD,Grocery,Kroger,Completed,0,4700.00,Desktop,Irvine,0.97,8300,41,109.00,18
+TXN1762,CUS762,Frank Richardson,Premium,2024-07-12,13:40:00,Credit Card,6340.00,USD,Electronics,Bose,Completed,0,60100.00,Mobile,San Angelo,0.98,68600,238,395.00,60
+TXN1763,CUS763,Helen Cox,Basic,2024-07-13,10:05:00,PayPal,67.99,USD,Pharmacy,CVS,Completed,0,570.00,Desktop,Henderson,0.98,1600,6,22.00,4
+TXN1764,CUS764,Raymond Wood,Premium,2024-07-13,18:30:00,Bank Transfer,6890.00,USD,Retail,Target,Completed,0,66500.00,Mobile,Thornton,0.95,74800,258,420.00,66
+TXN1765,CUS765,Frances Ward,Standard,2024-07-14,14:55:00,Cryptocurrency,380.00,USD,Clothing,Old Navy,Completed,0,4400.00,Desktop,Clovis,0.96,7800,38,102.00,16
+TXN1766,CUS766,Jerry James,Premium,2024-07-14,09:20:00,Wire Transfer,7210.00,USD,Electronics,Apple Store,Completed,0,69800.00,Mobile,San Mateo,0.94,78200,274,440.00,71
+TXN1767,CUS767,Ruth Reed,Basic,2024-07-15,19:45:00,Debit Card,45.00,USD,Coffee Shop,Starbucks,Completed,0,390.00,Desktop,Reno,0.99,1300,5,17.00,3
+TXN1768,CUS768,Harold Fisher,Premium,2024-07-15,16:10:00,Credit Card,6540.00,USD,Investment,Charles Schwab,Completed,0,62300.00,Mobile,Lexington,0.97,70700,247,405.00,62
+TXN1769,CUS769,Christine Ellis,Standard,2024-07-16,12:35:00,PayPal,530.00,USD,Furniture,Pottery Barn,Pending,1,5300.00,Desktop,Pasadena,0.91,9100,47,119.00,26
+TXN1770,CUS770,Ralph Harrison,Premium,2024-07-16,08:00:00,Bank Transfer,6980.00,USD,Travel,Marriott,Completed,0,67600.00,Mobile,Portland,0.95,76200,261,425.00,68
+TXN1771,CUS771,Gloria Gibson,Basic,2024-07-17,17:25:00,Cryptocurrency,34.50,USD,Entertainment,Hulu,Completed,0,310.00,Desktop,Cary,0.99,1100,4,13.00,2
+TXN1772,CUS772,Billy Mills,Premium,2024-07-17,13:50:00,Wire Transfer,5870.00,USD,Electronics,Adobe,Completed,0,56500.00,Mobile,Simi Valley,0.96,64700,225,365.00,57
+TXN1773,CUS773,Tammy Nichols,Standard,2024-07-18,10:15:00,Debit Card,410.00,USD,Grocery,Whole Foods,Completed,0,4600.00,Desktop,Salinas,0.96,8300,40,109.00,17
+TXN1774,CUS774,Arthur Hunt,Premium,2024-07-18,18:40:00,Credit Card,6320.00,USD,Investment,Betterment,Completed,0,60900.00,Mobile,Orange,0.98,69500,237,390.00,60
+TXN1775,CUS775,Julie Palmer,Basic,2024-07-19,15:05:00,PayPal,78.99,USD,Pharmacy,Rite Aid,Completed,0,650.00,Desktop,Fullerton,0.98,1700,7,24.00,4
+TXN1776,CUS776,Lawrence Robertson,Premium,2024-07-19,09:30:00,Bank Transfer,7230.00,USD,Retail,Macys,Completed,0,69800.00,Mobile,Hampton,0.94,78200,273,445.00,72
+TXN1777,CUS777,Katherine Freeman,Standard,2024-07-20,17:55:00,Cryptocurrency,360.00,USD,Clothing,Nike,Completed,0,4300.00,Desktop,Warren,0.97,7700,37,101.00,16
+TXN1778,CUS778,Wayne Wells,Premium,2024-07-20,14:20:00,Wire Transfer,6450.00,USD,Electronics,Sony,Completed,0,62300.00,Mobile,Thornton,0.95,70800,247,400.00,61
+TXN1779,CUS779,Virginia Webb,Basic,2024-07-21,10:45:00,Debit Card,45.99,USD,Grocery,Publix,Completed,0,410.00,Desktop,Ontario,0.99,1400,6,18.00,3
+TXN1780,CUS780,Keith Simpson,Premium,2024-07-21,19:10:00,Credit Card,6890.00,USD,Travel,United Airlines,Completed,0,66700.00,Mobile,Escondido,0.97,75300,258,420.00,66
+TXN1781,CUS781,Judith Stevens,Standard,2024-07-22,15:35:00,PayPal,570.00,USD,Furniture,Restoration Hardware,Completed,0,5600.00,Desktop,El Monte,0.96,9500,49,124.00,21
+TXN1782,CUS782,Jeremy Walsh,Premium,2024-07-22,08:00:00,Bank Transfer,7120.00,USD,Investment,ETrade,Completed,0,68700.00,Mobile,Riverside,0.94,77200,267,435.00,70
+TXN1783,CUS783,Beverly Tucker,Basic,2024-07-23,18:25:00,Cryptocurrency,34.99,USD,Entertainment,Netflix,Completed,0,320.00,Desktop,Brownsville,0.99,1200,4,14.00,2
+TXN1784,CUS784,Roy Williamson,Premium,2024-07-23,14:50:00,Wire Transfer,6540.00,USD,Electronics,Dell,Completed,0,63200.00,Mobile,Gainesville,0.95,71800,245,405.00,62
+TXN1785,CUS785,Anna Freeman,Standard,2024-07-24,11:15:00,Debit Card,380.00,USD,Retail,Home Depot,Failed,1,4400.00,Desktop,Grand Prairie,0.92,8000,39,105.00,24
+TXN1786,CUS786,Justin Wagner,Premium,2024-07-24,09:40:00,Credit Card,6980.00,USD,Electronics,Lenovo,Completed,0,67600.00,Mobile,Memphis,0.98,76300,262,425.00,68
+TXN1787,CUS787,Doris Hunter,Basic,2024-07-25,19:05:00,PayPal,45.50,USD,Pharmacy,Walgreens,Completed,0,400.00,Desktop,Hialeah,0.99,1300,5,17.00,3
+TXN1788,CUS788,Randy Romero,Premium,2024-07-25,16:30:00,Bank Transfer,7210.00,USD,Travel,Expedia,Completed,0,69800.00,Mobile,Scottsdale,0.94,78400,273,440.00,71
+TXN1789,CUS789,Phyllis Hicks,Standard,2024-07-26,12:55:00,Cryptocurrency,530.00,USD,Grocery,Safeway,Completed,0,5200.00,Desktop,Irvine,0.96,9100,47,119.00,20
+TXN1790,CUS790,Carl Holmes,Premium,2024-07-26,08:20:00,Wire Transfer,6340.00,USD,Investment,Wealthfront,Completed,0,61200.00,Mobile,San Angelo,0.95,69800,239,395.00,60
+TXN1791,CUS791,Paula Morris,Basic,2024-07-27,18:45:00,Debit Card,33.99,USD,Coffee Shop,Dunkin',Completed,0,300.00,Desktop,Henderson,0.99,1100,4,13.00,2
+TXN1792,CUS792,Arthur Murphy,Premium,2024-07-27,15:10:00,Credit Card,5870.00,USD,Electronics,Microsoft,Completed,0,56700.00,Mobile,Thornton,0.97,65600,225,365.00,57
+TXN1793,CUS793,Teresa Cook,Standard,2024-07-28,11:35:00,PayPal,410.00,USD,Clothing,Abercrombie,Completed,0,4700.00,Desktop,Clovis,0.96,8400,42,110.00,18
+TXN1794,CUS794,Gregory Rogers,Premium,2024-07-28,09:00:00,Bank Transfer,6890.00,USD,Retail,Nordstrom,Completed,0,66700.00,Mobile,San Mateo,0.95,75400,257,420.00,66
+TXN1795,CUS795,Sara Morgan,Basic,2024-07-29,19:25:00,Cryptocurrency,67.50,USD,Entertainment,Disney+,Completed,0,570.00,Desktop,Reno,0.98,1600,6,22.00,4
+TXN1796,CUS796,Peter Cooper,Premium,2024-07-29,16:50:00,Wire Transfer,7230.00,USD,Investment,Fidelity,Completed,0,69800.00,Mobile,Lexington,0.94,78500,272,445.00,72
+TXN1797,CUS797,Cynthia Reed,Standard,2024-07-30,13:15:00,Debit Card,350.00,USD,Grocery,Albertsons,Completed,0,4200.00,Desktop,Pasadena,0.97,7600,36,99.00,15
+TXN1798,CUS798,Frederick Bailey,Premium,2024-07-30,08:40:00,Credit Card,6450.00,USD,Electronics,HP,Completed,0,62300.00,Mobile,Portland,0.98,71200,244,400.00,61
+TXN1799,CUS799,Ruth Bell,Standard,2024-07-31,17:05:00,PayPal,530.00,USD,Furniture,West Elm,Pending,1,5300.00,Desktop,Cary,0.91,9200,48,120.00,25
+TXN1800,CUS800,Howard Gomez,Premium,2024-07-31,12:30:00,Bank Transfer,7120.00,USD,Travel,Hyatt,Completed,0,69800.00,Mobile,Simi Valley,0.95,78600,265,435.00,70
+TXN1801,CUS801,Janet Kelly,Basic,2024-08-01,10:55:00,Cryptocurrency,45.99,USD,Pharmacy,CVS,Completed,0,410.00,Desktop,Salinas,0.99,1400,5,18.00,3
+TXN1802,CUS802,Victor Howard,Premium,2024-08-01,18:20:00,Wire Transfer,6540.00,USD,Investment,Robinhood,Completed,0,64200.00,Mobile,Orange,0.94,73800,248,405.00,62
+TXN1803,CUS803,Carol Ward,Standard,2024-08-02,14:45:00,Debit Card,380.00,USD,Clothing,Gap,Completed,0,4400.00,Desktop,Fullerton,0.96,8100,39,106.00,17
+TXN1804,CUS804,Jesse Cox,Premium,2024-08-02,09:10:00,Credit Card,6890.00,USD,Electronics,Samsung,Completed,0,67800.00,Mobile,Hampton,0.97,76500,258,420.00,66
+TXN1805,CUS805,Katherine Diaz,Basic,2024-08-03,19:35:00,PayPal,34.50,USD,Entertainment,Spotify,Completed,0,310.00,Desktop,Warren,0.99,1200,4,14.00,2
+TXN1806,CUS806,Frank Richardson,Premium,2024-08-03,16:00:00,Bank Transfer,7210.00,USD,Retail,Costco,Completed,0,70900.00,Mobile,Thornton,0.95,79800,271,440.00,71
+TXN1807,CUS807,Helen Cox,Standard,2024-08-04,12:25:00,Cryptocurrency,570.00,USD,Grocery,Kroger,Completed,0,5600.00,Desktop,Ontario,0.96,9500,49,124.00,21
+TXN1808,CUS808,Raymond Wood,Premium,2024-08-04,08:50:00,Wire Transfer,6340.00,USD,Investment,Vanguard,Completed,0,62300.00,Mobile,Escondido,0.94,71600,235,395.00,60
+TXN1809,CUS809,Frances Ward,Basic,2024-08-05,17:15:00,Debit Card,45.00,USD,Coffee Shop,Peet's,Completed,0,390.00,Desktop,El Monte,0.99,1300,5,17.00,3
+TXN1810,CUS810,Jerry James,Premium,2024-08-05,13:40:00,Credit Card,6980.00,USD,Electronics,Apple Store,Completed,0,68700.00,Mobile,Riverside,0.98,77600,263,425.00,68
+TXN1811,CUS811,Ruth Reed,Standard,2024-08-06,10:05:00,PayPal,410.00,USD,Furniture,Crate & Barrel,Completed,0,4700.00,Desktop,Brownsville,0.96,8400,42,110.00,18
+TXN1812,CUS812,Harold Fisher,Premium,2024-08-06,18:30:00,Bank Transfer,7120.00,USD,Travel,Delta Airlines,Completed,0,70100.00,Mobile,Gainesville,0.95,79600,264,435.00,70
+TXN1813,CUS813,Christine Ellis,Basic,2024-08-07,14:55:00,Cryptocurrency,67.99,USD,Pharmacy,Rite Aid,Completed,0,580.00,Desktop,Grand Prairie,0.98,1700,6,23.00,4
+TXN1814,CUS814,Ralph Harrison,Premium,2024-08-07,09:20:00,Wire Transfer,6450.00,USD,Investment,Charles Schwab,Completed,0,63400.00,Mobile,Memphis,0.94,72900,245,400.00,61
+TXN1815,CUS815,Gloria Gibson,Standard,2024-08-08,19:45:00,Debit Card,530.00,USD,Clothing,H&M,Failed,1,5400.00,Desktop,Hialeah,0.91,9500,49,124.00,26
+TXN1816,CUS816,Billy Mills,Premium,2024-08-08,16:10:00,Credit Card,6890.00,USD,Electronics,Bose,Completed,0,68700.00,Mobile,Scottsdale,0.97,77500,257,420.00,66
+TXN1817,CUS817,Tammy Nichols,Basic,2024-08-09,12:35:00,PayPal,45.50,USD,Grocery,Trader Joe's,Completed,0,400.00,Desktop,Irvine,0.99,1400,5,18.00,3
+TXN1818,CUS818,Arthur Hunt,Premium,2024-08-09,08:00:00,Bank Transfer,7210.00,USD,Retail,Walmart,Completed,0,71200.00,Mobile,San Angelo,0.95,80600,269,440.00,71
+TXN1819,CUS819,Julie Palmer,Standard,2024-08-10,17:25:00,Cryptocurrency,380.00,USD,Grocery,Whole Foods,Completed,0,4400.00,Desktop,Henderson,0.96,8000,38,105.00,16
+TXN1820,CUS820,Lawrence Robertson,Premium,2024-08-10,13:50:00,Wire Transfer,6540.00,USD,Investment,Betterment,Completed,0,64200.00,Mobile,Thornton,0.94,73700,248,405.00,62
+TXN1821,CUS821,Katherine Freeman,Basic,2024-08-11,10:15:00,Debit Card,34.99,USD,Entertainment,Hulu,Completed,0,320.00,Desktop,Clovis,0.99,1200,4,14.00,2
+TXN1822,CUS822,Wayne Wells,Premium,2024-08-11,18:40:00,Credit Card,6980.00,USD,Electronics,Lenovo,Completed,0,69600.00,Mobile,San Mateo,0.98,78600,262,425.00,68
+TXN1823,CUS823,Virginia Webb,Standard,2024-08-12,15:05:00,PayPal,570.00,USD,Furniture,IKEA,Completed,0,5600.00,Desktop,Reno,0.96,9600,50,125.00,21
+TXN1824,CUS824,Keith Simpson,Premium,2024-08-12,09:30:00,Bank Transfer,7120.00,USD,Travel,American Airlines,Completed,0,70300.00,Mobile,Lexington,0.95,79800,264,435.00,70
+TXN1825,CUS825,Judith Stevens,Basic,2024-08-13,17:55:00,Cryptocurrency,67.50,USD,Pharmacy,Walgreens,Completed,0,560.00,Desktop,Pasadena,0.98,1600,6,22.00,4
+TXN1826,CUS826,Jeremy Walsh,Premium,2024-08-13,14:20:00,Wire Transfer,6340.00,USD,Investment,ETrade,Completed,0,62300.00,Mobile,Portland,0.94,71600,237,395.00,60
+TXN1827,CUS827,Beverly Tucker,Standard,2024-08-14,10:45:00,Debit Card,410.00,USD,Clothing,Zara,Completed,0,4700.00,Desktop,Cary,0.97,8400,42,110.00,18
+TXN1828,CUS828,Roy Williamson,Premium,2024-08-14,19:10:00,Credit Card,6890.00,USD,Electronics,Sony,Completed,0,68700.00,Mobile,Simi Valley,0.98,77500,257,420.00,66
+TXN1829,CUS829,Anna Freeman,Basic,2024-08-15,15:35:00,PayPal,45.00,USD,Coffee Shop,Starbucks,Completed,0,390.00,Desktop,Salinas,0.99,1300,5,17.00,3
+TXN1830,CUS830,Justin Wagner,Premium,2024-08-15,08:00:00,Bank Transfer,7210.00,USD,Retail,Target,Completed,0,71200.00,Mobile,Orange,0.95,80600,269,440.00,71
+TXN1831,CUS831,Doris Hunter,Standard,2024-08-16,18:25:00,Cryptocurrency,530.00,USD,Grocery,Publix,Pending,1,5400.00,Desktop,Fullerton,0.91,9500,49,124.00,25
+TXN1832,CUS832,Randy Romero,Premium,2024-08-16,14:50:00,Wire Transfer,6540.00,USD,Investment,Wealthfront,Completed,0,64200.00,Mobile,Hampton,0.94,73700,248,405.00,62
+TXN1833,CUS833,Phyllis Hicks,Basic,2024-08-17,11:15:00,Debit Card,34.50,USD,Entertainment,Netflix,Completed,0,310.00,Desktop,Warren,0.99,1100,4,13.00,2
+TXN1834,CUS834,Carl Holmes,Premium,2024-08-17,09:40:00,Credit Card,6980.00,USD,Electronics,Microsoft,Completed,0,69600.00,Mobile,Thornton,0.98,78600,262,425.00,68
+TXN1835,CUS835,Paula Morris,Standard,2024-08-18,19:05:00,PayPal,380.00,USD,Furniture,Ashley Furniture,Completed,0,4400.00,Desktop,Ontario,0.96,8000,38,105.00,16
+TXN1836,CUS836,Arthur Murphy,Premium,2024-08-18,16:30:00,Bank Transfer,7120.00,USD,Travel,Marriott,Completed,0,70300.00,Mobile,Escondido,0.95,79800,264,435.00,70
+TXN1837,CUS837,Teresa Cook,Basic,2024-08-19,12:55:00,Cryptocurrency,67.99,USD,Pharmacy,CVS,Completed,0,580.00,Desktop,El Monte,0.98,1700,6,23.00,4
+TXN1838,CUS838,Gregory Rogers,Premium,2024-08-19,08:20:00,Wire Transfer,6340.00,USD,Investment,Fidelity,Completed,0,62300.00,Mobile,Riverside,0.94,71600,237,395.00,60
+TXN1839,CUS839,Sara Morgan,Standard,2024-08-20,17:45:00,Debit Card,570.00,USD,Clothing,Old Navy,Completed,0,5600.00,Desktop,Brownsville,0.96,9600,50,125.00,21
+TXN1840,CUS840,Peter Cooper,Premium,2024-08-20,14:10:00,Credit Card,6890.00,USD,Electronics,HP,Completed,0,68700.00,Mobile,Gainesville,0.98,77500,257,420.00,66
+TXN1841,CUS841,Cynthia Reed,Basic,2024-08-21,10:35:00,PayPal,45.99,USD,Grocery,Food Lion,Completed,0,410.00,Desktop,Grand Prairie,0.99,1400,5,18.00,3
+TXN1842,CUS842,Frederick Bailey,Premium,2024-08-21,19:00:00,Bank Transfer,7210.00,USD,Retail,Kohl's,Completed,0,71200.00,Mobile,Memphis,0.95,80600,269,440.00,71
+TXN1843,CUS843,Ruth Bell,Standard,2024-08-22,15:25:00,Cryptocurrency,410.00,USD,Furniture,Pottery Barn,Completed,0,4700.00,Desktop,Hialeah,0.96,8400,42,110.00,18
+TXN1844,CUS844,Howard Gomez,Premium,2024-08-22,08:50:00,Wire Transfer,6540.00,USD,Investment,Robinhood,Completed,0,64200.00,Mobile,Scottsdale,0.94,73700,248,405.00,62
+TXN1845,CUS845,Janet Kelly,Basic,2024-08-23,18:15:00,Debit Card,34.99,USD,Entertainment,Paramount+,Completed,0,320.00,Desktop,Irvine,0.99,1200,4,14.00,2
+TXN1846,CUS846,Victor Howard,Premium,2024-08-23,13:40:00,Credit Card,6980.00,USD,Electronics,Dell,Completed,0,69600.00,Mobile,San Angelo,0.98,78600,262,425.00,68
+TXN1847,CUS847,Carol Ward,Standard,2024-08-24,11:05:00,PayPal,530.00,USD,Grocery,WinCo,Failed,1,5400.00,Desktop,Henderson,0.91,9500,49,124.00,25
+TXN1848,CUS848,Jesse Cox,Premium,2024-08-24,09:30:00,Bank Transfer,7120.00,USD,Travel,United Airlines,Completed,0,70300.00,Mobile,Thornton,0.95,79800,264,435.00,70
+TXN1849,CUS849,Katherine Diaz,Basic,2024-08-25,19:55:00,Cryptocurrency,67.50,USD,Pharmacy,Rite Aid,Completed,0,560.00,Desktop,Clovis,0.98,1600,6,22.00,4
+TXN1850,CUS850,Frank Richardson,Premium,2024-08-25,16:20:00,Wire Transfer,6340.00,USD,Investment,Vanguard,Completed,0,62300.00,Mobile,San Mateo,0.94,71600,237,395.00,60
+TXN1851,CUS851,Helen Cox,Standard,2024-08-26,12:45:00,Debit Card,380.00,USD,Clothing,Nike,Completed,0,4400.00,Desktop,Reno,0.96,8000,38,105.00,16
+TXN1852,CUS852,Raymond Wood,Premium,2024-08-26,08:10:00,Credit Card,6890.00,USD,Electronics,Samsung,Completed,0,68700.00,Mobile,Lexington,0.98,77500,257,420.00,66
+TXN1853,CUS853,Frances Ward,Basic,2024-08-27,17:35:00,PayPal,45.00,USD,Coffee Shop,Dunkin',Completed,0,390.00,Desktop,Pasadena,0.99,1300,5,17.00,3
+TXN1854,CUS854,Jerry James,Premium,2024-08-27,14:00:00,Bank Transfer,7210.00,USD,Retail,Macys,Completed,0,71200.00,Mobile,Portland,0.95,80600,269,440.00,71
+TXN1855,CUS855,Ruth Reed,Standard,2024-08-28,10:25:00,Cryptocurrency,570.00,USD,Furniture,Room & Board,Completed,0,5600.00,Desktop,Cary,0.96,9600,50,125.00,21
+TXN1856,CUS856,Harold Fisher,Premium,2024-08-28,18:50:00,Wire Transfer,6540.00,USD,Investment,Charles Schwab,Completed,0,64200.00,Mobile,Simi Valley,0.94,73700,248,405.00,62
+TXN1857,CUS857,Christine Ellis,Basic,2024-08-29,15:15:00,Debit Card,34.50,USD,Entertainment,Spotify,Completed,0,310.00,Desktop,Salinas,0.99,1100,4,13.00,2
+TXN1858,CUS858,Raymond West,Premium,2024-08-29,09:40:00,Credit Card,6980.00,USD,Electronics,Apple Store,Completed,0,69600.00,Mobile,Orange,0.98,78600,262,425.00,68
+TXN1859,CUS859,Frances Jordan,Standard,2024-08-30,19:05:00,PayPal,410.00,USD,Grocery,Albertsons,Completed,0,4700.00,Desktop,Fullerton,0.96,8400,42,110.00,18
+TXN1860,CUS860,Jerry Owens,Premium,2024-08-30,16:30:00,Bank Transfer,7120.00,USD,Travel,Expedia,Completed,0,70300.00,Mobile,Hampton,0.95,79800,264,435.00,70
+TXN1861,CUS861,Ruth Reynolds,Basic,2024-08-31,12:55:00,Cryptocurrency,67.99,USD,Pharmacy,Walgreens,Completed,0,580.00,Desktop,Warren,0.98,1700,6,23.00,4
+TXN1862,CUS862,Harold Fisher,Premium,2024-08-31,08:20:00,Wire Transfer,6340.00,USD,Investment,Betterment,Completed,0,62300.00,Mobile,Thornton,0.94,71600,237,395.00,60
+TXN1863,CUS863,Christine Ellis,Standard,2024-09-01,17:45:00,Debit Card,530.00,USD,Clothing,Abercrombie,Pending,1,5400.00,Desktop,Ontario,0.91,9500,49,124.00,25
+TXN1864,CUS864,Ralph Harrison,Premium,2024-09-01,14:10:00,Credit Card,6890.00,USD,Electronics,Lenovo,Completed,0,68700.00,Mobile,Escondido,0.98,77500,257,420.00,66
+TXN1865,CUS865,Gloria Gibson,Basic,2024-09-02,10:35:00,PayPal,45.50,USD,Grocery,Trader Joe's,Completed,0,400.00,Desktop,El Monte,0.99,1400,5,18.00,3
+TXN1866,CUS866,Billy Mills,Premium,2024-09-02,19:00:00,Bank Transfer,7210.00,USD,Retail,Costco,Completed,0,71200.00,Mobile,Riverside,0.95,80600,269,440.00,71
+TXN1867,CUS867,Tammy Nichols,Standard,2024-09-03,15:25:00,Cryptocurrency,380.00,USD,Furniture,West Elm,Completed,0,4400.00,Desktop,Brownsville,0.96,8000,38,105.00,16
+TXN1868,CUS868,Arthur Hunt,Premium,2024-09-03,08:50:00,Wire Transfer,6540.00,USD,Investment,ETrade,Completed,0,64200.00,Mobile,Gainesville,0.94,73700,248,405.00,62
+TXN1869,CUS869,Julie Palmer,Basic,2024-09-04,18:15:00,Debit Card,34.99,USD,Entertainment,HBO Max,Completed,0,320.00,Desktop,Grand Prairie,0.99,1200,4,14.00,2
+TXN1870,CUS870,Lawrence Robertson,Premium,2024-09-04,13:40:00,Credit Card,6980.00,USD,Electronics,Sony,Completed,0,69600.00,Mobile,Memphis,0.98,78600,262,425.00,68
+TXN1871,CUS871,Katherine Freeman,Standard,2024-09-05,11:05:00,PayPal,570.00,USD,Grocery,Whole Foods,Completed,0,5600.00,Desktop,Hialeah,0.96,9600,50,125.00,21
+TXN1872,CUS872,Wayne Wells,Premium,2024-09-05,09:30:00,Bank Transfer,7120.00,USD,Travel,Delta Airlines,Completed,0,70300.00,Mobile,Scottsdale,0.95,79800,264,435.00,70
+TXN1873,CUS873,Virginia Webb,Basic,2024-09-06,19:55:00,Cryptocurrency,67.50,USD,Pharmacy,CVS,Completed,0,560.00,Desktop,Irvine,0.98,1600,6,22.00,4
+TXN1874,CUS874,Keith Simpson,Premium,2024-09-06,16:20:00,Wire Transfer,6340.00,USD,Investment,Wealthfront,Completed,0,62300.00,Mobile,San Angelo,0.94,71600,237,395.00,60
+TXN1875,CUS875,Judith Stevens,Standard,2024-09-07,12:45:00,Debit Card,410.00,USD,Clothing,Gap,Completed,0,4700.00,Desktop,Henderson,0.96,8400,42,110.00,18
+TXN1876,CUS876,Jeremy Walsh,Premium,2024-09-07,08:10:00,Credit Card,6890.00,USD,Electronics,Microsoft,Completed,0,68700.00,Mobile,Thornton,0.98,77500,257,420.00,66
+TXN1877,CUS877,Beverly Tucker,Basic,2024-09-08,17:35:00,PayPal,45.00,USD,Coffee Shop,Starbucks,Completed,0,390.00,Desktop,Clovis,0.99,1300,5,17.00,3
+TXN1878,CUS878,Roy Williamson,Premium,2024-09-08,14:00:00,Bank Transfer,7210.00,USD,Retail,Target,Completed,0,71200.00,Mobile,San Mateo,0.95,80600,269,440.00,71
+TXN1879,CUS879,Anna Freeman,Standard,2024-09-09,10:25:00,Cryptocurrency,530.00,USD,Furniture,Crate & Barrel,Failed,1,5400.00,Desktop,Reno,0.91,9500,49,124.00,25
+TXN1880,CUS880,Justin Wagner,Premium,2024-09-09,18:50:00,Wire Transfer,6540.00,USD,Investment,Fidelity,Completed,0,64200.00,Mobile,Lexington,0.94,73700,248,405.00,62
+TXN1881,CUS881,Doris Hunter,Basic,2024-09-10,15:15:00,Debit Card,34.50,USD,Entertainment,Netflix,Completed,0,310.00,Desktop,Pasadena,0.99,1100,4,13.00,2
+TXN1882,CUS882,Randy Romero,Premium,2024-09-10,09:40:00,Credit Card,6980.00,USD,Electronics,HP,Completed,0,69600.00,Mobile,Portland,0.98,78600,262,425.00,68
+TXN1883,CUS883,Phyllis Hicks,Standard,2024-09-11,19:05:00,PayPal,380.00,USD,Grocery,Publix,Completed,0,4400.00,Desktop,Cary,0.96,8000,38,105.00,16
+TXN1884,CUS884,Carl Holmes,Premium,2024-09-11,16:30:00,Bank Transfer,7120.00,USD,Travel,Hyatt,Completed,0,70300.00,Mobile,Simi Valley,0.95,79800,264,435.00,70
+TXN1885,CUS885,Paula Rice,Basic,2024-09-12,12:55:00,Cryptocurrency,67.99,USD,Pharmacy,Rite Aid,Completed,0,580.00,Desktop,Salinas,0.98,1700,6,23.00,4
+TXN1886,CUS886,Arthur Mendoza,Premium,2024-09-12,08:20:00,Wire Transfer,6340.00,USD,Investment,Robinhood,Completed,0,62300.00,Mobile,Orange,0.94,71600,237,395.00,60
+TXN1887,CUS887,Teresa Barnett,Standard,2024-09-13,17:45:00,Debit Card,570.00,USD,Clothing,H&M,Completed,0,5600.00,Desktop,Fullerton,0.96,9600,50,125.00,21
+TXN1888,CUS888,Gregory Vasquez,Premium,2024-09-13,14:10:00,Credit Card,6890.00,USD,Electronics,Dell,Completed,0,68700.00,Mobile,Hampton,0.98,77500,257,420.00,66
+TXN1889,CUS889,Sara Mills,Basic,2024-09-14,10:35:00,PayPal,45.99,USD,Grocery,Safeway,Completed,0,410.00,Desktop,Warren,0.99,1400,5,18.00,3
+TXN1890,CUS890,Peter Graves,Premium,2024-09-14,19:00:00,Bank Transfer,7210.00,USD,Retail,Sam's Club,Completed,0,71200.00,Mobile,Thornton,0.95,80600,269,440.00,71
+TXN1891,CUS891,Cynthia Kennedy,Standard,2024-09-15,15:25:00,Cryptocurrency,410.00,USD,Furniture,Restoration Hardware,Completed,0,4700.00,Desktop,Ontario,0.96,8400,42,110.00,18
+TXN1892,CUS892,Frederick Warren,Premium,2024-09-15,08:50:00,Wire Transfer,6540.00,USD,Investment,Vanguard,Completed,0,64200.00,Mobile,Escondido,0.94,73700,248,405.00,62
+TXN1893,CUS893,Ruth Dixon,Basic,2024-09-16,18:15:00,Debit Card,34.99,USD,Entertainment,Hulu,Completed,0,320.00,Desktop,El Monte,0.99,1200,4,14.00,2
+TXN1894,CUS894,Howard Snyder,Premium,2024-09-16,13:40:00,Credit Card,6980.00,USD,Electronics,Bose,Completed,0,69600.00,Mobile,Riverside,0.98,78600,262,425.00,68
+TXN1895,CUS895,Janet Cunningham,Standard,2024-09-17,11:05:00,PayPal,530.00,USD,Grocery,Kroger,Completed,0,5400.00,Desktop,Brownsville,0.96,9500,49,124.00,21
+TXN1896,CUS896,Victor Bradley,Premium,2024-09-17,09:30:00,Bank Transfer,7120.00,USD,Travel,American Airlines,Completed,0,70300.00,Mobile,Gainesville,0.95,79800,264,435.00,70
+TXN1897,CUS897,Carol Lane,Basic,2024-09-18,19:55:00,Cryptocurrency,67.50,USD,Pharmacy,Walgreens,Completed,0,560.00,Desktop,Grand Prairie,0.98,1600,6,22.00,4
+TXN1898,CUS898,Jesse Andrews,Premium,2024-09-18,16:20:00,Wire Transfer,6340.00,USD,Investment,Charles Schwab,Completed,0,62300.00,Mobile,Memphis,0.94,71600,237,395.00,60
+TXN1899,CUS899,Katherine Ruiz,Standard,2024-09-19,12:45:00,Debit Card,380.00,USD,Clothing,Zara,Pending,1,4400.00,Desktop,Hialeah,0.91,8000,38,105.00,23
+TXN1900,CUS900,Frank Harper,Premium,2024-09-19,08:10:00,Credit Card,6890.00,USD,Electronics,Apple Store,Completed,0,68700.00,Mobile,Scottsdale,0.98,77500,257,420.00,66
+TXN1901,CUS901,Helen Fox,Premium,2024-03-05,09:20:00,Credit Card,5670.00,USD,Investment,Bloomberg,Completed,0,48900.00,Mobile,Alexandria,0.96,52300,187,345.00,42
+TXN1902,CUS902,Raymond Riley,Standard,2024-03-05,14:45:00,Debit Card,890.00,USD,Retail,Target,Completed,0,6700.00,Desktop,Portland,0.97,8900,41,112.00,18
+TXN1903,CUS903,Frances Carpenter,Basic,2024-03-05,20:30:00,PayPal,67.99,USD,Grocery,Trader Joe's,Completed,0,540.00,Mobile,Springfield,0.99,1300,7,21.00,4
+TXN1904,CUS904,Jerry Weaver,Premium,2024-03-06,08:15:00,Bank Transfer,7230.00,USD,Electronics,Microsoft,Completed,0,61200.00,Desktop,Henderson,0.95,67800,256,415.00,68
+TXN1905,CUS905,Ruth Tucker,Standard,2024-03-06,17:50:00,Credit Card,345.00,USD,Restaurant,Cheesecake Factory,Failed,1,2900.00,Mobile,Fort Lauderdale,0.91,5400,26,78.00,31
+TXN1906,CUS906,Harold Freeman,Premium,2024-03-06,12:30:00,Cryptocurrency,8450.00,USD,Investment,Coinbase,Completed,0,78900.00,Desktop,Cary,0.93,85600,312,510.00,82
+TXN1907,CUS907,Christine Wells,Basic,2024-03-07,11:10:00,Debit Card,45.50,USD,Pharmacy,Walgreens,Completed,0,380.00,Tablet,Simi Valley,0.98,1100,5,16.00,2
+TXN1908,CUS908,Ralph Burns,Premium,2024-03-07,19:25:00,Wire Transfer,6340.00,USD,Travel,Delta Airlines,Completed,0,56700.00,Mobile,Salinas,0.96,62900,234,390.00,58
+TXN1909,CUS909,Gloria Coleman,Standard,2024-03-08,09:55:00,PayPal,560.00,USD,Furniture,Ashley Furniture,Completed,0,5200.00,Desktop,Pasadena,0.97,7800,38,102.00,21
+TXN1910,CUS910,Billy Reid,Premium,2024-03-08,15:40:00,Credit Card,4210.00,USD,Retail,Home Depot,Completed,0,38900.00,Mobile,Orange,0.98,44500,176,290.00,36
+TXN1911,CUS911,Tammy Garrett,Standard,2024-03-09,22:15:00,Debit Card,230.00,USD,Clothing,Gap,Completed,0,3400.00,Desktop,Fullerton,0.96,5900,28,75.00,12
+TXN1912,CUS912,Arthur Newman,Premium,2024-03-09,13:20:00,Bank Transfer,5320.00,USD,Electronics,Apple Store,Completed,0,48700.00,Mobile,Hampton,0.95,54300,208,355.00,52
+TXN1913,CUS913,Julie Oliver,Basic,2024-03-10,10:05:00,Cryptocurrency,89.00,USD,Entertainment,Spotify,Completed,0,620.00,Desktop,Warren,0.99,1500,8,23.00,5
+TXN1914,CUS914,Lawrence Kelley,Premium,2024-03-10,18:35:00,Wire Transfer,7120.00,USD,Investment,Wealthfront,Completed,0,65400.00,Mobile,Thornton,0.94,72800,278,445.00,73
+TXN1915,CUS915,Katherine Patterson,Standard,2024-03-11,14:50:00,Credit Card,780.00,USD,Grocery,Whole Foods,Pending,1,6100.00,Desktop,Gainesville,0.92,8700,44,108.00,34
+TXN1916,CUS916,Wayne Burton,Premium,2024-03-11,09:30:00,PayPal,3860.00,USD,Retail,Macys,Completed,0,35600.00,Mobile,Ontario,0.97,41200,165,275.00,39
+TXN1917,CUS917,Virginia Simpson,Standard,2024-03-12,16:15:00,Debit Card,415.00,USD,Rent,Apartment Rent,Completed,0,4700.00,Desktop,Grand Prairie,0.96,7200,35,96.00,17
+TXN1918,CUS918,Keith Marshall,Premium,2024-03-12,11:40:00,Bank Transfer,5670.00,USD,Electronics,Samsung,Completed,0,52300.00,Mobile,Brownsville,0.95,58800,212,360.00,55
+TXN1919,CUS919,Judith Hayes,Basic,2024-03-13,08:55:00,Cryptocurrency,34.50,USD,Coffee Shop,Starbucks,Completed,0,290.00,Desktop,Overland Park,0.99,900,4,12.00,2
+TXN1920,CUS920,Jeremy Boyd,Premium,2024-03-13,20:45:00,Wire Transfer,6890.00,USD,Travel,United Airlines,Completed,0,59800.00,Mobile,Santa Rosa,0.96,66700,245,410.00,64
+TXN1921,CUS921,Beverly Mason,Standard,2024-03-14,13:10:00,Credit Card,620.00,USD,Restaurant,Red Robin,Completed,0,5500.00,Desktop,Port St. Lucie,0.97,8300,39,105.00,19
+TXN1922,CUS922,Roy Castillo,Premium,2024-03-14,10:25:00,PayPal,4450.00,USD,Furniture,Room & Board,Completed,0,41200.00,Mobile,Denton,0.98,47800,191,310.00,43
+TXN1923,CUS923,Anna Mendoza,Standard,2024-03-15,17:55:00,Debit Card,280.00,USD,Pharmacy,CVS,Completed,0,3800.00,Tablet,Memphis,0.96,6100,30,82.00,14
+TXN1924,CUS924,Justin Webb,Premium,2024-03-15,09:45:00,Bank Transfer,5780.00,USD,Investment,Betterment,Completed,0,53400.00,Mobile,Nashville,0.95,60100,224,375.00,59
+TXN1925,CUS925,Doris Rogers,Basic,2024-03-16,14:30:00,Cryptocurrency,76.00,USD,Entertainment,Netflix,Completed,0,510.00,Desktop,Aurora,0.98,1400,6,19.00,3
+TXN1926,CUS926,Randy Watkins,Premium,2024-03-16,21:15:00,Wire Transfer,8230.00,USD,Electronics,Bose,Completed,0,74500.00,Mobile,Providence,0.94,81900,301,495.00,79
+TXN1927,CUS927,Phyllis Rose,Standard,2024-03-17,12:40:00,Credit Card,950.00,USD,Retail,Best Buy,Failed,1,7200.00,Desktop,Fort Wayne,0.91,10100,48,128.00,38
+TXN1928,CUS928,Carl Stewart,Premium,2024-03-17,08:30:00,PayPal,3940.00,USD,Travel,American Airlines,Completed,0,36700.00,Mobile,Jacksonville,0.97,42600,172,285.00,41
+TXN1929,CUS929,Paula Morris,Standard,2024-03-18,19:05:00,Debit Card,340.00,USD,Grocery,Publix,Completed,0,4300.00,Desktop,Madison,0.96,6800,33,89.00,15
+TXN1930,CUS930,Arthur Murphy,Premium,2024-03-18,15:20:00,Bank Transfer,6750.00,USD,Electronics,Dell,Completed,0,58900.00,Mobile,Riverside,0.95,65400,248,405.00,62
+TXN1931,CUS931,Teresa Cook,Basic,2024-03-19,10:50:00,Cryptocurrency,54.99,USD,Pharmacy,Rite Aid,Completed,0,420.00,Desktop,San Bernardino,0.99,1200,5,15.00,2
+TXN1932,CUS932,Gregory Rogers,Premium,2024-03-19,22:35:00,Wire Transfer,7420.00,USD,Investment,Fidelity,Completed,0,68700.00,Mobile,Boise,0.94,75600,278,460.00,76
+TXN1933,CUS933,Sara Morgan,Standard,2024-03-20,11:55:00,Credit Card,680.00,USD,Furniture,Pottery Barn,Completed,0,5900.00,Desktop,Spokane,0.97,8600,42,115.00,23
+TXN1934,CUS934,Peter Cooper,Premium,2024-03-20,16:30:00,PayPal,5120.00,USD,Retail,Costco,Completed,0,47800.00,Mobile,Baton Rouge,0.96,54300,208,335.00,48
+TXN1935,CUS935,Cynthia Reed,Standard,2024-03-21,09:25:00,Debit Card,195.00,USD,Restaurant,Chick-fil-A,Completed,0,3100.00,Desktop,Albuquerque,0.98,5400,25,71.00,11
+TXN1936,CUS936,Frederick Bailey,Premium,2024-03-21,18:40:00,Bank Transfer,6330.00,USD,Electronics,Lenovo,Completed,0,56700.00,Mobile,Lexington,0.95,63400,239,390.00,58
+TXN1937,CUS937,Ruth Bell,Basic,2024-03-22,13:15:00,Cryptocurrency,42.50,USD,Coffee Shop,Dunkin',Completed,0,360.00,Desktop,Hialeah,0.99,1000,4,14.00,2
+TXN1938,CUS938,Howard Gomez,Premium,2024-03-22,20:05:00,Wire Transfer,8640.00,USD,Investment,Vanguard,Completed,0,78900.00,Mobile,Fremont,0.93,86700,325,525.00,85
+TXN1939,CUS939,Janet Kelly,Standard,2024-03-23,12:10:00,Credit Card,425.00,USD,Clothing,H&M,Pending,1,4100.00,Desktop,Scottsdale,0.92,7200,36,94.00,27
+TXN1940,CUS940,Victor Howard,Premium,2024-03-23,08:45:00,PayPal,4710.00,USD,Travel,Marriott,Completed,0,43200.00,Mobile,Irving,0.97,49700,184,320.00,44
+TXN1941,CUS941,Carol Ward,Standard,2024-03-24,17:30:00,Debit Card,580.00,USD,Grocery,Kroger,Completed,0,5200.00,Desktop,Greensboro,0.96,7900,40,107.00,18
+TXN1942,CUS942,Jesse Cox,Premium,2024-03-24,14:55:00,Bank Transfer,5910.00,USD,Electronics,Sony,Completed,0,54500.00,Mobile,San Mateo,0.95,61200,225,375.00,57
+TXN1943,CUS943,Katherine Diaz,Basic,2024-03-25,10:30:00,Cryptocurrency,67.99,USD,Entertainment,Hulu,Completed,0,550.00,Desktop,El Monte,0.98,1500,7,20.00,4
+TXN1944,CUS944,Frank Richardson,Premium,2024-03-25,19:15:00,Wire Transfer,7030.00,USD,Investment,Robinhood,Completed,0,65400.00,Mobile,Escondido,0.94,72800,269,440.00,72
+TXN1945,CUS945,Helen Cox,Standard,2024-03-26,15:40:00,Credit Card,310.00,USD,Retail,Amazon,Completed,0,4000.00,Desktop,Round Rock,0.97,6700,32,88.00,16
+TXN1946,CUS946,Raymond Wood,Premium,2024-03-26,09:50:00,PayPal,4280.00,USD,Furniture,Restoration Hardware,Completed,0,39800.00,Mobile,Olathe,0.98,46300,180,305.00,42
+TXN1947,CUS947,Frances Ward,Standard,2024-03-27,21:20:00,Debit Card,670.00,USD,Restaurant,Outback,Failed,1,5500.00,Desktop,Tempe,0.91,8400,45,112.00,33
+TXN1948,CUS948,Jerry James,Premium,2024-03-27,12:35:00,Bank Transfer,5850.00,USD,Electronics,Adobe,Completed,0,53200.00,Mobile,Clovis,0.96,59800,216,370.00,56
+TXN1949,CUS949,Ruth Reed,Basic,2024-03-28,11:05:00,Cryptocurrency,28.99,USD,Pharmacy,CVS,Completed,0,280.00,Desktop,West Covina,0.99,900,3,11.00,1
+TXN1950,CUS950,Harold Fisher,Premium,2024-03-28,18:50:00,Wire Transfer,7950.00,USD,Travel,Hilton Hotels,Completed,0,71200.00,Mobile,Burbank,0.95,78800,298,485.00,78
+TXN1951,CUS951,Christine Ellis,Standard,2024-03-29,14:25:00,Credit Card,490.00,USD,Grocery,Albertsons,Completed,0,4700.00,Desktop,Concord,0.96,7500,37,98.00,17
+TXN1952,CUS952,Ralph Harrison,Premium,2024-03-29,09:15:00,PayPal,3960.00,USD,Retail,Walmart,Completed,0,36800.00,Mobile,Thornton,0.97,42500,168,285.00,38
+TXN1953,CUS953,Gloria Gibson,Basic,2024-03-30,20:40:00,Debit Card,45.00,USD,Restaurant,Subway,Completed,0,390.00,Desktop,Santa Clara,0.99,1200,5,16.00,3
+TXN1954,CUS954,Billy Mills,Premium,2024-03-30,13:55:00,Bank Transfer,6340.00,USD,Investment,Charles Schwab,Completed,0,58900.00,Mobile,Richardson,0.95,65700,242,395.00,61
+TXN1955,CUS955,Tammy Nichols,Standard,2024-03-31,16:10:00,Cryptocurrency,850.00,USD,Electronics,Gamestop,Completed,0,7200.00,Desktop,Pomona,0.94,10100,49,130.00,25
+TXN1956,CUS956,Arthur Hunt,Premium,2024-03-31,11:30:00,Wire Transfer,7210.00,USD,Travel,Expedia,Completed,0,66700.00,Mobile,Portland,0.96,74300,278,440.00,69
+TXN1957,CUS957,Julie Palmer,Standard,2024-04-01,09:55:00,Credit Card,380.00,USD,Furniture,IKEA,Completed,0,4200.00,Desktop,Spokane,0.97,7100,35,94.00,19
+TXN1958,CUS958,Lawrence Robertson,Premium,2024-04-01,18:20:00,PayPal,4650.00,USD,Retail,Lowe's,Completed,0,43400.00,Mobile,Madison,0.98,50100,195,315.00,45
+TXN1959,CUS959,Katherine Freeman,Basic,2024-04-02,12:45:00,Debit Card,89.99,USD,Entertainment,Disney+,Completed,0,670.00,Desktop,Fargo,0.98,1800,8,24.00,5
+TXN1960,CUS960,Wayne Wells,Premium,2024-04-02,15:35:00,Bank Transfer,5470.00,USD,Electronics,Best Buy,Completed,0,50900.00,Mobile,Overland Park,0.95,57400,213,355.00,54
+TXN1961,CUS961,Virginia Webb,Standard,2024-04-03,10:20:00,Cryptocurrency,290.00,USD,Clothing,Zara,Failed,1,3400.00,Desktop,Ontario,0.92,5900,30,81.00,26
+TXN1962,CUS962,Keith Simpson,Premium,2024-04-03,21:50:00,Wire Transfer,7680.00,USD,Investment,ETrade,Completed,0,69800.00,Mobile,Glendale,0.94,77600,289,470.00,77
+TXN1963,CUS963,Judith Stevens,Standard,2024-04-04,14:15:00,Credit Card,620.00,USD,Grocery,Safeway,Completed,0,5700.00,Desktop,Sioux Falls,0.96,8900,43,110.00,20
+TXN1964,CUS964,Jeremy Walsh,Premium,2024-04-04,08:40:00,PayPal,4120.00,USD,Travel,Southwest Airlines,Completed,0,38900.00,Mobile,Chandler,0.97,45200,178,300.00,41
+TXN1965,CUS965,Beverly Tucker,Basic,2024-04-05,17:55:00,Debit Card,56.50,USD,Pharmacy,Walgreens,Completed,0,480.00,Desktop,Knoxville,0.99,1400,6,18.00,3
+TXN1966,CUS966,Roy Williamson,Premium,2024-04-05,13:30:00,Bank Transfer,5890.00,USD,Electronics,Microsoft,Completed,0,54300.00,Mobile,Providence,0.95,60900,231,375.00,57
+TXN1967,CUS967,Anna Freeman,Standard,2024-04-06,11:10:00,Cryptocurrency,195.00,USD,Restaurant,Olive Garden,Completed,0,2900.00,Desktop,New Haven,0.96,5200,24,70.00,12
+TXN1968,CUS968,Justin Wagner,Premium,2024-04-06,19:45:00,Wire Transfer,6540.00,USD,Retail,Target,Completed,0,59800.00,Mobile,Toledo,0.95,66700,248,405.00,63
+TXN1969,CUS969,Doris Hunter,Standard,2024-04-07,09:25:00,Credit Card,430.00,USD,Furniture,Wayfair,Completed,0,4600.00,Desktop,Des Moines,0.97,7700,38,101.00,18
+TXN1970,CUS970,Randy Romero,Premium,2024-04-07,16:55:00,PayPal,5250.00,USD,Investment,Wealthfront,Completed,0,48700.00,Mobile,Lubbock,0.96,55200,209,345.00,50
+TXN1971,CUS971,Phyllis Hicks,Basic,2024-04-08,22:20:00,Debit Card,32.99,USD,Coffee Shop,Peet's,Completed,0,310.00,Desktop,Salem,0.99,1000,4,13.00,2
+TXN1972,CUS972,Carl Holmes,Premium,2024-04-08,12:50:00,Bank Transfer,7120.00,USD,Electronics,Apple Store,Completed,0,65400.00,Mobile,Tacoma,0.94,73100,268,435.00,71
+TXN1973,CUS973,Paula Rice,Standard,2024-04-09,15:30:00,Cryptocurrency,780.00,USD,Retail,Home Depot,Pending,1,6400.00,Desktop,Springfield,0.91,9500,47,120.00,32
+TXN1974,CUS974,Arthur Mendoza,Premium,2024-04-09,10:15:00,Wire Transfer,6250.00,USD,Travel,Delta Airlines,Completed,0,57800.00,Mobile,Grand Rapids,0.95,64600,238,390.00,60
+TXN1975,CUS975,Teresa Barnett,Standard,2024-04-10,18:40:00,Credit Card,340.00,USD,Grocery,Trader Joe's,Completed,0,4100.00,Desktop,Huntington,0.97,7000,34,92.00,15
+TXN1976,CUS976,Gregory Vasquez,Premium,2024-04-10,14:25:00,PayPal,4680.00,USD,Furniture,Crate & Barrel,Completed,0,43400.00,Mobile,Fort Collins,0.98,50100,186,320.00,44
+TXN1977,CUS977,Sara Mills,Basic,2024-04-11,09:35:00,Debit Card,71.50,USD,Pharmacy,Rite Aid,Completed,0,590.00,Desktop,Palmdale,0.98,1600,7,22.00,4
+TXN1978,CUS978,Peter Graves,Premium,2024-04-11,20:10:00,Bank Transfer,7390.00,USD,Investment,Fidelity,Completed,0,67800.00,Mobile,Worcester,0.94,75600,282,460.00,75
+TXN1979,CUS979,Cynthia Kennedy,Standard,2024-04-12,13:45:00,Cryptocurrency,260.00,USD,Restaurant,Denny's,Completed,0,3600.00,Desktop,Orange,0.96,6200,29,78.00,13
+TXN1980,CUS980,Frederick Warren,Premium,2024-04-12,11:20:00,Wire Transfer,5870.00,USD,Retail,Costco,Completed,0,54300.00,Mobile,Fullerton,0.95,60900,226,365.00,56
+TXN1981,CUS981,Ruth Dixon,Standard,2024-04-13,17:15:00,Credit Card,590.00,USD,Clothing,Abercrombie,Completed,0,5300.00,Desktop,Warren,0.97,8200,41,106.00,19
+TXN1982,CUS982,Howard Snyder,Premium,2024-04-13,08:55:00,PayPal,4350.00,USD,Electronics,Samsung,Completed,0,40200.00,Mobile,Thornton,0.98,46700,181,310.00,43
+TXN1983,CUS983,Janet Cunningham,Basic,2024-04-14,16:30:00,Debit Card,44.50,USD,Entertainment,HBO Max,Completed,0,370.00,Desktop,Ontario,0.99,1200,5,15.00,3
+TXN1984,CUS984,Victor Bradley,Premium,2024-04-14,12:05:00,Bank Transfer,6780.00,USD,Travel,Hyatt,Completed,0,61200.00,Mobile,Escondido,0.95,68400,254,410.00,64
+TXN1985,CUS985,Carol Lane,Standard,2024-04-15,10:40:00,Cryptocurrency,820.00,USD,Furniture,Ashley Furniture,Failed,1,6800.00,Desktop,El Monte,0.92,10100,48,125.00,35
+TXN1986,CUS986,Jesse Andrews,Premium,2024-04-15,19:25:00,Wire Transfer,7560.00,USD,Investment,Robinhood,Completed,0,69800.00,Mobile,Riverside,0.94,77600,291,465.00,76
+TXN1987,CUS987,Katherine Ruiz,Standard,2024-04-16,14:50:00,Credit Card,380.00,USD,Grocery,WinCo,Completed,0,4300.00,Desktop,Brownsville,0.97,7400,36,96.00,16
+TXN1988,CUS988,Frank Harper,Premium,2024-04-16,09:35:00,PayPal,5240.00,USD,Electronics,Bose,Completed,0,48700.00,Mobile,Gainesville,0.96,55300,211,350.00,52
+TXN1989,CUS989,Helen Fox,Basic,2024-04-17,21:55:00,Debit Card,67.99,USD,Pharmacy,CVS,Completed,0,540.00,Desktop,Grand Prairie,0.98,1500,7,20.00,4
+TXN1990,CUS990,Raymond Riley,Premium,2024-04-17,15:20:00,Bank Transfer,6430.00,USD,Retail,Macys,Completed,0,59800.00,Mobile,Memphis,0.95,66700,242,395.00,60
+TXN1991,CUS991,Frances Carpenter,Standard,2024-04-18,12:30:00,Cryptocurrency,210.00,USD,Restaurant,Red Lobster,Completed,0,3200.00,Desktop,Hialeah,0.96,5800,27,74.00,11
+TXN1992,CUS992,Jerry Weaver,Premium,2024-04-18,08:45:00,Wire Transfer,7210.00,USD,Investment,Charles Schwab,Completed,0,66700.00,Mobile,Scottsdale,0.94,74500,278,445.00,72
+TXN1993,CUS993,Ruth Tucker,Standard,2024-04-19,18:15:00,Credit Card,470.00,USD,Clothing,Old Navy,Completed,0,4900.00,Desktop,Irvine,0.97,8000,39,103.00,18
+TXN1994,CUS994,Harold Freeman,Premium,2024-04-19,13:40:00,PayPal,4960.00,USD,Electronics,Dell,Completed,0,46200.00,Mobile,San Angelo,0.98,53400,195,335.00,47
+TXN1995,CUS995,Christine Wells,Basic,2024-04-20,11:05:00,Debit Card,39.99,USD,Coffee Shop,Starbucks,Completed,0,330.00,Desktop,Henderson,0.99,1100,4,14.00,2
+TXN1996,CUS996,Ralph Burns,Premium,2024-04-20,20:30:00,Bank Transfer,6940.00,USD,Travel,American Airlines,Completed,0,63400.00,Mobile,Thornton,0.95,70800,259,420.00,65
+TXN1997,CUS997,Gloria Coleman,Standard,2024-04-21,16:55:00,Cryptocurrency,680.00,USD,Furniture,West Elm,Pending,1,5900.00,Desktop,Clovis,0.91,8900,44,115.00,30
+TXN1998,CUS998,Billy Reid,Premium,2024-04-21,10:20:00,Wire Transfer,5870.00,USD,Investment,Vanguard,Completed,0,54300.00,Mobile,San Mateo,0.96,61200,232,375.00,57
+TXN1999,CUS999,Tammy Garrett,Standard,2024-04-22,14:35:00,Credit Card,350.00,USD,Grocery,Food Lion,Completed,0,4200.00,Desktop,Reno,0.97,7300,35,93.00,15
+TXN2000,CUS1000,Arthur Newman,Premium,2024-04-22,09:50:00,PayPal,4780.00,USD,Electronics,Lenovo,Completed,0,44500.00,Mobile,Lexington,0.98,51800,189,325.00,45
+TXN2001,CUS1001,Julie Oliver,Basic,2024-04-23,17:20:00,Debit Card,54.50,USD,Entertainment,Netflix,Completed,0,450.00,Desktop,Pasadena,0.98,1300,6,17.00,3
+TXN2002,CUS1002,Lawrence Kelley,Premium,2024-04-23,12:45:00,Bank Transfer,6320.00,USD,Retail,Kohl's,Completed,0,58900.00,Mobile,Portland,0.95,65800,241,390.00,59
+TXN2003,CUS1003,Katherine Patterson,Standard,2024-04-24,19:30:00,Cryptocurrency,240.00,USD,Restaurant,Chipotle,Completed,0,3500.00,Desktop,Cary,0.96,6200,28,79.00,12
+TXN2004,CUS1004,Wayne Burton,Premium,2024-04-24,08:55:00,Wire Transfer,7140.00,USD,Investment,Betterment,Completed,0,66700.00,Mobile,Simi Valley,0.94,74300,276,445.00,73
+TXN2005,CUS1005,Virginia Simpson,Standard,2024-04-25,15:10:00,Credit Card,590.00,USD,Clothing,Nike,Completed,0,5400.00,Desktop,Salinas,0.97,8600,42,110.00,20
+TXN2006,CUS1006,Keith Marshall,Premium,2024-04-25,11:35:00,PayPal,5030.00,USD,Electronics,HP,Completed,0,46800.00,Mobile,Orange,0.98,54200,203,335.00,48
+TXN2007,CUS1007,Judith Hayes,Basic,2024-04-26,20:45:00,Debit Card,29.99,USD,Pharmacy,Walgreens,Completed,0,280.00,Desktop,Fullerton,0.99,900,3,12.00,2
+TXN2008,CUS1008,Jeremy Boyd,Premium,2024-04-26,13:20:00,Bank Transfer,6650.00,USD,Travel,Marriott,Completed,0,61200.00,Mobile,Hampton,0.95,68400,251,410.00,63
+TXN2009,CUS1009,Beverly Mason,Standard,2024-04-27,09:40:00,Cryptocurrency,410.00,USD,Grocery,Publix,Failed,1,4400.00,Desktop,Warren,0.92,7600,39,100.00,27
+TXN2010,CUS1010,Roy Castillo,Premium,2024-04-27,17:55:00,Wire Transfer,7480.00,USD,Investment,ETrade,Completed,0,69800.00,Mobile,Thornton,0.94,77500,289,460.00,75
+TXN2011,CUS1011,Anna Mendoza,Standard,2024-04-28,14:30:00,Credit Card,320.00,USD,Furniture,IKEA,Completed,0,4000.00,Desktop,Ontario,0.97,7000,33,89.00,16
+TXN2012,CUS1012,Justin Webb,Premium,2024-04-28,10:15:00,PayPal,4560.00,USD,Retail,Nordstrom,Completed,0,42300.00,Mobile,Escondido,0.98,49500,178,310.00,44
+TXN2013,CUS1013,Doris Rogers,Basic,2024-04-29,18:40:00,Debit Card,78.99,USD,Entertainment,Spotify,Completed,0,610.00,Desktop,El Monte,0.98,1600,7,23.00,4
+TXN2014,CUS1014,Randy Watkins,Premium,2024-04-29,12:05:00,Bank Transfer,6180.00,USD,Electronics,Microsoft,Completed,0,57600.00,Mobile,Riverside,0.95,64700,234,385.00,59
+TXN2015,CUS1015,Phyllis Rose,Standard,2024-04-30,16:25:00,Cryptocurrency,520.00,USD,Restaurant,Outback,Completed,0,5100.00,Desktop,Brownsville,0.96,8200,40,105.00,19
+TXN2016,CUS1016,Carl Stewart,Premium,2024-04-30,09:10:00,Wire Transfer,7320.00,USD,Investment,Wealthfront,Completed,0,68700.00,Mobile,Gainesville,0.94,76500,281,450.00,72
+TXN2017,CUS1017,Paula Morris,Basic,2024-05-01,11:50:00,Debit Card,45.00,USD,Coffee Shop,Dunkin',Completed,0,380.00,Desktop,Grand Prairie,0.99,1200,5,15.00,3
+TXN2018,CUS1018,Arthur Murphy,Premium,2024-05-01,19:35:00,PayPal,4920.00,USD,Travel,United Airlines,Completed,0,45600.00,Mobile,Memphis,0.97,52800,197,335.00,47
+TXN2019,CUS1019,Teresa Cook,Standard,2024-05-02,14:55:00,Credit Card,670.00,USD,Grocery,Whole Foods,Completed,0,5800.00,Desktop,Hialeah,0.96,9100,45,118.00,21
+TXN2020,CUS1020,Gregory Rogers,Premium,2024-05-02,08:30:00,Bank Transfer,5740.00,USD,Electronics,Sony,Completed,0,53200.00,Mobile,Scottsdale,0.95,60100,223,360.00,55
+TXN2021,CUS1021,Sara Morgan,Basic,2024-05-03,21:15:00,Cryptocurrency,34.50,USD,Pharmacy,Rite Aid,Completed,0,300.00,Desktop,Irvine,0.99,1000,4,13.00,2
+TXN2022,CUS1022,Peter Cooper,Premium,2024-05-03,15:40:00,Wire Transfer,6910.00,USD,Investment,Fidelity,Completed,0,64300.00,Mobile,San Angelo,0.95,71900,264,425.00,67
+TXN2023,CUS1023,Cynthia Reed,Standard,2024-05-04,12:25:00,PayPal,280.00,USD,Clothing,Adidas,Pending,1,3700.00,Desktop,Henderson,0.92,6400,30,83.00,24
+TXN2024,CUS1024,Frederick Bailey,Premium,2024-05-04,09:50:00,Bank Transfer,5240.00,USD,Retail,Sam's Club,Completed,0,48700.00,Mobile,Thornton,0.98,55800,204,340.00,49
+TXN2025,CUS1025,Ruth Bell,Standard,2024-05-05,17:35:00,Credit Card,430.00,USD,Furniture,Pottery Barn,Completed,0,4700.00,Desktop,Clovis,0.97,7900,38,102.00,17
+TXN2026,CUS1026,Howard Gomez,Premium,2024-05-05,13:10:00,Cryptocurrency,6720.00,USD,Electronics,Bose,Completed,0,62300.00,Mobile,San Mateo,0.94,69800,253,410.00,64
+TXN2027,CUS1027,Janet Kelly,Basic,2024-05-06,10:45:00,Debit Card,67.99,USD,Entertainment,Hulu,Completed,0,560.00,Desktop,Reno,0.98,1500,7,21.00,4
+TXN2028,CUS1028,Victor Howard,Premium,2024-05-06,19:20:00,Wire Transfer,5890.00,USD,Travel,Hilton Hotels,Completed,0,54500.00,Mobile,Lexington,0.96,61700,235,365.00,56
+TXN2029,CUS1029,Carol Ward,Standard,2024-05-07,15:55:00,PayPal,360.00,USD,Grocery,Safeway,Completed,0,4300.00,Desktop,Pasadena,0.97,7400,35,95.00,15
+TXN2030,CUS1030,Jesse Cox,Premium,2024-05-07,11:30:00,Bank Transfer,6340.00,USD,Investment,Robinhood,Completed,0,58900.00,Mobile,Portland,0.95,66300,245,395.00,60
+TXN2031,CUS1031,Katherine Diaz,Standard,2024-05-08,20:05:00,Credit Card,580.00,USD,Restaurant,Red Robin,Failed,1,5300.00,Desktop,Cary,0.91,8800,42,114.00,31
+TXN2032,CUS1032,Frank Richardson,Premium,2024-05-08,14:40:00,Cryptocurrency,7210.00,USD,Electronics,Apple Store,Completed,0,66700.00,Mobile,Simi Valley,0.94,74500,278,440.00,73
+TXN2033,CUS1033,Helen Cox,Basic,2024-05-09,09:15:00,Debit Card,44.99,USD,Pharmacy,CVS,Completed,0,380.00,Desktop,Salinas,0.99,1200,5,16.00,3
+TXN2034,CUS1034,Raymond Wood,Premium,2024-05-09,17:50:00,Wire Transfer,6950.00,USD,Retail,Costco,Completed,0,64500.00,Mobile,Orange,0.95,72200,261,420.00,66
+TXN2035,CUS1035,Frances Ward,Standard,2024-05-10,13:25:00,PayPal,290.00,USD,Clothing,Gap,Completed,0,3800.00,Desktop,Fullerton,0.96,6600,31,85.00,13
+TXN2036,CUS1036,Jerry James,Premium,2024-05-10,10:50:00,Bank Transfer,5670.00,USD,Investment,Vanguard,Completed,0,52300.00,Mobile,Hampton,0.97,59600,218,350.00,53
+TXN2037,CUS1037,Ruth Reed,Basic,2024-05-11,18:15:00,Cryptocurrency,32.50,USD,Coffee Shop,Peet's,Completed,0,290.00,Desktop,Warren,0.99,900,3,11.00,2
+TXN2038,CUS1038,Harold Fisher,Premium,2024-05-11,12:40:00,Wire Transfer,7420.00,USD,Electronics,Dell,Completed,0,68700.00,Mobile,Thornton,0.94,76800,284,455.00,75
+TXN2039,CUS1039,Christine Ellis,Standard,2024-05-12,16:05:00,Credit Card,470.00,USD,Furniture,Restoration Hardware,Completed,0,5000.00,Desktop,Ontario,0.97,8200,40,107.00,19
+TXN2040,CUS1040,Ralph Harrison,Premium,2024-05-12,09:30:00,PayPal,5030.00,USD,Travel,Expedia,Completed,0,46800.00,Mobile,Escondido,0.98,54200,201,330.00,47
+TXN2041,CUS1041,Gloria Gibson,Standard,2024-05-13,21:20:00,Bank Transfer,340.00,USD,Grocery,Albertsons,Completed,0,4100.00,Desktop,El Monte,0.96,7200,34,94.00,16
+TXN2042,CUS1042,Billy Mills,Premium,2024-05-13,15:45:00,Cryptocurrency,6150.00,USD,Investment,Charles Schwab,Completed,0,57800.00,Mobile,Riverside,0.95,64900,238,385.00,59
+TXN2043,CUS1043,Tammy Nichols,Basic,2024-05-14,11:10:00,Debit Card,56.99,USD,Entertainment,Paramount+,Completed,0,490.00,Desktop,Brownsville,0.98,1400,6,19.00,3
+TXN2044,CUS1044,Arthur Hunt,Premium,2024-05-14,19:35:00,Wire Transfer,6840.00,USD,Electronics,Lenovo,Completed,0,63400.00,Mobile,Gainesville,0.95,71100,255,415.00,64
+TXN2045,CUS1045,Julie Palmer,Standard,2024-05-15,14:55:00,PayPal,590.00,USD,Retail,Amazon,Completed,0,5500.00,Desktop,Grand Prairie,0.97,8800,43,113.00,20
+TXN2046,CUS1046,Lawrence Robertson,Premium,2024-05-15,08:20:00,Bank Transfer,5430.00,USD,Investment,Betterment,Completed,0,50900.00,Mobile,Memphis,0.98,58200,210,345.00,51
+TXN2047,CUS1047,Katherine Freeman,Standard,2024-05-16,17:45:00,Credit Card,420.00,USD,Clothing,H&M,Pending,1,4500.00,Desktop,Hialeah,0.92,7700,37,100.00,25
+TXN2048,CUS1048,Wayne Wells,Premium,2024-05-16,13:10:00,Cryptocurrency,6980.00,USD,Electronics,Samsung,Completed,0,65400.00,Mobile,Scottsdale,0.94,72800,263,425.00,69
+TXN2049,CUS1049,Virginia Webb,Basic,2024-05-17,10:35:00,Debit Card,78.50,USD,Pharmacy,Rite Aid,Completed,0,620.00,Desktop,Irvine,0.98,1600,7,23.00,4
+TXN2050,CUS1050,Keith Simpson,Premium,2024-05-17,18:50:00,Wire Transfer,7210.00,USD,Travel,Delta Airlines,Completed,0,67800.00,Mobile,San Angelo,0.95,75400,276,445.00,71
+TXN2051,CUS1051,Judith Stevens,Standard,2024-05-18,15:15:00,PayPal,310.00,USD,Grocery,Kroger,Completed,0,3900.00,Desktop,Henderson,0.96,6900,32,88.00,14
+TXN2052,CUS1052,Jeremy Walsh,Premium,2024-05-18,09:40:00,Bank Transfer,5860.00,USD,Investment,ETrade,Completed,0,54500.00,Mobile,Thornton,0.97,62300,228,365.00,56
+TXN2053,CUS1053,Beverly Tucker,Basic,2024-05-19,20:25:00,Cryptocurrency,29.99,USD,Coffee Shop,Starbucks,Completed,0,270.00,Desktop,Clovis,0.99,900,3,12.00,2
+TXN2054,CUS1054,Roy Williamson,Premium,2024-05-19,14:55:00,Wire Transfer,6590.00,USD,Electronics,Adobe,Completed,0,61200.00,Mobile,San Mateo,0.95,68800,248,405.00,62
+TXN2055,CUS1055,Anna Freeman,Standard,2024-05-20,12:30:00,Credit Card,570.00,USD,Furniture,Wayfair,Completed,0,5300.00,Desktop,Reno,0.97,8500,41,110.00,19
+TXN2056,CUS1056,Justin Wagner,Premium,2024-05-20,08:45:00,PayPal,5140.00,USD,Retail,Macys,Completed,0,47800.00,Mobile,Lexington,0.98,55100,206,335.00,48
+TXN2057,CUS1057,Doris Hunter,Basic,2024-05-21,17:10:00,Debit Card,67.00,USD,Entertainment,Netflix,Completed,0,550.00,Desktop,Pasadena,0.98,1500,6,20.00,4
+TXN2058,CUS1058,Randy Romero,Premium,2024-05-21,11:35:00,Bank Transfer,6020.00,USD,Travel,Southwest Airlines,Completed,0,56700.00,Mobile,Portland,0.96,64100,234,375.00,58
+TXN2059,CUS1059,Phyllis Hicks,Standard,2024-05-22,19:50:00,Cryptocurrency,430.00,USD,Restaurant,Chick-fil-A,Failed,1,4600.00,Desktop,Cary,0.91,8000,39,105.00,27
+TXN2060,CUS1060,Carl Holmes,Premium,2024-05-22,16:15:00,Wire Transfer,7340.00,USD,Investment,Wealthfront,Completed,0,68700.00,Mobile,Simi Valley,0.94,76600,281,450.00,74
+TXN2061,CUS1061,Paula Morris,Standard,2024-05-23,13:40:00,PayPal,380.00,USD,Grocery,Trader Joe's,Completed,0,4300.00,Desktop,Salinas,0.97,7400,35,96.00,16
+TXN2062,CUS1062,Arthur Murphy,Premium,2024-05-23,09:05:00,Bank Transfer,5670.00,USD,Electronics,Bose,Completed,0,53200.00,Mobile,Orange,0.98,60700,221,350.00,53
+TXN2063,CUS1063,Teresa Cook,Basic,2024-05-24,18:30:00,Debit Card,45.50,USD,Pharmacy,Walgreens,Completed,0,380.00,Desktop,Fullerton,0.99,1200,5,16.00,3
+TXN2064,CUS1064,Gregory Rogers,Premium,2024-05-24,12:55:00,Cryptocurrency,6890.00,USD,Investment,Fidelity,Completed,0,64300.00,Mobile,Hampton,0.95,71900,263,420.00,67
+TXN2065,CUS1065,Sara Morgan,Standard,2024-05-25,10:20:00,Wire Transfer,290.00,USD,Clothing,Zara,Completed,0,3700.00,Desktop,Warren,0.96,6600,30,84.00,13
+TXN2066,CUS1066,Peter Cooper,Premium,2024-05-25,17:45:00,Credit Card,5420.00,USD,Retail,Target,Completed,0,50900.00,Mobile,Thornton,0.97,58400,214,345.00,51
+TXN2067,CUS1067,Cynthia Reed,Standard,2024-05-26,14:10:00,PayPal,520.00,USD,Furniture,Ashley Furniture,Completed,0,5100.00,Desktop,Ontario,0.96,8300,42,108.00,18
+TXN2068,CUS1068,Frederick Bailey,Premium,2024-05-26,08:35:00,Bank Transfer,6250.00,USD,Electronics,Microsoft,Completed,0,58700.00,Mobile,Escondido,0.95,66100,239,385.00,59
+TXN2069,CUS1069,Ruth Bell,Basic,2024-05-27,19:55:00,Cryptocurrency,33.99,USD,Entertainment,Disney+,Completed,0,300.00,Desktop,El Monte,0.99,1000,4,13.00,2
+TXN2070,CUS1070,Howard Gomez,Premium,2024-05-27,15:20:00,Wire Transfer,7040.00,USD,Travel,Hyatt,Completed,0,65600.00,Mobile,Riverside,0.94,73400,271,430.00,70
+TXN2071,CUS1071,Janet Kelly,Standard,2024-05-28,11:45:00,Debit Card,410.00,USD,Grocery,Publix,Completed,0,4400.00,Desktop,Brownsville,0.97,7600,37,99.00,17
+TXN2072,CUS1072,Victor Howard,Premium,2024-05-28,09:10:00,Credit Card,5980.00,USD,Investment,Robinhood,Completed,0,55600.00,Mobile,Gainesville,0.98,63500,228,370.00,56
+TXN2073,CUS1073,Carol Ward,Standard,2024-05-29,16:35:00,PayPal,340.00,USD,Restaurant,Olive Garden,Completed,0,4100.00,Desktop,Grand Prairie,0.96,7200,34,93.00,15
+TXN2074,CUS1074,Jesse Cox,Premium,2024-05-29,12:00:00,Bank Transfer,6710.00,USD,Electronics,Apple Store,Completed,0,62300.00,Mobile,Memphis,0.95,69900,251,410.00,63
+TXN2075,CUS1075,Katherine Diaz,Standard,2024-05-30,20:25:00,Cryptocurrency,570.00,USD,Furniture,IKEA,Pending,1,5400.00,Desktop,Hialeah,0.91,8900,44,116.00,29
+TXN2076,CUS1076,Frank Richardson,Premium,2024-05-30,14:50:00,Wire Transfer,7230.00,USD,Investment,Vanguard,Completed,0,67800.00,Mobile,Scottsdale,0.94,75600,277,445.00,72
+TXN2077,CUS1077,Helen Cox,Standard,2024-05-31,10:15:00,Debit Card,290.00,USD,Clothing,Nike,Completed,0,3800.00,Desktop,Irvine,0.97,6700,31,87.00,13
+TXN2078,CUS1078,Raymond Wood,Premium,2024-05-31,17:40:00,Credit Card,5340.00,USD,Retail,Costco,Completed,0,49800.00,Mobile,San Angelo,0.98,57400,208,340.00,50
+TXN2079,CUS1079,Frances Ward,Basic,2024-06-01,13:05:00,PayPal,67.99,USD,Pharmacy,CVS,Completed,0,570.00,Desktop,Henderson,0.98,1500,6,21.00,4
+TXN2080,CUS1080,Jerry James,Premium,2024-06-01,09:30:00,Bank Transfer,6450.00,USD,Electronics,Sony,Completed,0,60100.00,Mobile,Thornton,0.95,67700,245,400.00,61
+TXN2081,CUS1081,Ruth Reed,Standard,2024-06-02,18:55:00,Cryptocurrency,460.00,USD,Grocery,Whole Foods,Completed,0,4900.00,Desktop,Clovis,0.96,8100,39,105.00,18
+TXN2082,CUS1082,Harold Fisher,Premium,2024-06-02,15:20:00,Wire Transfer,7120.00,USD,Travel,American Airlines,Completed,0,66700.00,Mobile,San Mateo,0.95,74500,267,435.00,68
+TXN2083,CUS1083,Christine Ellis,Basic,2024-06-03,12:45:00,Debit Card,45.00,USD,Coffee Shop,Dunkin',Completed,0,390.00,Desktop,Reno,0.99,1200,5,16.00,3
+TXN2084,CUS1084,Ralph Harrison,Premium,2024-06-03,08:10:00,Credit Card,5830.00,USD,Investment,Charles Schwab,Completed,0,54300.00,Mobile,Lexington,0.97,62200,225,360.00,55
+TXN2085,CUS1085,Gloria Gibson,Standard,2024-06-04,16:35:00,PayPal,380.00,USD,Furniture,West Elm,Completed,0,4300.00,Desktop,Pasadena,0.96,7500,36,98.00,16
+TXN2086,CUS1086,Billy Mills,Premium,2024-06-04,11:00:00,Bank Transfer,6540.00,USD,Electronics,Dell,Completed,0,60900.00,Mobile,Portland,0.95,68600,246,405.00,62
+TXN2087,CUS1087,Tammy Nichols,Basic,2024-06-05,19:25:00,Cryptocurrency,34.99,USD,Entertainment,Spotify,Completed,0,310.00,Desktop,Cary,0.99,1000,4,13.00,2
+TXN2088,CUS1088,Arthur Hunt,Premium,2024-06-05,14:50:00,Wire Transfer,6980.00,USD,Retail,Home Depot,Completed,0,65400.00,Mobile,Simi Valley,0.94,73100,269,425.00,69
+TXN2089,CUS1089,Julie Palmer,Standard,2024-06-06,10:15:00,Debit Card,520.00,USD,Grocery,Albertsons,Failed,1,5200.00,Desktop,Salinas,0.92,8700,44,113.00,27
+TXN2090,CUS1090,Lawrence Robertson,Premium,2024-06-06,17:40:00,Credit Card,5670.00,USD,Investment,Betterment,Completed,0,53200.00,Mobile,Orange,0.98,60900,218,350.00,53
+TXN2091,CUS1091,Katherine Freeman,Standard,2024-06-07,13:05:00,PayPal,430.00,USD,Clothing,Old Navy,Completed,0,4700.00,Desktop,Fullerton,0.97,8000,38,104.00,17
+TXN2092,CUS1092,Wayne Wells,Premium,2024-06-07,09:30:00,Bank Transfer,6320.00,USD,Electronics,Lenovo,Completed,0,58900.00,Mobile,Hampton,0.96,66500,241,390.00,59
+TXN2093,CUS1093,Virginia Webb,Basic,2024-06-08,20:55:00,Cryptocurrency,78.99,USD,Pharmacy,Rite Aid,Completed,0,640.00,Desktop,Warren,0.98,1700,7,24.00,4
+TXN2094,CUS1094,Keith Simpson,Premium,2024-06-08,16:20:00,Wire Transfer,7150.00,USD,Travel,Marriott,Completed,0,67800.00,Mobile,Thornton,0.94,75600,274,440.00,71
+TXN2095,CUS1095,Judith Stevens,Standard,2024-06-09,12:45:00,Debit Card,350.00,USD,Restaurant,Denny's,Completed,0,4200.00,Desktop,Ontario,0.96,7300,34,95.00,15
+TXN2096,CUS1096,Jeremy Walsh,Premium,2024-06-09,08:10:00,Credit Card,5430.00,USD,Investment,ETrade,Completed,0,50900.00,Mobile,Escondido,0.97,58600,215,340.00,51
+TXN2097,CUS1097,Beverly Tucker,Basic,2024-06-10,17:35:00,PayPal,45.99,USD,Grocery,Trader Joe's,Completed,0,400.00,Desktop,El Monte,0.99,1300,6,17.00,3
+TXN2098,CUS1098,Roy Williamson,Premium,2024-06-10,14:00:00,Bank Transfer,6870.00,USD,Electronics,HP,Completed,0,64500.00,Mobile,Riverside,0.95,72300,258,420.00,65
+TXN2099,CUS1099,Anna Freeman,Standard,2024-06-11,10:25:00,Cryptocurrency,590.00,USD,Furniture,Pottery Barn,Completed,0,5600.00,Desktop,Brownsville,0.96,9200,46,120.00,20
+TXN2100,CUS1100,Justin Wagner,Premium,2024-06-11,18:50:00,Wire Transfer,7340.00,USD,Retail,Nordstrom,Completed,0,69800.00,Mobile,Gainesville,0.94,77600,283,450.00,73
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

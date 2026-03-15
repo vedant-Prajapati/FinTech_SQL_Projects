@@ -1,0 +1,201 @@
+transaction_id,user_id,amount,payment_method,transaction_status,city,merchant_category,transaction_date
+1,1081,565.54,Debit Card,Success,Delhi,Electronics,22-02-2024
+2,1086,3705.93,Wallet,Success,Pune,Travel,17-01-2024
+3,1003,477.54,Credit Card,Pending,Pune,Groceries,14-10-2024
+4,1025,3582.94,Wallet,Failed,Delhi,Travel,28-10-2024
+5,1035,4049.06,UPI,Success,Chennai,Travel,23-06-2024
+6,1035,785.84,Debit Card,Success,Mumbai,Travel,19-02-2024
+7,1045,4239,Wallet,Failed,Mumbai,Shopping,23-08-2024
+8,1068,632.88,Net Banking,Success,Pune,Food,17-11-2024
+9,1079,4428.4,Debit Card,Pending,Delhi,Shopping,05-02-2024
+10,1005,3309.7,Debit Card,Success,Delhi,Groceries,13-07-2024
+11,1035,2272.52,Debit Card,Success,Bangalore,Food,17-04-2024
+12,1085,1342.22,UPI,Pending,Chennai,Electronics,30-09-2024
+13,1093,1231.61,Net Banking,Failed,Bangalore,Shopping,18-12-2024
+14,1071,1105.88,Debit Card,Success,Delhi,Groceries,10-06-2024
+15,1051,1346.03,Credit Card,Pending,Chennai,Food,18-04-2024
+16,1083,2501.16,Net Banking,Success,Bangalore,Electronics,06-05-2024
+17,1095,2811.23,Debit Card,Pending,Pune,Travel,25-10-2024
+18,1051,1816.36,Credit Card,Pending,Hyderabad,Groceries,25-01-2024
+19,1014,772.68,Credit Card,Pending,Hyderabad,Utilities,02-02-2024
+20,1049,1914.28,Net Banking,Pending,Bangalore,Utilities,06-01-2024
+21,1087,3606.4,Wallet,Failed,Chennai,Food,27-02-2024
+22,1037,2179.48,Net Banking,Success,Chennai,Shopping,14-05-2024
+23,1064,3812.19,Wallet,Success,Chennai,Food,23-11-2024
+24,1064,3048.76,Credit Card,Failed,Delhi,Utilities,28-09-2024
+25,1000,2998.73,Net Banking,Success,Mumbai,Food,06-06-2024
+26,1030,299.05,Wallet,Success,Mumbai,Shopping,05-09-2024
+27,1008,4890.14,Wallet,Success,Delhi,Shopping,31-08-2024
+28,1070,833.98,Wallet,Pending,Hyderabad,Electronics,03-10-2024
+29,1096,3652.36,Credit Card,Pending,Bangalore,Travel,09-12-2024
+30,1083,1873.37,Wallet,Failed,Mumbai,Electronics,25-04-2024
+31,1008,1697.05,Wallet,Pending,Delhi,Utilities,22-04-2024
+32,1000,364.26,UPI,Success,Mumbai,Groceries,18-06-2024
+33,1009,2575.64,Debit Card,Pending,Hyderabad,Electronics,03-10-2024
+34,1016,3619.53,Wallet,Pending,Hyderabad,Electronics,30-08-2024
+35,1052,960.15,UPI,Pending,Hyderabad,Food,04-08-2024
+36,1052,2340.45,UPI,Pending,Chennai,Shopping,20-02-2024
+37,1007,2019.08,Debit Card,Success,Delhi,Electronics,07-04-2024
+38,1068,2248.58,Net Banking,Success,Bangalore,Travel,07-05-2024
+39,1009,2221.22,Wallet,Success,Mumbai,Shopping,03-10-2024
+40,1001,4845.29,Credit Card,Success,Hyderabad,Travel,03-09-2024
+41,1027,4324.61,UPI,Success,Hyderabad,Groceries,18-07-2024
+42,1033,4633.33,Net Banking,Failed,Hyderabad,Shopping,11-10-2024
+43,1084,3594.86,Credit Card,Success,Bangalore,Electronics,30-01-2024
+44,1074,3681.33,UPI,Pending,Bangalore,Groceries,26-01-2024
+45,1074,2389.17,Wallet,Success,Mumbai,Utilities,11-02-2024
+46,1023,351.92,UPI,Pending,Delhi,Travel,02-03-2024
+47,1072,1238.61,Wallet,Success,Pune,Groceries,02-08-2024
+48,1084,2922.52,Wallet,Failed,Bangalore,Electronics,08-12-2024
+49,1091,1577.78,Debit Card,Failed,Delhi,Shopping,26-11-2024
+50,1038,2291.55,UPI,Success,Hyderabad,Utilities,15-10-2024
+51,1012,375.57,Credit Card,Pending,Bangalore,Electronics,27-06-2024
+52,1008,4397.56,Debit Card,Failed,Delhi,Travel,05-10-2024
+53,1090,1519.56,Wallet,Success,Chennai,Utilities,02-06-2024
+54,1084,526.9,Credit Card,Failed,Mumbai,Groceries,10-10-2024
+55,1019,1369.02,Wallet,Success,Chennai,Food,14-04-2024
+56,1087,3174.85,Debit Card,Pending,Hyderabad,Food,27-01-2024
+57,1011,3175.08,Debit Card,Success,Mumbai,Food,07-03-2024
+58,1081,4899.19,Credit Card,Pending,Hyderabad,Utilities,27-12-2024
+59,1054,2808.93,UPI,Success,Chennai,Electronics,06-10-2024
+60,1004,4174.63,Wallet,Pending,Delhi,Travel,06-03-2024
+61,1005,1548.21,UPI,Failed,Delhi,Shopping,07-05-2024
+62,1085,522.94,Wallet,Failed,Pune,Shopping,20-03-2024
+63,1030,4324.38,Credit Card,Failed,Mumbai,Electronics,19-06-2024
+64,1100,4654.77,Credit Card,Failed,Delhi,Shopping,25-02-2024
+65,1048,4362.11,Net Banking,Success,Delhi,Travel,28-06-2024
+66,1039,4104.48,Credit Card,Success,Mumbai,Shopping,08-04-2024
+67,1051,1648.03,UPI,Failed,Bangalore,Shopping,17-09-2024
+68,1051,3400.8,Wallet,Failed,Mumbai,Groceries,13-05-2024
+69,1022,2907.14,Debit Card,Success,Mumbai,Utilities,10-08-2024
+70,1044,3645.44,Debit Card,Failed,Pune,Utilities,29-02-2024
+71,1049,4498.53,Credit Card,Failed,Mumbai,Shopping,11-08-2024
+72,1000,2604.4,Wallet,Pending,Chennai,Shopping,09-12-2024
+73,1025,1827.47,UPI,Pending,Bangalore,Utilities,09-06-2024
+74,1084,4241.6,Debit Card,Pending,Bangalore,Shopping,28-07-2024
+75,1041,2017.98,Debit Card,Pending,Delhi,Electronics,03-08-2024
+76,1085,4702.41,Credit Card,Pending,Pune,Food,26-07-2024
+77,1070,4170.29,Debit Card,Failed,Delhi,Travel,23-10-2024
+78,1077,3276.98,Net Banking,Failed,Hyderabad,Shopping,19-04-2024
+79,1065,2371.2,Credit Card,Pending,Mumbai,Food,20-09-2024
+80,1084,3168.37,Debit Card,Success,Delhi,Shopping,07-06-2024
+81,1028,4034.75,Credit Card,Success,Mumbai,Electronics,31-08-2024
+82,1078,4250.19,UPI,Failed,Hyderabad,Shopping,21-10-2024
+83,1024,3594.55,Net Banking,Failed,Hyderabad,Electronics,16-03-2024
+84,1083,3441.24,UPI,Failed,Delhi,Electronics,22-12-2024
+85,1066,2328.1,Wallet,Success,Mumbai,Travel,09-03-2024
+86,1059,3341.21,Wallet,Pending,Bangalore,Travel,09-11-2024
+87,1092,4461.18,Net Banking,Pending,Hyderabad,Electronics,31-08-2024
+88,1057,1303.37,Credit Card,Pending,Bangalore,Utilities,05-09-2024
+89,1080,1203.84,Net Banking,Success,Chennai,Food,30-04-2024
+90,1034,1685.88,Wallet,Success,Delhi,Electronics,28-04-2024
+91,1049,3472.81,Credit Card,Success,Hyderabad,Travel,18-06-2024
+92,1069,2334.96,UPI,Success,Hyderabad,Travel,26-10-2024
+93,1089,107.46,Wallet,Failed,Hyderabad,Groceries,29-06-2024
+94,1038,3769.84,Net Banking,Pending,Chennai,Shopping,06-10-2024
+95,1077,4490.08,Net Banking,Success,Bangalore,Travel,05-09-2024
+96,1003,1950.4,Net Banking,Pending,Delhi,Travel,06-03-2024
+97,1079,2675.28,Net Banking,Pending,Pune,Shopping,14-01-2024
+98,1010,3217.32,Credit Card,Failed,Delhi,Groceries,13-05-2024
+99,1048,1643.49,Net Banking,Failed,Bangalore,Travel,22-05-2024
+100,1096,4756.51,Net Banking,Failed,Mumbai,Travel,10-01-2024
+101,1095,2701.7,Debit Card,Success,Chennai,Groceries,29-11-2024
+102,1005,3773.62,Credit Card,Success,Mumbai,Utilities,19-03-2024
+103,1030,639.84,UPI,Pending,Delhi,Travel,24-12-2024
+104,1032,3836.82,Credit Card,Pending,Pune,Shopping,28-02-2024
+105,1099,4098.31,Debit Card,Success,Pune,Groceries,08-06-2024
+106,1073,3389.96,Net Banking,Failed,Chennai,Electronics,08-02-2024
+107,1075,3456.17,Credit Card,Success,Chennai,Food,16-12-2024
+108,1076,4029.58,Wallet,Success,Bangalore,Utilities,07-08-2024
+109,1084,1859.15,Wallet,Pending,Bangalore,Groceries,03-08-2024
+110,1062,536.64,Debit Card,Pending,Hyderabad,Shopping,19-03-2024
+111,1055,888.92,Wallet,Pending,Bangalore,Utilities,02-10-2024
+112,1099,2422.65,Net Banking,Pending,Pune,Food,14-06-2024
+113,1031,4155.35,UPI,Failed,Hyderabad,Electronics,25-08-2024
+114,1072,3055.56,Net Banking,Failed,Mumbai,Travel,15-06-2024
+115,1023,2442.87,Debit Card,Failed,Bangalore,Food,01-11-2024
+116,1089,4401.74,Wallet,Success,Pune,Electronics,13-02-2024
+117,1030,3603.17,Net Banking,Pending,Delhi,Shopping,31-08-2024
+118,1082,3562.09,Net Banking,Success,Mumbai,Food,23-04-2024
+119,1051,3462.02,Debit Card,Pending,Pune,Food,30-08-2024
+120,1070,2659.3,Net Banking,Pending,Pune,Food,29-06-2024
+121,1089,2274.19,Debit Card,Failed,Delhi,Groceries,08-04-2024
+122,1040,606.58,Wallet,Pending,Delhi,Electronics,20-04-2024
+123,1094,2426.15,Wallet,Pending,Pune,Food,21-02-2024
+124,1024,1488.27,Debit Card,Success,Bangalore,Groceries,28-12-2024
+125,1068,641.65,UPI,Success,Pune,Food,23-12-2024
+126,1016,3192.97,Net Banking,Success,Mumbai,Utilities,25-05-2024
+127,1060,2398.78,Debit Card,Success,Mumbai,Food,01-09-2024
+128,1014,4112.36,Net Banking,Failed,Mumbai,Utilities,18-11-2024
+129,1087,277.51,Credit Card,Pending,Bangalore,Groceries,07-05-2024
+130,1015,2794.78,Net Banking,Pending,Pune,Utilities,25-04-2024
+131,1099,2617.64,Net Banking,Failed,Bangalore,Utilities,07-08-2024
+132,1039,2847.46,UPI,Pending,Chennai,Groceries,16-04-2024
+133,1080,1063.02,UPI,Success,Delhi,Electronics,09-10-2024
+134,1009,791.1,Net Banking,Failed,Chennai,Utilities,28-08-2024
+135,1037,172.87,Debit Card,Pending,Bangalore,Shopping,20-08-2024
+136,1009,3440.05,Debit Card,Pending,Pune,Shopping,11-04-2024
+137,1054,582.73,Credit Card,Pending,Delhi,Food,13-03-2024
+138,1009,307.59,Debit Card,Pending,Chennai,Utilities,27-05-2024
+139,1056,630.52,Debit Card,Pending,Hyderabad,Food,13-09-2024
+140,1069,2474.04,UPI,Pending,Mumbai,Travel,14-06-2024
+141,1077,1259.34,UPI,Success,Chennai,Utilities,27-10-2024
+142,1002,4997.87,Debit Card,Pending,Mumbai,Electronics,28-08-2024
+143,1066,3261.03,Debit Card,Success,Pune,Travel,21-11-2024
+144,1062,4845.59,Net Banking,Failed,Hyderabad,Food,13-06-2024
+145,1085,531.95,Credit Card,Failed,Hyderabad,Shopping,10-09-2024
+146,1036,3316.29,Net Banking,Pending,Mumbai,Travel,15-02-2024
+147,1040,1269.47,UPI,Failed,Pune,Groceries,02-12-2024
+148,1069,2315.26,UPI,Success,Pune,Food,14-11-2024
+149,1096,2497.48,Net Banking,Success,Delhi,Food,08-10-2024
+150,1016,4639.09,Net Banking,Pending,Hyderabad,Groceries,15-01-2024
+151,1080,3048.27,Credit Card,Pending,Delhi,Food,09-10-2024
+152,1001,2765.73,UPI,Success,Mumbai,Travel,01-03-2024
+153,1082,4162.39,Net Banking,Pending,Bangalore,Utilities,27-12-2024
+154,1034,2083.3,Net Banking,Failed,Delhi,Travel,09-10-2024
+155,1018,1924.09,Wallet,Pending,Chennai,Electronics,05-02-2024
+156,1035,3865.65,Net Banking,Failed,Pune,Food,02-01-2024
+157,1036,3632.99,Wallet,Pending,Chennai,Travel,17-03-2024
+158,1057,2697.52,Debit Card,Failed,Pune,Utilities,12-07-2024
+159,1058,4664.93,Credit Card,Pending,Delhi,Utilities,15-07-2024
+160,1029,4281.5,Net Banking,Success,Bangalore,Shopping,30-08-2024
+161,1090,4568.02,Net Banking,Failed,Chennai,Shopping,18-03-2024
+162,1063,4824.47,Credit Card,Pending,Pune,Food,21-02-2024
+163,1056,507.56,Net Banking,Success,Chennai,Electronics,28-07-2024
+164,1083,4850.08,UPI,Failed,Bangalore,Food,15-11-2024
+165,1088,1993.44,UPI,Failed,Chennai,Utilities,13-07-2024
+166,1040,3137.73,Net Banking,Pending,Mumbai,Utilities,05-02-2024
+167,1030,3159.49,Debit Card,Success,Chennai,Groceries,10-08-2024
+168,1012,3804.24,UPI,Failed,Delhi,Shopping,02-06-2024
+169,1003,239.49,UPI,Failed,Bangalore,Food,08-08-2024
+170,1018,1228.55,Net Banking,Pending,Chennai,Electronics,28-03-2024
+171,1022,404.05,Net Banking,Pending,Chennai,Electronics,11-09-2024
+172,1074,724.16,Net Banking,Pending,Bangalore,Travel,10-05-2024
+173,1085,56.89,Net Banking,Failed,Chennai,Utilities,21-03-2024
+174,1009,2214.23,Debit Card,Pending,Bangalore,Shopping,05-08-2024
+175,1088,1257.99,Debit Card,Success,Hyderabad,Travel,24-02-2024
+176,1030,1913.01,Debit Card,Pending,Bangalore,Shopping,31-05-2024
+177,1002,4889.94,Net Banking,Failed,Mumbai,Utilities,17-12-2024
+178,1099,3725.9,UPI,Pending,Chennai,Travel,26-05-2024
+179,1099,3996.31,Wallet,Failed,Delhi,Shopping,07-04-2024
+180,1079,1260.63,Credit Card,Pending,Mumbai,Shopping,26-11-2024
+181,1005,1551.58,Net Banking,Success,Pune,Food,08-03-2024
+182,1011,4549.04,Debit Card,Pending,Hyderabad,Electronics,12-04-2024
+183,1016,3934.7,Debit Card,Pending,Pune,Food,25-03-2024
+184,1032,4571.1,Net Banking,Failed,Chennai,Food,28-02-2024
+185,1059,4814.84,Credit Card,Success,Chennai,Shopping,11-12-2024
+186,1050,4836.68,Wallet,Failed,Mumbai,Travel,08-01-2024
+187,1033,2687.5,Net Banking,Failed,Chennai,Shopping,10-12-2024
+188,1033,2926.95,Debit Card,Success,Chennai,Electronics,29-08-2024
+189,1003,3101.54,Wallet,Failed,Pune,Electronics,27-11-2024
+190,1008,3180.67,Net Banking,Pending,Bangalore,Shopping,28-07-2024
+191,1014,707.49,UPI,Failed,Hyderabad,Groceries,19-02-2024
+192,1030,4437.42,Credit Card,Failed,Hyderabad,Food,09-12-2024
+193,1095,3485.46,Wallet,Failed,Pune,Shopping,20-03-2024
+194,1053,3278.06,Net Banking,Pending,Hyderabad,Food,17-01-2024
+195,1088,1858.94,Net Banking,Failed,Delhi,Food,20-02-2024
+196,1087,1843,Debit Card,Success,Hyderabad,Food,07-04-2024
+197,1015,4745.56,Net Banking,Success,Chennai,Electronics,24-11-2024
+198,1081,2989.76,UPI,Success,Bangalore,Electronics,05-03-2024
+199,1100,2827.24,UPI,Pending,Delhi,Utilities,20-04-2024
+200,1029,1649.51,Credit Card,Pending,Mumbai,Food,15-03-2024
